@@ -1,0 +1,6166 @@
+[
+    {
+        "original": "NCCCc1c[nH]c(N)n1",
+        "predicted": "NCCCC1n[nH]cnN)n1"
+    },
+    {
+        "original": "NCc1ccccc1-c1ccccc1",
+        "predicted": "NCC1ccccc1Cc1ccccc1"
+    },
+    {
+        "original": "CCN1CCN=C1Cc1cccnc1",
+        "predicted": "CCC1CCC=C1Cc1cccnc1"
+    },
+    {
+        "original": "NCCSSCC=CCSSCCN",
+        "predicted": "CCCCCCCCC"
+    },
+    {
+        "original": "CC(=O)NCCc1ccccc1Cl",
+        "predicted": "CC(CO)NCcc1ccccc1"
+    },
+    {
+        "original": "CCOc1ccc(OCC)cc1",
+        "predicted": "CCCc1ccc(CCCCcc1"
+    },
+    {
+        "original": "CNC(=O)N(C)N=NCCCl",
+        "predicted": "CC1(=O)N(C)N=OC"
+    },
+    {
+        "original": "COc1ccc(C=CC=O)cc1",
+        "predicted": "COc1ccc(C=OC=O)cc1OO"
+    },
+    {
+        "original": "NCc1cscc1C(O)=O",
+        "predicted": "NC(1ccc(1C(O)CO"
+    },
+    {
+        "original": "CC(N)C(=C)c1ccccc1",
+        "predicted": "CC(N)CcCC)c1ccccc1"
+    },
+    {
+        "original": "c1ncn(n1)-c1cccnc1",
+        "predicted": "C1cc2cc1)-c1ccccc1"
+    },
+    {
+        "original": "OCC1CCCN2CCCCC12",
+        "predicted": "OCC1CCCC1CCCC112"
+    },
+    {
+        "original": "Cc1cccc2ccccc12",
+        "predicted": "CC1cccccccccc12"
+    },
+    {
+        "original": "CC1CC(O)C(O)CC1O",
+        "predicted": "CCCCCCO)CCO)C(1O"
+    },
+    {
+        "original": "OC(C(O)C(O)=O)C(O)=O",
+        "predicted": "OC(=(O)=(O)=O)C(O)=O"
+    },
+    {
+        "original": "CC1NC(CO)C(O)C(O)C1O",
+        "predicted": "CCCNCCCO)C(O)C1O)C1O"
+    },
+    {
+        "original": "CCCCOc1cc2OCCc2cc1O",
+        "predicted": "CCCCCc1cccCCCc2c11O"
+    },
+    {
+        "original": "CCC(Cl)Cl",
+        "predicted": "CCCCC))CC"
+    },
+    {
+        "original": "O=C1OCC1CCc1ccccc1",
+        "predicted": "C=C1CCCCCcc2ccccc1"
+    },
+    {
+        "original": "CCSC(=N)Nc1ccc(C)cc1",
+        "predicted": "CC(C(=N)Nc1ccc(C)cc1"
+    },
+    {
+        "original": "OC(=O)COCc1ccc(I)cc1",
+        "predicted": "CC(=O)CCcc1cccnC)cc1"
+    },
+    {
+        "original": "O=C(CSC#N)Nc1nncs1",
+        "predicted": "C=C1NcC#N)Nc1cccc1"
+    },
+    {
+        "original": "Nc1ncc(cc1I)C(O)=O",
+        "predicted": "NC1ncc(cc1C)C(O)=O"
+    },
+    {
+        "original": "OC(=O)c1ccco1",
+        "predicted": "OC(=O)c1ccc(1"
+    },
+    {
+        "original": "Fc1ccc(cc1)C#C",
+        "predicted": "Nc1cccccc1CC#NNNcc1111"
+    },
+    {
+        "original": "NCCN1CCNCC1",
+        "predicted": "CCCCCCCC(C1"
+    },
+    {
+        "original": "O=C(OC1=CCCCC1)C1CC1",
+        "predicted": "C=C1CC1CCCCC11)C1CCC"
+    },
+    {
+        "original": "CCCNC1CCc2ccccc2C1",
+        "predicted": "CCCCCCCCc2ccccc2C1"
+    },
+    {
+        "original": "CCCCCCC(C)Cc1nccnc1OC",
+        "predicted": "CCCCCCCCC)cc1cccnc1"
+    },
+    {
+        "original": "CCCCNC(N)=O",
+        "predicted": "CCCCCC(=)=O"
+    },
+    {
+        "original": "Clc1ccc2CNC(=O)c2c1",
+        "predicted": "CCc1ccccCCC(=O)c2c1"
+    },
+    {
+        "original": "CCNCCC(=O)NCCC(O)=O",
+        "predicted": "CC(C(((NO)NCC((O)=O"
+    },
+    {
+        "original": "CN=C1NCCS1",
+        "predicted": "CC1C1CCCN1"
+    },
+    {
+        "original": "CCCCNC(=O)OCCO",
+        "predicted": "CCCCCC(=O)CCCC"
+    },
+    {
+        "original": "Nc1ccc(Cl)c(Cl)c1",
+        "predicted": "Nc1cccccl)ccNl)c1"
+    },
+    {
+        "original": "OC1=Cc2nccnc2NC1=O",
+        "predicted": "ON1=Cc2cccc22NC1=O"
+    },
+    {
+        "original": "CCCCCCCCC(N)(CO)CO",
+        "predicted": "NCCCCCCCCCN)PCO)CO"
+    },
+    {
+        "original": "OC(=O)C1CCCCN1N=O",
+        "predicted": "CC(=O)CCCCCN11"
+    },
+    {
+        "original": "CCC(C)C(=O)NCC(O)=O",
+        "predicted": "CCC(CCC(CO)NCC(O)=O"
+    },
+    {
+        "original": "CP(O)(=O)OCCN",
+        "predicted": "NC(O)(=O)CCCC"
+    },
+    {
+        "original": "CCCCOc1ccc(N)cc1",
+        "predicted": "CCCCCc1ccc(c)cc1"
+    },
+    {
+        "original": "CN(C)c1ccc(Br)cc1",
+        "predicted": "CO1C)c1ccc(Cr)cc1"
+    },
+    {
+        "original": "CCNCCc1cccnc1",
+        "predicted": "CCCCCC1ccc(c1"
+    },
+    {
+        "original": "CC1CO1",
+        "predicted": "CC(CCC"
+    },
+    {
+        "original": "CCc1nnc(N)s1",
+        "predicted": "CC(1ncc(N)s1"
+    },
+    {
+        "original": "CCN(CC)CCCCSC#N",
+        "predicted": "CCC(CCCCCCCCC#N"
+    },
+    {
+        "original": "CCCCCC",
+        "predicted": "CCCCCCCCCC"
+    },
+    {
+        "original": "c1nc2ccccc2s1",
+        "predicted": "C1cc2ccccc2c1"
+    },
+    {
+        "original": "CC(=O)C1CCC(C)=CC1",
+        "predicted": "CCCCO)CCCCCC=CCCC1"
+    },
+    {
+        "original": "OC1CC(=O)C1=O",
+        "predicted": "OC(CCC=O)C(CC"
+    },
+    {
+        "original": "CN1CSC(=S)N(C)C1",
+        "predicted": "CC(CCC(=S)N1C)C1="
+    },
+    {
+        "original": "C(Cc1cccs1)N1CCCC1",
+        "predicted": "CCC11cccn1)C1CCCC1"
+    },
+    {
+        "original": "CCOc1ccccc1OCC(O)CO",
+        "predicted": "CCCc1ccc((1C"
+    },
+    {
+        "original": "NCCc1cc(N)c(O)cc1O",
+        "predicted": "NCC(1cc(O)c(O)cc1"
+    },
+    {
+        "original": "COC(=O)C(N)CS",
+        "predicted": "CCC(=O)C(N)C("
+    },
+    {
+        "original": "CC1=C(C)C(N)=NCC1",
+        "predicted": "CCCNCCN)CCN)CNC21"
+    },
+    {
+        "original": "O=N(=O)C=C1CCCCCN1",
+        "predicted": "C=CN=O)CCC1CCCNC11"
+    },
+    {
+        "original": "COCOC",
+        "predicted": "CCC(C(O((((OOOOCCOOOOO"
+    },
+    {
+        "original": "CC1(C)CSC(=O)C1(C)C",
+        "predicted": "CCCCC)CCC(=O)N1"
+    },
+    {
+        "original": "C(N1CCNCC1)c1cccs1",
+        "predicted": "CNC1CCCCC1)c1cccc1"
+    },
+    {
+        "original": "NC1CCc2ccccc2C1O",
+        "predicted": "NCCCCc2ccccc2C1O"
+    },
+    {
+        "original": "OC(=O)C1=CCNCC1",
+        "predicted": "CC(=O)CCCCCCCC1"
+    },
+    {
+        "original": "CC1OC(N)=NC1C",
+        "predicted": "CCCNC(N)=NC1C"
+    },
+    {
+        "original": "Cc1ncc(n1CCO)N(=O)=O",
+        "predicted": "CC1nc((Cc))#)c==O)=O"
+    },
+    {
+        "original": "Cc1nc2c3ccccc3sc2s1",
+        "predicted": "Cc1cccccccccccc22c1"
+    },
+    {
+        "original": "NCCc1c(F)cc(O)cc1F",
+        "predicted": "CCCC1ccO)c((O)c11O"
+    },
+    {
+        "original": "Clc1ncnc2sc(Br)cc12",
+        "predicted": "Clc1cccc2cccCr)c112"
+    },
+    {
+        "original": "C1CCC(CC1)C1=CCOOC1",
+        "predicted": "CCCCC2CC1)N1=NCCCC2"
+    },
+    {
+        "original": "COS(N)(=O)=O",
+        "predicted": "CCC(=)(=O)=O"
+    },
+    {
+        "original": "Clc1ccnc(Cl)n1",
+        "predicted": "Clc1cccc(c#)c1"
+    },
+    {
+        "original": "COC1=CC(C=CC1=O)=NO",
+        "predicted": "CCC(=CC===N)1)O)CNO"
+    },
+    {
+        "original": "CCCCCC(=O)NCC(C)C",
+        "predicted": "CCCCCCCCO)NC((C)C"
+    },
+    {
+        "original": "Cc1ccc2Sc3ccccc3Oc2c1",
+        "predicted": "Cc1cccccScccccc3cc2c1"
+    },
+    {
+        "original": "C1CN2CCC1C(C2)c1ccco1",
+        "predicted": "CCCC2CCC1C2C2)c1ncnn1"
+    },
+    {
+        "original": "CC(=O)NCCc1ccc(O)cc1",
+        "predicted": "CC(=O)Nccc1ccc(O)cc1"
+    },
+    {
+        "original": "S=C=NCCCc1ccccc1",
+        "predicted": "CCC1NNCCC1ccccc1"
+    },
+    {
+        "original": "Cc1nnc2ccccc2n1",
+        "predicted": "Cc1ccc2ccccc2c1"
+    },
+    {
+        "original": "COc1cccc2CCNCc12",
+        "predicted": "CNc1cccccCCNCc12"
+    },
+    {
+        "original": "NCC1=CNC(=O)C=C1",
+        "predicted": "NC((=CCC(=O)C=CC"
+    },
+    {
+        "original": "Oc1ccc(cc1O)C1CCCNC1",
+        "predicted": "CC1ccc(Cc1OCC1CCNNC1"
+    },
+    {
+        "original": "CNC(=S)NN=Cc1ccccn1",
+        "predicted": "Ccc(=S)NN=Cc1cccnn1"
+    },
+    {
+        "original": "Nc1c(O)cccc1O",
+        "predicted": "Nc1ccc)ccc21C"
+    },
+    {
+        "original": "CC1CCCN(C1)N=O",
+        "predicted": "CCCCCCC(C1)N=O"
+    },
+    {
+        "original": "ON=C",
+        "predicted": "OC=C1"
+    },
+    {
+        "original": "OC(C(=C)C#N)c1ccccc1",
+        "predicted": "OCcCCOO)C#N)c1ccccc1"
+    },
+    {
+        "original": "CCCN1CCC=CC1",
+        "predicted": "CCCC1CCCCC(1CCCcc11111"
+    },
+    {
+        "original": "OC(=O)C1CCNC1C(O)=O",
+        "predicted": "CC(=O)CCCCNC1"
+    },
+    {
+        "original": "OCC1(O)CNCC1O",
+        "predicted": "OCC1NO)C(CC(O"
+    },
+    {
+        "original": "OC1=Nc2ccccc2NC1=O",
+        "predicted": "NN1=Cc2ccccc2N11=O"
+    },
+    {
+        "original": "O=C1NC=NN1",
+        "predicted": "OCC1NN=CN1"
+    },
+    {
+        "original": "O=C1OCC2CC=CCC12",
+        "predicted": "C=C1CCCCCCCCCC22"
+    },
+    {
+        "original": "CC(=O)CCCCCNCCCN",
+        "predicted": "CCCCO)NCCCCC"
+    },
+    {
+        "original": "CCCCCCNC(=N)NC(N)=N",
+        "predicted": "NCCCCCCC(=O)NC(N)=N"
+    },
+    {
+        "original": "C=CCCCCCCC=C",
+        "predicted": "CCCCCCCCCCCCC"
+    },
+    {
+        "original": "COc1cc(N)c2ncccc2c1",
+        "predicted": "Ccc1cccN)ccccccc2c1"
+    },
+    {
+        "original": "NC(NO)=NCC(O)=O",
+        "predicted": "NC(C))CNCCCO)=O"
+    },
+    {
+        "original": "CCCCCc1nnc(N)s1",
+        "predicted": "CCCCCC1nn[(N)s1"
+    },
+    {
+        "original": "COCN1OC(=O)c2ccccc12",
+        "predicted": "COC(1CC(=O)C2ccccc12"
+    },
+    {
+        "original": "CN1CCC(Cc2ccccc2)CC1",
+        "predicted": "CC1CCCCC12ccccc2)CC1"
+    },
+    {
+        "original": "C=C1CC(=O)OC1=O",
+        "predicted": "CCC1C((=O)NC1"
+    },
+    {
+        "original": "Cc1ccccc1S",
+        "predicted": "CC1ccccc1Cccc111111111"
+    },
+    {
+        "original": "OC(=O)CCCCCCCCC=C",
+        "predicted": "CC(=O)CCCCCCCCCCC"
+    },
+    {
+        "original": "O=C1CCN2N1CCC2=O",
+        "predicted": "C=C1CCC(C=CCCC=O"
+    },
+    {
+        "original": "CCC(CO)NC(=S)NC",
+        "predicted": "CCCCC))NC(CS)NCC"
+    },
+    {
+        "original": "NC(N)=O",
+        "predicted": "OC(=)=O"
+    },
+    {
+        "original": "CCC(CN)CC(O)=O",
+        "predicted": "CCCCCC)C((O)=O"
+    },
+    {
+        "original": "CNC(=O)N(C)N=NC",
+        "predicted": "CC1(=O)N(C)C=NC"
+    },
+    {
+        "original": "ClC(Cl)Cl",
+        "predicted": "ClC(Cl)(("
+    },
+    {
+        "original": "SCC(=N)Nc1ccccc1",
+        "predicted": "C=((=N)Nc1ccccc1"
+    },
+    {
+        "original": "NCC1CCCC(CN)C1",
+        "predicted": "CCCCCCCCCN1)C1"
+    },
+    {
+        "original": "NC(CS)CCCC(=O)NO",
+        "predicted": "CC(=C)C(CC(NO)NO"
+    },
+    {
+        "original": "COC1OC(CO)C(O)C1N",
+        "predicted": "NCCCCC(CO)C(O)C1N"
+    },
+    {
+        "original": "CCNCc1cccnc1",
+        "predicted": "CCCCC1ccccc1"
+    },
+    {
+        "original": "CCC(CO)NCCNC(C)CO",
+        "predicted": "CCCCCO)NCCOC(COCO"
+    },
+    {
+        "original": "COc1cccc2cccnc12",
+        "predicted": "CNc1cccccncccc12"
+    },
+    {
+        "original": "COCCOCCOC",
+        "predicted": "CCC((C(OCC"
+    },
+    {
+        "original": "NC1CCC1C(O)=O",
+        "predicted": "CCCCCC1CCO)=O"
+    },
+    {
+        "original": "CCCCCCCCCC(O)CN",
+        "predicted": "CCCCCCCCCCCN)C("
+    },
+    {
+        "original": "Oc1ccccc1CCCc1ccccc1",
+        "predicted": "OC1ccccc1Cccc1cccc11"
+    },
+    {
+        "original": "CCCCOC(=O)c1ccccc1",
+        "predicted": "CCCCCC(=O)c1ccccc1"
+    },
+    {
+        "original": "CN(C)CCOC(=O)C=C",
+        "predicted": "CC1C)C((C(=O)C=CCCC"
+    },
+    {
+        "original": "Oc1ccc(Cl)c(Cl)c1",
+        "predicted": "Oc1ccc(cl)c2Cl)c1"
+    },
+    {
+        "original": "CN1CC=CS1(=O)=O",
+        "predicted": "CC1CCCCCC"
+    },
+    {
+        "original": "CN1CCCCC1=N",
+        "predicted": "CC1CCCCC1CNCCC"
+    },
+    {
+        "original": "CCC1NCCc2ccccc12",
+        "predicted": "CCCCCCCc2ccccc12"
+    },
+    {
+        "original": "CC(=O)OC(C)=O",
+        "predicted": "CC(=O)OC(Cl(O"
+    },
+    {
+        "original": "OC(=O)c1ccc(Cl)cc1O",
+        "predicted": "OC(=O)c1ccc(Ol)cc1O"
+    },
+    {
+        "original": "Nc1nc2ccccc2n1CC=C",
+        "predicted": "NC1cc2ccccc2c1N==CN111"
+    },
+    {
+        "original": "OC1COC(O)C(O)C1O",
+        "predicted": "OCCCCC(O)C(O)C1O"
+    },
+    {
+        "original": "CCCCCCCN=C=S",
+        "predicted": "CCCCCCCC(C=S"
+    },
+    {
+        "original": "CCCc1c(N)ccc2cnccc12",
+        "predicted": "CCCC1ccC)ccccncccc12"
+    },
+    {
+        "original": "CNNC",
+        "predicted": "CC1(("
+    },
+    {
+        "original": "CCCC1=NC(=S)NC(O)=C1",
+        "predicted": "CCCCCNNN(NS)NC(N)=N"
+    },
+    {
+        "original": "NC(CO)C(=O)NCC(O)=O",
+        "predicted": "NC(CC)C(OO)NCC(O)=O"
+    },
+    {
+        "original": "N#CN1CCC1",
+        "predicted": "C#CC1CCCC"
+    },
+    {
+        "original": "Fc1ccc(CS)cc1",
+        "predicted": "Cc1cccccnCcc1"
+    },
+    {
+        "original": "c1snnc1-c1ccccn1",
+        "predicted": "C1cccc1-c1ccccc1"
+    },
+    {
+        "original": "c1cnn(c1)-c1ccccc1",
+        "predicted": "C1ccccc1)-c1ccccc1"
+    },
+    {
+        "original": "c1cc2cncnc2[nH]1",
+        "predicted": "N1nc(ncccc2[nH]1"
+    },
+    {
+        "original": "Fc1cccnc1",
+        "predicted": "CC1cc((c1"
+    },
+    {
+        "original": "Cc1[nH]c2ccccc2c1C",
+        "predicted": "CC1cnH]c2ccccc1c1C"
+    },
+    {
+        "original": "O=C1NN=C(O1)c1ccccc1",
+        "predicted": "O=C1Nc=CcO1)c1ccccc1"
+    },
+    {
+        "original": "O=CNC1CCCCNC1=O",
+        "predicted": "C=C1C1CCCCC11"
+    },
+    {
+        "original": "NCCCC(=O)c1ccc(F)cc1",
+        "predicted": "CCCCCCNO)c1ccc(O)cc1"
+    },
+    {
+        "original": "CCOC(=O)CCS",
+        "predicted": "CC(C(=O)C((CC(("
+    },
+    {
+        "original": "Cc1nnc2SC(Nn12)=NN",
+        "predicted": "CC1ncc(CCCN)2))CNNC111"
+    },
+    {
+        "original": "CCCCC(=O)NC1CCOC1=O",
+        "predicted": "CCCCCCCO)NCCCCCC1=O"
+    },
+    {
+        "original": "CC(C)COC=C",
+        "predicted": "CCCC)CCN(CCCCCCCCCCC"
+    },
+    {
+        "original": "CC(C)NC(=N)NO",
+        "predicted": "CC(C)CC(=N)NC"
+    },
+    {
+        "original": "OCC1NC(CO)C(O)C1O",
+        "predicted": "OCC1NCCCO)C(O)C1O"
+    },
+    {
+        "original": "NC(C1CCCN1)C(O)=O",
+        "predicted": "CCCCCCCCCC)C(O)=O"
+    },
+    {
+        "original": "NN=C1Nc2ccc(F)cc2S1",
+        "predicted": "NC=C1N=2ccccC)cc2C1"
+    },
+    {
+        "original": "CNc1nccnc1C",
+        "predicted": "Ccc1ncccc1C"
+    },
+    {
+        "original": "O=C1NN=C(O1)C1CCCN1",
+        "predicted": "CCC1NC=C2C1)CCCCCCC"
+    },
+    {
+        "original": "CC1CC1CN=C(N)N",
+        "predicted": "NCCNC(NN=C(N)CC1111"
+    },
+    {
+        "original": "Nc1cc(F)nc(F)c1",
+        "predicted": "Nc1nc(N)cc(N)c1C"
+    },
+    {
+        "original": "CCCCCCCCCCCCCCCC#N",
+        "predicted": "CCCCCCCCCCCCCCCCCN"
+    },
+    {
+        "original": "COCC=CC(=O)OC",
+        "predicted": "CCC(CCCC=O)CCCCCCCC"
+    },
+    {
+        "original": "NC(=N)C1CCC1",
+        "predicted": "NC(=N)N1CCC1"
+    },
+    {
+        "original": "COP(O)(=O)CC(O)=O",
+        "predicted": "CCC(O)(=O)CC(O)=O"
+    },
+    {
+        "original": "CC(C)=CCNC=N",
+        "predicted": "CCCC)CCCCC(CCCCC"
+    },
+    {
+        "original": "COc1cccc(c1)C(=C)CN",
+        "predicted": "COc1ccc((c1)C(=CCNN"
+    },
+    {
+        "original": "c1ccsc1",
+        "predicted": "C1cccc1"
+    },
+    {
+        "original": "Cc1ccc(cc1F)C1=NCCN1",
+        "predicted": "CC1ccc(cc1C)C1CNCCN1"
+    },
+    {
+        "original": "NCCc1coc2ccccc12",
+        "predicted": "NCCC1ccc2ccccc12"
+    },
+    {
+        "original": "Oc1ccc(NC(=O)CBr)cc1",
+        "predicted": "NC1ccc(cC==O)C=r)cc1"
+    },
+    {
+        "original": "NCc1ccccn1",
+        "predicted": "CCC1cc(((1"
+    },
+    {
+        "original": "CCC(C)C(=O)OC",
+        "predicted": "CCCCC)C(=O)OC(C"
+    },
+    {
+        "original": "CCCCCCNC(=O)Cn1ccnc1",
+        "predicted": "CCCCCCCC(=O)C(1ccnc1"
+    },
+    {
+        "original": "CC(=O)C=Cc1ccc(C)cc1",
+        "predicted": "CC(=O)c=Cc1ccccC)cc1"
+    },
+    {
+        "original": "CCN(CC)CC#Cc1ccccc1",
+        "predicted": "CCCCCCCCCCCc1ccccc1"
+    },
+    {
+        "original": "CCCCOc1nsnc1OCCN(C)C",
+        "predicted": "CCCCCC1nocc1CCC1(C)C"
+    },
+    {
+        "original": "CCCCN=C(N)NC",
+        "predicted": "CCCCCCC(N)NCCC"
+    },
+    {
+        "original": "CN(C)C1CCCCC1O",
+        "predicted": "CC1C)CCCCCC11"
+    },
+    {
+        "original": "CC(C)CN=C=S",
+        "predicted": "CCCC)C1(C=S"
+    },
+    {
+        "original": "COC1=Cc2ccccc2OC1=O",
+        "predicted": "CCC(=CC2ccccc2CC1=O"
+    },
+    {
+        "original": "OCCCCCCBr",
+        "predicted": "NN11NNNNr"
+    },
+    {
+        "original": "O=Cc1ccc(cc1)C#N",
+        "predicted": "C=C11cccccc1)N#N"
+    },
+    {
+        "original": "OC(C#C)c1ccccc1",
+        "predicted": "OCCCcCcC1ccccc1OCCO111"
+    },
+    {
+        "original": "CCCCNN",
+        "predicted": "CCCCCC=(CCCCCCCCCCCCCC"
+    },
+    {
+        "original": "CC(N)Cc1cccc(Cl)c1",
+        "predicted": "CCCC)Cc1ccc2cCl)c1"
+    },
+    {
+        "original": "OCC(O)CCl",
+        "predicted": "C=1CC)CCC"
+    },
+    {
+        "original": "Nc1nc(CN2CCOCC2)cs1",
+        "predicted": "NC1nc(nC2CCC)22)sn1"
+    },
+    {
+        "original": "ON1Cc2ccccc2CC1=O",
+        "predicted": "C=CCC2ccccc2NNN=N"
+    },
+    {
+        "original": "CCC(C)CO",
+        "predicted": "CCCCC)CC"
+    },
+    {
+        "original": "NN=C1NN=CC(O)N1",
+        "predicted": "NC=C(NC=C((N)C1"
+    },
+    {
+        "original": "CCC=CC1CC1C(O)=O",
+        "predicted": "CCCCCCCCCCCCO)CO"
+    },
+    {
+        "original": "CCC1(CC)SC(N)=NC1=O",
+        "predicted": "CCC(=C))NC(N)=NC1=O"
+    },
+    {
+        "original": "C1CC2CCc3ccncc3C2N1",
+        "predicted": "CCCCCNCN2ccccc3C2N1"
+    },
+    {
+        "original": "CSc1nsnc1C1=CCCNC1",
+        "predicted": "CCC1cccc1C1CCCCNC1"
+    },
+    {
+        "original": "C#CCNC1CCc2ccccc12",
+        "predicted": "CCCCCCCCCc2ccccc22"
+    },
+    {
+        "original": "C1CN(CCN1)c1cccnn1",
+        "predicted": "CNCNCCCN1)c1ccccc1"
+    },
+    {
+        "original": "CON=C(F)C1=CCCNC1",
+        "predicted": "CCC=C(C)C1=CCCNC1"
+    },
+    {
+        "original": "CCc1nccnc1OC",
+        "predicted": "CCC1cccnc1Ccc111111111"
+    },
+    {
+        "original": "S=C=Nc1ccccn1",
+        "predicted": "C=C1Nc1ccccc1"
+    },
+    {
+        "original": "CCCCP(O)(O)=S",
+        "predicted": "CCCC((O)(O)=O"
+    },
+    {
+        "original": "O=C1NSc2ccccc12",
+        "predicted": "O=C1NNc2ccccc12"
+    },
+    {
+        "original": "CCC(S)(CC)CO",
+        "predicted": "CCCCC)C=)OCC"
+    },
+    {
+        "original": "ClCc1ccc(cc1)N(=O)=O",
+        "predicted": "CCcC1ccc2Cc1CN(=O)=O"
+    },
+    {
+        "original": "COc1cccc(CNC(C)=O)c1",
+        "predicted": "COc1cccc(C=C=C)=O)c1"
+    },
+    {
+        "original": "O=P(N1CC1)(N1CC1)N1CC1",
+        "predicted": "C=S1O1CCC)cC1)C1)C1"
+    },
+    {
+        "original": "Nc1ccc(cc1)C(=O)NO",
+        "predicted": "NC1ccc(Nc1NN(=O)NO"
+    },
+    {
+        "original": "Cc1ccccc1NC1=NCCO1",
+        "predicted": "CC1ccc((1C=1=NCCN1"
+    },
+    {
+        "original": "FC(F)(Br)Br",
+        "predicted": "CC(F)(Fr)Cr"
+    },
+    {
+        "original": "CCC(C(C)C)C(N)=O",
+        "predicted": "CCCCC)C)C)C(N)=O"
+    },
+    {
+        "original": "CN1CC=C(C1)c1ccccc1",
+        "predicted": "CN1CCCCCC1)c1ccccc1"
+    },
+    {
+        "original": "OC(=O)C1SCCS1",
+        "predicted": "CC(=O)C1CCCNC"
+    },
+    {
+        "original": "CC(C)(C)COC(N)=O",
+        "predicted": "CCCC)CC)C(C(N)=O"
+    },
+    {
+        "original": "NCCCCSc1ccccc1",
+        "predicted": "NCCCCCc1ccccc1"
+    },
+    {
+        "original": "CCC(=O)C=CC=CC(C)=O",
+        "predicted": "CCCC=O)c=CC=CC==)CC"
+    },
+    {
+        "original": "CC(C)=CCNc1ccccn1",
+        "predicted": "CCCC)cCcNc1cccnn1"
+    },
+    {
+        "original": "CCCCCCCC=O",
+        "predicted": "Cl((((lllN"
+    },
+    {
+        "original": "CSc1ccc(NC(N)=N)cc1",
+        "predicted": "CCC1ncc(NC(N)=N)cc1"
+    },
+    {
+        "original": "NCC(CC(O)=O)Cc1ccoc1",
+        "predicted": "CCC(CC(F)=O)C(1ccsc1"
+    },
+    {
+        "original": "Cc1nc(CC(O)=O)c[nH]1",
+        "predicted": "CC1cccCllO)=O)ccnH]1"
+    },
+    {
+        "original": "OC(=O)c1nsc(Cl)c1Cl",
+        "predicted": "OC(=O)C1ccc(Cl)c1Cl"
+    },
+    {
+        "original": "COc1cc(ccc1C=O)C(C)C",
+        "predicted": "CCc1cccCcc1C=O)CCC)C"
+    },
+    {
+        "original": "C#CCCCc1ccccc1",
+        "predicted": "CCCCCNN1ccccc1"
+    },
+    {
+        "original": "CC1(C)COC(=O)N1Cl",
+        "predicted": "CC1CC)CCC(=O)C1"
+    },
+    {
+        "original": "CCC1CCOC1=O",
+        "predicted": "CC((==(C1=N"
+    },
+    {
+        "original": "Cc1ccccc1NC(N)=S",
+        "predicted": "NC1ccccc1CC(N)=S"
+    },
+    {
+        "original": "ONS(=O)(=O)c1ccccc1",
+        "predicted": "NCC(=O)(=O)c1ccccc1"
+    },
+    {
+        "original": "CCC(N)C(O)=O",
+        "predicted": "CC((C)C(O)=O"
+    },
+    {
+        "original": "Cc1cc(Cl)cc(C)c1O",
+        "predicted": "CC1cccCO)cc(COc1O"
+    },
+    {
+        "original": "CS(=O)C=C(O)C=NO",
+        "predicted": "CCc=O)CCCCC)cCCC"
+    },
+    {
+        "original": "CCCCCCCCCC(=O)N(C)C",
+        "predicted": "CCCCCCCCCCCCO)C1C)C"
+    },
+    {
+        "original": "NCc1cccc(I)c1",
+        "predicted": "NCC1cccc(C)c1"
+    },
+    {
+        "original": "Clc1ccccc1CN1CCOCC1",
+        "predicted": "CNC1ccccc1N11CCNCC1"
+    },
+    {
+        "original": "CCC(=O)Nc1ccc(O)cc1",
+        "predicted": "CC((=O)Nc1ccc(O)cc1"
+    },
+    {
+        "original": "S=C1NNC(=S)NN1",
+        "predicted": "N=C1NN===S)N11"
+    },
+    {
+        "original": "CCc1n[nH]c2ccccc12",
+        "predicted": "CC(1ccnH]c2ccccc12"
+    },
+    {
+        "original": "OCS(O)(=O)=O",
+        "predicted": "CC((=)(=O)=O"
+    },
+    {
+        "original": "BrCC(Br)(Br)Br",
+        "predicted": "CrCCBBr)(Br)Br"
+    },
+    {
+        "original": "CCCCc1ccc(cc1)C(O)=O",
+        "predicted": "CCCCC1ccc(cc1)C(O)=O"
+    },
+    {
+        "original": "COC(=O)C(N)C(C)O",
+        "predicted": "CCC(=O)CCC)C(O)C"
+    },
+    {
+        "original": "ClSC(Cl)(Cl)Cl",
+        "predicted": "ClC((=l)(=l)(("
+    },
+    {
+        "original": "NNC(=O)C=Cc1ccccc1",
+        "predicted": "NC=(=O)ccCc1ccccc1"
+    },
+    {
+        "original": "O=C1CCC=C1",
+        "predicted": "C=C1NCCCC1"
+    },
+    {
+        "original": "OC(=O)C1CC(=C)CN1",
+        "predicted": "CC(=O)CCCCNNC)NN1"
+    },
+    {
+        "original": "COc1ccc2CC3OC3c2c1",
+        "predicted": "COc1ccc2CCNCccc2c1"
+    },
+    {
+        "original": "NCc1nnn[nH]1",
+        "predicted": "CC(1ncccnH]1"
+    },
+    {
+        "original": "CC(C)=CCCC(C)=CC#N",
+        "predicted": "CCCC)CCCCC(C)=CC=N"
+    },
+    {
+        "original": "OP(O)(=O)CP(O)(O)=O",
+        "predicted": "OP(O)(=O)C((O)(O)=O"
+    },
+    {
+        "original": "Cc1ncn[nH]1",
+        "predicted": "CC1nc(cnH]1"
+    },
+    {
+        "original": "Nc1ccc(cc1)S(N)(=O)=O",
+        "predicted": "Nc1ccccNc1NN(N)(=O)=O"
+    },
+    {
+        "original": "NCCCC(=O)OCC(O)CO",
+        "predicted": "CCCCCCNO)NCCCO)CO"
+    },
+    {
+        "original": "CC(C)CC(N)C(=O)NO",
+        "predicted": "CCCC)CCCN)C(=O)NO"
+    },
+    {
+        "original": "Cc1cc(C)c2ccccc2n1",
+        "predicted": "CC1cccClc2ccccc2n1"
+    },
+    {
+        "original": "c1ccc2nccnc2c1",
+        "predicted": "C1ccc2ccccc2c1"
+    },
+    {
+        "original": "COc1ncc(CC(C)C)nc1C",
+        "predicted": "CCc1ncccCC(C)CCcc1C"
+    },
+    {
+        "original": "CC(C)NCc1cccc(F)c1",
+        "predicted": "CCCNcCCC1cccc(C)c1"
+    },
+    {
+        "original": "COP(=O)(OC)C(O)C=CC",
+        "predicted": "CCC(OO)(O)CC(C)CCC"
+    },
+    {
+        "original": "CCC(C)(C)c1ccccc1",
+        "predicted": "CCCcC)cC)c1ccccc1"
+    },
+    {
+        "original": "NC(=O)c1nnsc1NC=O",
+        "predicted": "NC(=O)c1cccc1NCCN"
+    },
+    {
+        "original": "NC1COC(=C1)C(O)=O",
+        "predicted": "CC(CCC(=O1)C(O)=O"
+    },
+    {
+        "original": "COC(=O)c1cnccn1",
+        "predicted": "CCC(=O)c1ccccc1"
+    },
+    {
+        "original": "CCCCCC=CC=CC(=O)OCC",
+        "predicted": "CCCCCCCCC=CC==O)OCC"
+    },
+    {
+        "original": "NCC=C(CO)C(O)=O",
+        "predicted": "CC(CCCCC)C(O)=O"
+    },
+    {
+        "original": "NC1CCCC1c1ccccc1",
+        "predicted": "NCCCCcc1c1ccccc1"
+    },
+    {
+        "original": "Oc1ccc(I)cc1C=O",
+        "predicted": "OC1ccccC)cc1CCO"
+    },
+    {
+        "original": "FCCOS(=O)(=O)CCl",
+        "predicted": "CC((C(=O)(=O)CCC"
+    },
+    {
+        "original": "CC(NC(C)=O)C(O)=O",
+        "predicted": "CC(C)(C)CO)C(O)=O"
+    },
+    {
+        "original": "Nc1nnc2c3ccccc3cnn12",
+        "predicted": "Nc1ccc2ccccccc3c2212"
+    },
+    {
+        "original": "ClCC(=O)c1ccc(Cl)s1",
+        "predicted": "CCCC(=O)c1ccc(Cl)c1"
+    },
+    {
+        "original": "CCC(CO)NCCNC(CC)CO",
+        "predicted": "CCCCCO)NCCOC(COOCO"
+    },
+    {
+        "original": "CCOCC1CC1C(O)=O",
+        "predicted": "OCCC((CCCCCO)=O"
+    },
+    {
+        "original": "CC(C)CC(C)(C)C",
+        "predicted": "CCCC)C1CC)CC)C"
+    },
+    {
+        "original": "O=Nc1ccc2ccccc2n1",
+        "predicted": "C=N(1ccccccccc1c1"
+    },
+    {
+        "original": "NNC(=O)COP(O)(O)=O",
+        "predicted": "NC=(=O)CCP(O)(O)=O"
+    },
+    {
+        "original": "Oc1ccc2OCSc2c1",
+        "predicted": "Cc1ccc(CCCc2c1"
+    },
+    {
+        "original": "CCCCCCCCCCCC=O",
+        "predicted": "CCCCCCCCCCCCCC"
+    },
+    {
+        "original": "Cc1nnc2ccncc2n1",
+        "predicted": "Cc1ccc2ccccc2c1"
+    },
+    {
+        "original": "CNC(C)Cc1ccc(SC)cc1",
+        "predicted": "CCCCC)Cc1ccc(CC)cc1"
+    },
+    {
+        "original": "CN(C)CCCc1ccc(C)cc1",
+        "predicted": "CC1C)CCCC1ccc(C)cc1"
+    },
+    {
+        "original": "NC(=N)NCCSSCCNC(N)=N",
+        "predicted": "CCC=N)NCCCCC(("
+    },
+    {
+        "original": "CCOc1cccc(CC(O)=O)c1",
+        "predicted": "CC(c1cccc(CC(O)=O)c1"
+    },
+    {
+        "original": "O=N(=O)c1ccc2cnoc2c1",
+        "predicted": "C=N(=O)c1cccccccc2c1"
+    },
+    {
+        "original": "Nc1nccn1NCC(O)=O",
+        "predicted": "NC1ncc(cCCC(O)=O"
+    },
+    {
+        "original": "CN(C)C(CN)c1cccnc1",
+        "predicted": "CCCC)CCO))c1cccnc1"
+    },
+    {
+        "original": "N=C1NC(=O)CS1",
+        "predicted": "NCC1NN(=O)NS1"
+    },
+    {
+        "original": "CCCCCC=CNC=O",
+        "predicted": "CCCCCCCCCC(O"
+    },
+    {
+        "original": "CCOC(CBr)OCC",
+        "predicted": "CCCCCC)r)(CCCCCC"
+    },
+    {
+        "original": "CC(C(O)=O)C(O)=O",
+        "predicted": "CC(C)C)=O)C(C)=O"
+    },
+    {
+        "original": "CSC(N)=N",
+        "predicted": "CCC1=)=O"
+    },
+    {
+        "original": "CCC(O)(C=CCl)C#C",
+        "predicted": "CC((C)CCCC)#)C#C"
+    },
+    {
+        "original": "COc1c(O)cc(C=O)cc1Cl",
+        "predicted": "CCc1ccC)cc(C=O)cc1C"
+    },
+    {
+        "original": "CC1CN(O)C(=O)C1N",
+        "predicted": "CCCCC=C)C(=O)N(N"
+    },
+    {
+        "original": "CC1CCN=C1N",
+        "predicted": "CCCCCC2C1"
+    },
+    {
+        "original": "CCC=CCCO",
+        "predicted": "CCCCCCCC"
+    },
+    {
+        "original": "O=C1Cc2ccccc2CO1",
+        "predicted": "C=C1CC2ccccc2C11"
+    },
+    {
+        "original": "CCCCCCC(=O)c1ccccc1",
+        "predicted": "CCCCCCCC=O)c1ccccc1"
+    },
+    {
+        "original": "NC(CCC(O)=O)C=C",
+        "predicted": "CCCCCCCO)=O)C=C"
+    },
+    {
+        "original": "COC1=CC=CNC1=O",
+        "predicted": "CCC(=CC(CCC2=N"
+    },
+    {
+        "original": "CCOC(=O)c1ccc(C)cc1",
+        "predicted": "CCCC(=O)c1ccc(C)cc1"
+    },
+    {
+        "original": "CC(NC(=O)CN)C(O)=O",
+        "predicted": "NC(N)(=O)CN)C(O)=O"
+    },
+    {
+        "original": "O=C1NC2NC(=O)NC2N1",
+        "predicted": "CCC1NCCCCC=O)C11C1"
+    },
+    {
+        "original": "CC1CCC(N1C)c1cccnc1",
+        "predicted": "CCCCCCCC1)Cc1cccnc1"
+    },
+    {
+        "original": "OC1CC(O)C(O)C2OC12",
+        "predicted": "OCCCNCO)C(O)C1OC12"
+    },
+    {
+        "original": "NCC1=CC(=O)NO1",
+        "predicted": "NC((=NC(=O)NC1"
+    },
+    {
+        "original": "Nc1ncnc2NC(=S)Nc12",
+        "predicted": "Nc1nc(c2nC==S)Nc12"
+    },
+    {
+        "original": "CCNC(=O)Nc1ncccn1",
+        "predicted": "CCOC(=O)Nc1cccnn1"
+    },
+    {
+        "original": "CC=CC1CC(O)C(O)C1",
+        "predicted": "CCCCCCCCCO)C(O)C1O"
+    },
+    {
+        "original": "CC1(C)COC(N)=N1",
+        "predicted": "CCCCC)CCC(N)=NC"
+    },
+    {
+        "original": "CC(N)Cc1ccccc1",
+        "predicted": "CCCC)Cc1ccc2c1"
+    },
+    {
+        "original": "OC(=O)c1ccc[nH]1",
+        "predicted": "OC(=O)c1ccc(nH]1"
+    },
+    {
+        "original": "OCc1cc(Cl)ccc1Cl",
+        "predicted": "OCc1cc(Cl)cc(1Cl"
+    },
+    {
+        "original": "CC1CN=C(N)CCS1",
+        "predicted": "CCCCC=C(N)C(11"
+    },
+    {
+        "original": "OCCNC(NCCO)=NC#N",
+        "predicted": "NCCNC(=)OO)CNC#N"
+    },
+    {
+        "original": "COc1ccc(CCCl)cc1",
+        "predicted": "COc1ccccOC(O)cc1"
+    },
+    {
+        "original": "CCSc1ccc(CC(C)N)cc1",
+        "predicted": "CCCC1ccccCC(C)N)c11"
+    },
+    {
+        "original": "CCCCCCOCCO",
+        "predicted": "CCCCCCCCCC"
+    },
+    {
+        "original": "CCCN1C(=O)C=CC1=O",
+        "predicted": "CCCC1C(=O)C=CC1=O"
+    },
+    {
+        "original": "NNC(=O)c1ccnc(F)c1",
+        "predicted": "NC=(=O)c1cccccN)c1"
+    },
+    {
+        "original": "NC(=O)CCCCO",
+        "predicted": "CCCCO)CCCCC"
+    },
+    {
+        "original": "Cc1ccc(Cl)c(O)c1",
+        "predicted": "Cc1ccc2C))ccC)c1"
+    },
+    {
+        "original": "CN(C)CCc1ccc(Br)cc1",
+        "predicted": "CN1C)CCC1ccccCr)cc1"
+    },
+    {
+        "original": "NCCCC(N)C(=O)N1CCCC1",
+        "predicted": "CCCCCCN)C(=O)N1CCCCC"
+    },
+    {
+        "original": "BrN=C1C=CC(=O)C=C1",
+        "predicted": "CrC=C1C=CC==O)C=C1"
+    },
+    {
+        "original": "C1Cn2c(S1)nc1ccccc21",
+        "predicted": "CCCc2c3CC)cc1ccccc21"
+    },
+    {
+        "original": "CC=C(C)C(O)=O",
+        "predicted": "CC(CCCCC(O)=O"
+    },
+    {
+        "original": "CCC(C)(C)c1ccc(O)cc1",
+        "predicted": "CCCcC)cC)c1ccccO)cc1"
+    },
+    {
+        "original": "CCOCCC(=O)OCC",
+        "predicted": "CCCC((CCO)CCCCCCCC"
+    },
+    {
+        "original": "CC1=C(O)C(=O)C=CN1CCO",
+        "predicted": "CCCCCCC)CCOC)C=CC1"
+    },
+    {
+        "original": "CCCCC(CC)COC(Cl)=O",
+        "predicted": "CCCCCCCCCC(C(=))=O"
+    },
+    {
+        "original": "CC(C)C(O)C(O)=O",
+        "predicted": "CCCC)CCO)C(O)=O"
+    },
+    {
+        "original": "O=C1C=Cc2ncccc2C1=O",
+        "predicted": "C=C1N=CC2ccccc2C1"
+    },
+    {
+        "original": "NNC(=O)c1ccsc1",
+        "predicted": "NCC(=O)c1cccc1"
+    },
+    {
+        "original": "ClC(Cl)Br",
+        "predicted": "ClC(Cl)Cr"
+    },
+    {
+        "original": "ONC(=O)NCC(O)=O",
+        "predicted": "NCC(=O)CCCCO)CO"
+    },
+    {
+        "original": "CN1C2CC(O)C1CC(=O)C2",
+        "predicted": "OC1CCCCCC)CCCC(OO)C2OC"
+    },
+    {
+        "original": "OCCCCCCCCCCCCBr",
+        "predicted": "CCC1CCCCCCCCCCr"
+    },
+    {
+        "original": "COc1ccc(C=NO)cc1",
+        "predicted": "CCc1ccc(O=CO)cc1"
+    },
+    {
+        "original": "O=CN(C1CC1)C1CCCC1",
+        "predicted": "C=C11C1CCC)C1CCCC1"
+    },
+    {
+        "original": "CC(C)Cc1ccccc1",
+        "predicted": "CCCC)cc1ccccc1"
+    },
+    {
+        "original": "CC(=O)c1cc2ccccc2s1",
+        "predicted": "CC(=O)c1cccccccc2s1"
+    },
+    {
+        "original": "CCOC(=O)P(O)(O)=O",
+        "predicted": "CC(C(=O)C(O)(O)=O"
+    },
+    {
+        "original": "NCCCCNCCCNCc1ccccc1",
+        "predicted": "NCCCCCCCCNCC1ccccc1"
+    },
+    {
+        "original": "Nc1nc(CC(O)=O)c[nH]1",
+        "predicted": "NC1cccCC(O)=O)ccnH]1"
+    },
+    {
+        "original": "CC1CCN2CCCC12",
+        "predicted": "CCCCCC2CCCCC2"
+    },
+    {
+        "original": "Fc1cccnc1N1CCNCC1",
+        "predicted": "CC1ccccc1N1CCNCC1"
+    },
+    {
+        "original": "NC1(CCCCC1)c1ccccc1",
+        "predicted": "CCCCCCCC11)c1ccccc1"
+    },
+    {
+        "original": "CC(=O)Nc1cccc(N)c1",
+        "predicted": "NC(=O)Nc1cccc(N)c1"
+    },
+    {
+        "original": "COc1ccc(NC(=O)NO)cc1",
+        "predicted": "COc1ccc(cC(=O)CO)c11"
+    },
+    {
+        "original": "NC(=O)c1cccc(Br)c1",
+        "predicted": "NC(=O)c1ccc((Cr)c1"
+    },
+    {
+        "original": "C1CCC(CC1)C1OOCC=C1",
+        "predicted": "CCCC22CC1)N1CCCC=C1"
+    },
+    {
+        "original": "CC=CC(=O)C=CC=CC=C",
+        "predicted": "CC(CC==O)c=CC=CC=C"
+    },
+    {
+        "original": "ON=C1CCOC1=O",
+        "predicted": "CC=C1CCCC1=O"
+    },
+    {
+        "original": "Oc1cccc(O)c1O",
+        "predicted": "Oc1ccc(2c)c1"
+    },
+    {
+        "original": "BrCN(=O)=O",
+        "predicted": "CrC===O)=O"
+    },
+    {
+        "original": "CCSC(SC)=Nc1ccccc1",
+        "predicted": "CC(c(=CC=Nc1ccccc1"
+    },
+    {
+        "original": "O=C1SC2=C(S1)SSSSS2",
+        "predicted": "C=C1CS==C(=1)CCCC11=11"
+    },
+    {
+        "original": "NC1(CCSCC1)C(O)=O",
+        "predicted": "CCCCCCCC11)C(O)=O"
+    },
+    {
+        "original": "CCC(C)(C)N=C(N)NC#N",
+        "predicted": "CC((C)CC)CCC(N)N"
+    },
+    {
+        "original": "CCC(C)C(C)=O",
+        "predicted": "CCCCC)C(=)CO"
+    },
+    {
+        "original": "CC(=C)COC1CCCCO1",
+        "predicted": "CCCCC)C1CCCCCCC1"
+    },
+    {
+        "original": "CCCCC1(CCCC)OOCCCOO1",
+        "predicted": "CCCCCCCCCCC1CCC(2111"
+    },
+    {
+        "original": "OC1C(Br)=Cc2ccccc12",
+        "predicted": "OccCCOr)cCc2ccccc12"
+    },
+    {
+        "original": "NCCc1cccc(O)c1",
+        "predicted": "NCCC1ccc((O)c1"
+    },
+    {
+        "original": "CCCC1CCCCN1",
+        "predicted": "CCCCCCCCCC1"
+    },
+    {
+        "original": "CCOc1ccccc1N1CCNCC1",
+        "predicted": "CCCc1cccc(1CCCCNCC1"
+    },
+    {
+        "original": "CCCCCC1CC(=C)C(=O)N1",
+        "predicted": "CCCCCCCCCC=O)C(=O)N1"
+    },
+    {
+        "original": "CCOC(=O)c1ccncc1",
+        "predicted": "CC(C(=O)c1ccccc1"
+    },
+    {
+        "original": "OCC(F)(F)F",
+        "predicted": "CCC1O)CC)C"
+    },
+    {
+        "original": "CN1CCCC1c1ccc(Cl)cc1",
+        "predicted": "CN1CCCC1C1ccc(C))cc1"
+    },
+    {
+        "original": "Nc1ccc2cc(Br)ccc2c1",
+        "predicted": "Nc1ccc2cccNr)cc22c1"
+    },
+    {
+        "original": "COC1CCC=CO1",
+        "predicted": "CCNCCCCCCCC"
+    },
+    {
+        "original": "C#CCNCc1ccccc1",
+        "predicted": "CNCCCCc1ccccc1"
+    },
+    {
+        "original": "NC1=NC(=O)N2CC12",
+        "predicted": "OC(=NC(=O)NCCCC="
+    },
+    {
+        "original": "CCCCN(C)CC#C",
+        "predicted": "CCCCC(CCCC#CC"
+    },
+    {
+        "original": "ON=Cc1ncccc1O",
+        "predicted": "Oc=Cc1ccccc1Cc11111111"
+    },
+    {
+        "original": "CN(CC(O)=O)C(=O)CN",
+        "predicted": "CCCC)(O)=O)C(NO)NS"
+    },
+    {
+        "original": "CN(O)CCC(N)C(O)=O",
+        "predicted": "NCCC)C(((N)C(O)=O"
+    },
+    {
+        "original": "OP(=O)C1CCCNC1",
+        "predicted": "CC(=O)C1CCNN11"
+    },
+    {
+        "original": "CN1C=CNC1=S",
+        "predicted": "CC(CCCC(1CN"
+    },
+    {
+        "original": "O=C1CCCCCO1",
+        "predicted": "C=C1CCCCC11"
+    },
+    {
+        "original": "Cn1cccc1CNc1ccccc1",
+        "predicted": "CC1ccc21CNc1ccccc1"
+    },
+    {
+        "original": "SC1=NC(=S)NC(=S)N1",
+        "predicted": "N=1=NN(=S)N1==S)N1"
+    },
+    {
+        "original": "NCCCSCC(O)=O",
+        "predicted": "CCCCCCCCO)=O"
+    },
+    {
+        "original": "CC(C)C(C)O",
+        "predicted": "CCCC)CCC)C"
+    },
+    {
+        "original": "CCCCc1cc(on1)C1CCCN1",
+        "predicted": "CCCCC1cc(Cn1)C1CCNN"
+    },
+    {
+        "original": "OCCN1CCCCC1C1OCCO1",
+        "predicted": "OCCC1CCCC11"
+    },
+    {
+        "original": "OC(=O)C1CSCC(=O)N1",
+        "predicted": "CC(=O)CCCCCC1=O)N1"
+    },
+    {
+        "original": "C(Nc1ccccc1)C1=NCCN1",
+        "predicted": "CCNc1ccccc1)C1CNCCN1"
+    },
+    {
+        "original": "OC1CN2CCCC(O)C2C1O",
+        "predicted": "OCCCCCCCCCCO)C1C12"
+    },
+    {
+        "original": "On1ncc2CNCCc12",
+        "predicted": "CC1ccc2nCCCc12"
+    },
+    {
+        "original": "Oc1ccccc1-c1cc[nH]n1",
+        "predicted": "Nc1cccc21-c1cccnH]n1"
+    },
+    {
+        "original": "CCN1C(=O)Cc2ccccc12",
+        "predicted": "CC(1C==O)N=2ccccc12"
+    },
+    {
+        "original": "Cc1cccc2[nH]nnc12",
+        "predicted": "Cc1ccc22cnH]ccc12"
+    },
+    {
+        "original": "CN1CCN(CC#C)CC1",
+        "predicted": "CCCCCC(CC1N)CC1"
+    },
+    {
+        "original": "CCCCOc1ccccc1OCC=C",
+        "predicted": "CCCCCc1ccccc1OCC=C"
+    },
+    {
+        "original": "Cn1cnc2ncnc(Cl)c12",
+        "predicted": "Cc1ccc2cccccCl)c12"
+    },
+    {
+        "original": "CCCN=C(NC#N)Nc1cccnc1",
+        "predicted": "CCCCCC(N)CN)C=1ccccc1"
+    },
+    {
+        "original": "CCC(C)(O)C#N",
+        "predicted": "CC((C)(C)C#C"
+    },
+    {
+        "original": "NC(=N)Nc1cnccn1",
+        "predicted": "NC(=N)Nc1ccccc1"
+    },
+    {
+        "original": "NC(C(F)C(O)=O)C(O)=O",
+        "predicted": "NC(CCO)C(O)=O)C(O)=O"
+    },
+    {
+        "original": "CC(Cl)Cl",
+        "predicted": "CC(C))C("
+    },
+    {
+        "original": "Nc1nncc2[nH]nnc12",
+        "predicted": "Nc1ccc22cnH]ccc12"
+    },
+    {
+        "original": "ClCCNCc1ccc2OCOc2c1",
+        "predicted": "CNcCCCC1ccc2CCOc2c1"
+    },
+    {
+        "original": "C1Cc2ccc3ccoc3c2CCN1",
+        "predicted": "CNCC2ccccnccc3c2CNN121"
+    },
+    {
+        "original": "COC1CCC(CO)OO1",
+        "predicted": "CCC1CC((OO)NCC"
+    },
+    {
+        "original": "CC#CCNCc1ccccc1",
+        "predicted": "CC(CCNCc1ccccc1"
+    },
+    {
+        "original": "Cc1ccccc1CC=NNCC#C",
+        "predicted": "CC1ccccc1C1=NNCC#N"
+    },
+    {
+        "original": "C=CC=O",
+        "predicted": "CCCC=C"
+    },
+    {
+        "original": "CCN(CC)C(Br)=C",
+        "predicted": "CCC(CCCC(=r)=O(CC"
+    },
+    {
+        "original": "OC1=Nc2cnccc2NC1=O",
+        "predicted": "NN1=CN2ccccc2NC1=O"
+    },
+    {
+        "original": "CNC(S)=S",
+        "predicted": "OC(C=)CO"
+    },
+    {
+        "original": "CC1CC(=C)C(=O)O1",
+        "predicted": "CCCCC(=O)C(=O)O1"
+    },
+    {
+        "original": "Oc1c2nnnc2nc2sccn12",
+        "predicted": "ON1cccccc2cc2c11112"
+    },
+    {
+        "original": "OC1CC2CC(=O)CC2C1",
+        "predicted": "OC(CCCCCCCO)CCCC12"
+    },
+    {
+        "original": "Oc1ccc(cc1O)N(=O)=O",
+        "predicted": "Oc1ccc(cc1O)N(=O)=O"
+    },
+    {
+        "original": "OCC=Cc1ccc(O)c(O)c1",
+        "predicted": "OCCNCc1ccc(O)ccO)c1"
+    },
+    {
+        "original": "Oc1cc2CCOc2cc1CC=C",
+        "predicted": "CC1cccCCCc2c21CCCC"
+    },
+    {
+        "original": "CC(N)C(=O)Nc1ccccc1",
+        "predicted": "NC(N)C(=O)cc1ccccc1"
+    },
+    {
+        "original": "CCc1ccc2ccccc2c1O",
+        "predicted": "CCc1ccc(ccccc2c1O"
+    },
+    {
+        "original": "O=C1NN=C2CCCCC2=C1",
+        "predicted": "C=C1NC=C2NCCCCC=N1"
+    },
+    {
+        "original": "CC(C)(N)C(O)=O",
+        "predicted": "CC(C)CC)C(O)=O"
+    },
+    {
+        "original": "CCCCN1C(=O)CCC1=O",
+        "predicted": "CCCCC1C(=O)C((1=O"
+    },
+    {
+        "original": "CCCCCCCCCNc1ncccn1",
+        "predicted": "CCCCCCCCCcc1cccnn1"
+    },
+    {
+        "original": "CC1(C)CC11CCOC1=O",
+        "predicted": "CCCCCCCCCCCC(C(=O"
+    },
+    {
+        "original": "OCCCCCC(O)=O",
+        "predicted": "OC(CCCCCO)CO"
+    },
+    {
+        "original": "CCCCCCCCCCCC(=O)OC",
+        "predicted": "CCCCCCCCCCCCCCO)OC"
+    },
+    {
+        "original": "CC(C)(C)C1CCCCC1=O",
+        "predicted": "CCCC)CC)C1CCCCC1=O"
+    },
+    {
+        "original": "CCc1sccc1Cc1c[nH]cn1",
+        "predicted": "CC(1nc((1C#1c[nH]cn1"
+    },
+    {
+        "original": "NCC(O)CSP(O)(O)=O",
+        "predicted": "NCC(O)CPP(O)(O)=O"
+    },
+    {
+        "original": "CN(C)c1ccccc1C(O)=O",
+        "predicted": "CC1C)C1ccccc1C=C)=O"
+    },
+    {
+        "original": "CC(C)OCC(O)CN",
+        "predicted": "CC(C)(CC(O)C("
+    },
+    {
+        "original": "Oc1ccc(F)c(O)c1",
+        "predicted": "Oc1ccc(c)c2O)c1"
+    },
+    {
+        "original": "OCc1n[nH]c(CO)n1",
+        "predicted": "CCC1ncnH]c(CO)n1"
+    },
+    {
+        "original": "CC(N)CNc1ccnc(N)n1",
+        "predicted": "CCCC)C(c1cc(c(N)n1"
+    },
+    {
+        "original": "O=NN1CCCCCCCCCC1",
+        "predicted": "C=NN1CCCCC11CCCC"
+    },
+    {
+        "original": "CCC1(CC)CCOC1=O",
+        "predicted": "CCCC(CCCCC(C(=O"
+    },
+    {
+        "original": "Cc1ccc2ncccc2c1N",
+        "predicted": "CC1ccc(Nc((c2c1N"
+    },
+    {
+        "original": "CC(=O)Cc1ncccc1C",
+        "predicted": "CC(=O)cc1ccccc1"
+    },
+    {
+        "original": "CCCCCNC(=S)c1cccnc1S",
+        "predicted": "CCCCCCc(=S)c1cccnc1"
+    },
+    {
+        "original": "CCC1NCC(O)C1O",
+        "predicted": "CCCCNCC(O)C(O"
+    },
+    {
+        "original": "CNNC(=O)CCC(O)=O",
+        "predicted": "CCC((CO)CCC(O)=O"
+    },
+    {
+        "original": "OCc1ccc2ccccc2c1",
+        "predicted": "OCC1ccccOcccc2c1"
+    },
+    {
+        "original": "CC(C)(Cl)N(=O)=O",
+        "predicted": "CC(C)(C))C(CO)=O"
+    },
+    {
+        "original": "COC(=O)CC1NCCNC1=O",
+        "predicted": "CCC(=O)CCCCCCNC1"
+    },
+    {
+        "original": "CCCCCC(O)CN",
+        "predicted": "CC(((((=)==11"
+    },
+    {
+        "original": "CCCCC(CC)COC(=O)C=C",
+        "predicted": "CCCCCC=CC=(C(=O)C=C"
+    },
+    {
+        "original": "CC=Cc1cccnc1",
+        "predicted": "CCCCC1ccc(c1"
+    },
+    {
+        "original": "CC(=O)NCCCCCCCCCCN",
+        "predicted": "CCCCO)NCCCCCCCCCCC"
+    },
+    {
+        "original": "CC=CC(=O)OCC(C)C",
+        "predicted": "CCCCC==O)CC11C)C"
+    },
+    {
+        "original": "CC1CCC2=C1SSC2=S",
+        "predicted": "CCCCCC((CCCCC2(N"
+    },
+    {
+        "original": "OC1=COC=CC1=O",
+        "predicted": "OC(=CCC=CC==O"
+    },
+    {
+        "original": "OCCOc1ccc(Cl)cc1",
+        "predicted": "OCccc1ccccOl)cc1"
+    },
+    {
+        "original": "Nc1nc2cc(Cl)ccc2n1N",
+        "predicted": "NC1cc2cccNl)ccc2n1"
+    },
+    {
+        "original": "OC(Cn1ccnc1)Cn1ccnc1",
+        "predicted": "CCcCC1ccnc1)C11ccnc1"
+    },
+    {
+        "original": "Oc1ccccc1OCC1NCCS1",
+        "predicted": "CC1cccc(1CCC1CCCNC"
+    },
+    {
+        "original": "CC(C)(CO)CO",
+        "predicted": "CCCC)CC))CC"
+    },
+    {
+        "original": "CC#C",
+        "predicted": "CCCCC"
+    },
+    {
+        "original": "OC1CC(O)C(O)CC1O",
+        "predicted": "OCCCCCO)C(O)C(1O"
+    },
+    {
+        "original": "ONC(=O)C1=CCCC1",
+        "predicted": "CNC(=O)CCCCCCCC"
+    },
+    {
+        "original": "OC(=O)CN1C(=O)CSC1=S",
+        "predicted": "OC(=O)CC1CC=O)CCC1"
+    },
+    {
+        "original": "NC(=S)COc1ccccc1",
+        "predicted": "NC1=S)Ncc1ccccc1"
+    },
+    {
+        "original": "COCCNC(=S)Nc1ccccn1",
+        "predicted": "CCcCNc(=S)Nc1cccnn1"
+    },
+    {
+        "original": "CN(C)C(=S)N1CCOCC1",
+        "predicted": "CC1C)CCCS)N1CCCCC1"
+    },
+    {
+        "original": "CNCC(O)c1cc(O)ccc1F",
+        "predicted": "CCCC(O)c1cccO)cc(1"
+    },
+    {
+        "original": "CONC(=O)C(C)CS",
+        "predicted": "CCC=(=O)C1C)C("
+    },
+    {
+        "original": "CC(=O)Nc1nc(CCl)cs1",
+        "predicted": "CC(CO)Nc1cccC)))cc1"
+    },
+    {
+        "original": "COCCOc1cc(C)nc(N)n1",
+        "predicted": "CCCCNC1nc(NOcc(N)n1"
+    },
+    {
+        "original": "Clc1ccc2OC(=O)Nc2c1",
+        "predicted": "OCC1ccc(NC(=O)Nc2c1"
+    },
+    {
+        "original": "C1CC2OOC1C1OC21",
+        "predicted": "CCCC2(CC122222"
+    },
+    {
+        "original": "OC1CCCNC1",
+        "predicted": "OCCCCCC11"
+    },
+    {
+        "original": "OP(O)(=O)NC(=O)CCl",
+        "predicted": "NC(O)(=O)Cc(=O)C=="
+    },
+    {
+        "original": "O=C1NC(=NO1)c1cccnc1",
+        "predicted": "O=C1NN==Nc1)c1ccccc1"
+    },
+    {
+        "original": "OC(=O)C1CCNCC1",
+        "predicted": "CC(=O)CCCCCCC1"
+    },
+    {
+        "original": "CN1CCCC1CC(C)=O",
+        "predicted": "CC1CCCC1CCC=1=O"
+    },
+    {
+        "original": "CNC(=S)n1nc(N)nc1N",
+        "predicted": "NCC(=N)N1ncnN)nc1N"
+    },
+    {
+        "original": "Cc1cc2c(N)cccc2nn1",
+        "predicted": "Nc1cccccN)cccc2c11"
+    },
+    {
+        "original": "CCCCCCCCCCCCCCCCNCCO",
+        "predicted": "CCCCCCCCCCCCCCCCC"
+    },
+    {
+        "original": "CC(C(N)C(O)=O)C(O)=O",
+        "predicted": "NC(N)N)C(O)=O)C(O)=O"
+    },
+    {
+        "original": "CC(C)Nc1ncnn2cccc12",
+        "predicted": "CCCC)cc1nc2c1cccc12"
+    },
+    {
+        "original": "CCNc1nccn2c(Br)cnc12",
+        "predicted": "CCCc1nc22cccCr)ccc12"
+    },
+    {
+        "original": "ClC(Cl)(Cl)CC1CO1",
+        "predicted": "CCCCCl)CC1)C11CC1"
+    },
+    {
+        "original": "OCCCCOC(=O)C=C",
+        "predicted": "CCCCCCC(=O)C=CCCCCCC"
+    },
+    {
+        "original": "CC1CCC(C1N)C(O)=O",
+        "predicted": "CCCCC((CC))C(O)=O"
+    },
+    {
+        "original": "CCc1ccnc(n1)N(C)C",
+        "predicted": "CCC1cccc(C1)C(=)C"
+    },
+    {
+        "original": "BrCC(=O)OCc1ccccc1",
+        "predicted": "CrCC(=O)ccc1ccccc1"
+    },
+    {
+        "original": "O=C1C=CSN1c1cccnc1",
+        "predicted": "C=C1NCCCC1c1cccnc1"
+    },
+    {
+        "original": "COC1CCCC(=O)C1O",
+        "predicted": "CCC(CCC((=O)N1"
+    },
+    {
+        "original": "CCN(C)CCc1ccc(C)nc1",
+        "predicted": "CCCCC)CCC1ccccC)cc1"
+    },
+    {
+        "original": "NC(=N)NCC=CC1CCCCC1",
+        "predicted": "CCC=N)NCCCCC1CCCCC1"
+    },
+    {
+        "original": "CC(CCl)OC(C)CCl",
+        "predicted": "CCCC)C)CCCCl(##"
+    },
+    {
+        "original": "CC1Cc2sc3ccccc3c2CN1",
+        "predicted": "CCCCC2cccccccc2c2CN1"
+    },
+    {
+        "original": "CC(=O)c1sc2ccccc2c1C",
+        "predicted": "CC(=O)c1cc2ccccc2c1"
+    },
+    {
+        "original": "Oc1cnc2NC(=O)NCc2c1",
+        "predicted": "CC1ccc2CCC=O)CcC2c1"
+    },
+    {
+        "original": "CCCCSC(N)=N",
+        "predicted": "CCCCCC(N)=NCNN"
+    },
+    {
+        "original": "Nc1cc[nH]n1",
+        "predicted": "Nc1nc(nH]n1"
+    },
+    {
+        "original": "OC1CNCC(O)C1O",
+        "predicted": "CCCCNCC(O)C1O"
+    },
+    {
+        "original": "CCCC1=CC(OC)=CC(O)O1",
+        "predicted": "CCCCC=CC==)1=CC(O)C1"
+    },
+    {
+        "original": "NCC(O)C1=CCCCCC=C1",
+        "predicted": "CCCC=)C1CCCCCC11C1"
+    },
+    {
+        "original": "NC1CCCc2ccccc12",
+        "predicted": "NCCCCcc2ccccc12"
+    },
+    {
+        "original": "CNc1nccn2c(Br)cnc12",
+        "predicted": "CCc1nc22cccCr)ccc12"
+    },
+    {
+        "original": "CC1=CC(O)C2OC2C1=O",
+        "predicted": "CC((CC(=)C(CC2C1=O"
+    },
+    {
+        "original": "CNc1ccc(NC(N)=N)cc1",
+        "predicted": "NCC1ccc(cC(N)=N)cc1"
+    },
+    {
+        "original": "Nc1ncc2nc[nH]c2n1",
+        "predicted": "Nc1nc((ncnnH]c2c1"
+    },
+    {
+        "original": "CCC1CC(C)C(N)=N1",
+        "predicted": "CCCCCCCN)==N)=NC"
+    },
+    {
+        "original": "COc1nccnc1CCCCCCC(C)C",
+        "predicted": "CCc1ccccc1C111CCCCC)c"
+    },
+    {
+        "original": "CC1OC(=O)C=C1",
+        "predicted": "CC(CC(=O)C(C1"
+    },
+    {
+        "original": "CSCCN(N)c1nc2ccccc2o1",
+        "predicted": "CCC((CNc=1cc2ccccc2n1"
+    },
+    {
+        "original": "NC(=N)SC=CC(O)=O",
+        "predicted": "NC(=O)NCCCC(O)=O"
+    },
+    {
+        "original": "C1CCc2[nH]ncc2C1",
+        "predicted": "CCCC22nnH]ccc2C1"
+    },
+    {
+        "original": "CC(=O)c1ccc2OCOc2c1",
+        "predicted": "CCCCO)C1ccc(CCCc2c1"
+    },
+    {
+        "original": "CCCC=CC(O)=O",
+        "predicted": "CCC((CC(O)=O"
+    },
+    {
+        "original": "C1CNc2ccccc2C1",
+        "predicted": "CCCCC2ccccc2C1"
+    },
+    {
+        "original": "CC(C)(C)ON",
+        "predicted": "CC(C)(C)N"
+    },
+    {
+        "original": "Cn1nc(Br)cc1C(O)=O",
+        "predicted": "OC1cccCr)c11C(O)=O"
+    },
+    {
+        "original": "NC1=CC(=O)C=CC1=O",
+        "predicted": "NC(=NC(=O)N=CN(=N"
+    },
+    {
+        "original": "C=C1CC2CCCC12C=O",
+        "predicted": "CCCCCCCCCCCCCCCC"
+    },
+    {
+        "original": "SC1CCCC1",
+        "predicted": "CCCCCCCCCCCC1111111111"
+    },
+    {
+        "original": "NCc1cccc(c1)C(O)=O",
+        "predicted": "NCC1ccc((c1)C(O)=O"
+    },
+    {
+        "original": "Nc1ccc(O)cc1O",
+        "predicted": "Nc1ccc(c)c21N"
+    },
+    {
+        "original": "Clc1ncc(Cn2cccn2)s1",
+        "predicted": "CCc1ccccCn2cccc2)c1"
+    },
+    {
+        "original": "Nc1ncc2ccccc2n1",
+        "predicted": "Nc1cc22ccccc2c1"
+    },
+    {
+        "original": "S=C1NCCN1C=C(C#N)C#N",
+        "predicted": "CCC1NC==1"
+    },
+    {
+        "original": "CN1CCCC1c1cccnc1",
+        "predicted": "CN1CCCC1C1cccnc1"
+    },
+    {
+        "original": "CCNc1ccc(O)c2ccccc12",
+        "predicted": "CCCC1ccc(O)c(ccccc12"
+    },
+    {
+        "original": "ONC(=O)CCCC(=O)NO",
+        "predicted": "CNC(=O)CCCC(NO)NO"
+    },
+    {
+        "original": "CC=NOCC(O)CNC(C)C",
+        "predicted": "CCCCCCC1O)C11(C)C"
+    },
+    {
+        "original": "OC(=O)CSCCn1cccn1",
+        "predicted": "CC(=O)CCCC(1ccnn1"
+    },
+    {
+        "original": "CCCCCCCCCCCCC=O",
+        "predicted": "CCCCCCCCCCCCCCO"
+    },
+    {
+        "original": "CC1NCC=C1C(O)=O",
+        "predicted": "CCCCC((C1CCO)CO"
+    },
+    {
+        "original": "NC1CCCN(CC(O)=O)C1=O",
+        "predicted": "CCCCCCCCC11O)=O)C1=O"
+    },
+    {
+        "original": "CCCC(C)(F)F",
+        "predicted": "CCCCCCCCC)C"
+    },
+    {
+        "original": "CC(=O)C(N)C(O)=O",
+        "predicted": "NC(NO)N(N)C(O)=O"
+    },
+    {
+        "original": "ONC(=O)c1ccccn1",
+        "predicted": "NNC(=O)c1ccccc1"
+    },
+    {
+        "original": "O=CCC1C2CCCC2CC1=O",
+        "predicted": "C=C11CCCCCCCCCCC2O"
+    },
+    {
+        "original": "ClC(Br)Br",
+        "predicted": "CCCCCr)Cr"
+    },
+    {
+        "original": "NC(=N)CCCc1c[nH]cn1",
+        "predicted": "NC(=N)NCCC1c[nH]cn1"
+    },
+    {
+        "original": "Cc1ccn2nccc2n1",
+        "predicted": "CC1nc(cccnc2c1"
+    },
+    {
+        "original": "C=C1CCC(=O)O1",
+        "predicted": "CCC1CC22=O)C1"
+    },
+    {
+        "original": "Brc1c[nH]cn1",
+        "predicted": "Nrc1ccnH]c(1"
+    },
+    {
+        "original": "Cc1nonc1C1=NNC(=S)N1",
+        "predicted": "Cc1nccc1S==NNC(=S)N1"
+    },
+    {
+        "original": "OCC1OC(=O)CC1O",
+        "predicted": "OC((OC(=O)C((O"
+    },
+    {
+        "original": "CC1Cc2ccccc2C(N)=N1",
+        "predicted": "CC(CC2ccccc2N(N)=N1"
+    },
+    {
+        "original": "CC=CC=CC=CC=CC(O)=O",
+        "predicted": "CC(CC=CC=CC=OC=O)=O"
+    },
+    {
+        "original": "c1cncc(c1)-c1nn[nH]n1",
+        "predicted": "N1ccc22c1)-c1cccnH]c1"
+    },
+    {
+        "original": "C=CCSC1CC(=O)N1",
+        "predicted": "CCCCOC1CCC=O)NC"
+    },
+    {
+        "original": "CNC(=O)n1ncnc1N",
+        "predicted": "NCC(=O)N1cc(c1NC"
+    },
+    {
+        "original": "Cc1c(N)ccc2cnccc12",
+        "predicted": "Cc1ccC)ccccncccc12"
+    },
+    {
+        "original": "S=C=NCC#C",
+        "predicted": "C=C1NN11N"
+    },
+    {
+        "original": "NC(=N)SCc1ncccc1O",
+        "predicted": "NC(=N)NCC1ccc((1N"
+    },
+    {
+        "original": "CCSC(=N)Nc1ccccn1",
+        "predicted": "CC(C(=N)Nc1cccnn1"
+    },
+    {
+        "original": "CN(C)N=C(NN)NCC(O)=O",
+        "predicted": "NCCC)CCC(N))C=((O)=O"
+    },
+    {
+        "original": "CSC(=S)NN=C1CCCCC1",
+        "predicted": "CCCC=O)NC=C1CCCCC1"
+    },
+    {
+        "original": "O=CC1CCC=CC1",
+        "predicted": "C=C11CCCCC21"
+    },
+    {
+        "original": "NOC1CCC(N)CC1",
+        "predicted": "CCCCCCCCC)C11"
+    },
+    {
+        "original": "NC(Cc1ccccc1)C(O)=O",
+        "predicted": "NC(Cc1ccccc1)C(O)=O"
+    },
+    {
+        "original": "CCOC(=O)Cn1nnnc1C",
+        "predicted": "CCOC(=O)C11cccc1C"
+    },
+    {
+        "original": "NCCC1CN=C(N)N1",
+        "predicted": "CCCCC=C=C(N)NC"
+    },
+    {
+        "original": "Nc1ccc2C(=O)CCc2c1",
+        "predicted": "CC1ccc(NC=O)NCc2c1"
+    },
+    {
+        "original": "CCCCCCCCNc1ncccn1",
+        "predicted": "CCCCCCCCCc1nccnn1"
+    },
+    {
+        "original": "CCN(C)CCOc1ccc(OC)nc1",
+        "predicted": "CCC(CCCCcc1ccccCC)cc1"
+    },
+    {
+        "original": "NC1CC2OC1c1ccccc21",
+        "predicted": "NCCCCCCC1c1ccccc21"
+    },
+    {
+        "original": "CN(C)CSC1Nc2ccccc2S1",
+        "predicted": "CNCC)CCccC=2ccccc2C1"
+    },
+    {
+        "original": "OCCCCN1C=CC(=O)NC1=O",
+        "predicted": "CCCNCCCC=CC(=O)NC1=O"
+    },
+    {
+        "original": "NC1=NCCNCC1",
+        "predicted": "CCC=NCCC111"
+    },
+    {
+        "original": "CNc1ccc(C=O)cc1Cl",
+        "predicted": "COC1ccc(c=O)cc1C"
+    },
+    {
+        "original": "O=C1C=CSN1c1ccccc1",
+        "predicted": "C=C1N=CCc1c1ccccc1"
+    },
+    {
+        "original": "NC(=O)OCCCc1ccccc1",
+        "predicted": "OC(=O)CCccc1ccccc1"
+    },
+    {
+        "original": "NS(=O)(=O)c1ccc(CO)cc1",
+        "predicted": "NC(=O)(=O)N1ccccCC)cc1"
+    },
+    {
+        "original": "S=Cc1nc2ccccc2[nH]1",
+        "predicted": "N=C11cc2ccccc2[nH]1"
+    },
+    {
+        "original": "NC(=S)NN=Cc1ccccc1",
+        "predicted": "NC(=S)NN=Cc1ccccc1"
+    },
+    {
+        "original": "CCCCCCC(O)CN",
+        "predicted": "CCCCCCCCN)C("
+    },
+    {
+        "original": "CCCC(N)C(=O)OC",
+        "predicted": "CCCCCC)C(=O)NC"
+    },
+    {
+        "original": "COc1ccccc1CCCN(C)C",
+        "predicted": "CNc1cccc(1C1111C)C"
+    },
+    {
+        "original": "CCc1ccc(OC(C)=O)cc1",
+        "predicted": "CCC1ccc(CC(C)=O)cc1"
+    },
+    {
+        "original": "NC(CCON=C(N)N)C(O)=O",
+        "predicted": "NC(CCC)=C(N)N)C(O)=O"
+    },
+    {
+        "original": "Cc1cc(C)cc(C)c1",
+        "predicted": "CC1cccC)cc(C)c1"
+    },
+    {
+        "original": "CN1C=Nc2[nH]ncc2C1=S",
+        "predicted": "CccC=NN2nnH]ccc2N1=S"
+    },
+    {
+        "original": "CC(=O)N(O)Cc1ccccc1",
+        "predicted": "CC(CO)ccC)cc1ccccc1"
+    },
+    {
+        "original": "CCc1cccc(O)c1",
+        "predicted": "CCC1ccc((O)c1"
+    },
+    {
+        "original": "Cc1ccnc(C)c1O",
+        "predicted": "CC1cccc(OCc1C"
+    },
+    {
+        "original": "CCOC(=O)CCc1ccccc1",
+        "predicted": "CCOC(=O)ccc1ccccc1"
+    },
+    {
+        "original": "Cc1cc(NCCO)n2nccc2n1",
+        "predicted": "CC1cc(C)CC)cccccc1n1"
+    },
+    {
+        "original": "COc1ccc2OCCC(CN)c2c1",
+        "predicted": "CNc1ccc(CCCccNN2c2c1"
+    },
+    {
+        "original": "CCC1CN=C(N)C1",
+        "predicted": "CCCCCC=C(N)C("
+    },
+    {
+        "original": "CCOc1nc(Br)cn2ccnc12",
+        "predicted": "CCNc1nccCr)ccccccc12"
+    },
+    {
+        "original": "COCC1CCC=C1C=NO",
+        "predicted": "CCCCCCCC(C(C(NN"
+    },
+    {
+        "original": "OCCC(O)(CC(O)=O)C=C",
+        "predicted": "CC((C=)C===O)=O)C=C"
+    },
+    {
+        "original": "CN(CC#C)c1ncccn1",
+        "predicted": "CCcC)#N)c1ccccn1"
+    },
+    {
+        "original": "CCCCCC(=O)CC",
+        "predicted": "CCCCCCCCO)C((CC"
+    },
+    {
+        "original": "CCCCCCCCCCC(C)O",
+        "predicted": "CCCCCCCCCCCCO)O"
+    },
+    {
+        "original": "COc1cccc2sc(N)nc12",
+        "predicted": "CCc1ccc(([c(N)cc12"
+    },
+    {
+        "original": "CC(C)NC=O",
+        "predicted": "CCCCOCCCC"
+    },
+    {
+        "original": "COC(=O)C=C",
+        "predicted": "CCC(=O)C=CCCCCCCCCC"
+    },
+    {
+        "original": "O=C1OC(=NS1)c1cccnc1",
+        "predicted": "C=C1NC(=Cc1)c1ccccc1"
+    },
+    {
+        "original": "On1cc2CNCCc2n1",
+        "predicted": "CC1cccCCCCc2n1"
+    },
+    {
+        "original": "C#Cc1cccc(c1)C#C",
+        "predicted": "NlCc1cccccc1)C#N"
+    },
+    {
+        "original": "NC(CF)CCC(O)=O",
+        "predicted": "CCCCC)CCCCO)=O"
+    },
+    {
+        "original": "NCCC1CN=C(N)N1",
+        "predicted": "CCCCC=C=C(N)NC"
+    },
+    {
+        "original": "ONS(=O)(=O)C(F)(F)F",
+        "predicted": "OSC(=O)(=O)=(O)(F)("
+    },
+    {
+        "original": "OC1CC(O)C(O)C2OC12",
+        "predicted": "OCCCNCO)C(O)C1OC12"
+    },
+    {
+        "original": "CCN1C=CC(=O)C(O)=C1C",
+        "predicted": "CC(1C=NC==S)N(=)=C1C"
+    },
+    {
+        "original": "Nc1sc2CCCCCCc2c1C#N",
+        "predicted": "NC1nc(CCCCccC2c1ClN"
+    },
+    {
+        "original": "CC(=O)Nc1ccc2CCCc2c1",
+        "predicted": "CCC=O)Nc1ccc(CCNc2c1"
+    },
+    {
+        "original": "CCCNCc1cc(Cl)ccc1Cl",
+        "predicted": "CCCCCC1cccCl)ccc1Cl"
+    },
+    {
+        "original": "CC(=C)CNCCN",
+        "predicted": "CCCCN)C1CCCCCCCCCCCCCC"
+    },
+    {
+        "original": "OCC1NCC(F)C(O)C1O",
+        "predicted": "CCC1NCC(O)C(O)C1O"
+    },
+    {
+        "original": "SC1=CC(=S)NC(=S)N1",
+        "predicted": "N=1=NC==N)N===S)N1"
+    },
+    {
+        "original": "CCOC(=O)c1cnc(N)nc1O",
+        "predicted": "CC(C(=O)C1nnc(N)nc1"
+    },
+    {
+        "original": "OC1COC(=O)C1=C",
+        "predicted": "OC(CCC(=O)C(CC"
+    },
+    {
+        "original": "CC(C)CC1NCCNC1=O",
+        "predicted": "CCCC)CCCCC((C1=O"
+    },
+    {
+        "original": "CC(C)(O)CCC(C)(C)O",
+        "predicted": "CC(C)(C)CC((C)(C)C"
+    },
+    {
+        "original": "NC1C(CCO)CN(O)C1=O",
+        "predicted": "NCCCCCCC)C(CC)C(=O"
+    },
+    {
+        "original": "ON=Cc1ccns1",
+        "predicted": "Cc=Cc1cccc1"
+    },
+    {
+        "original": "NCc1ccc(F)cc1",
+        "predicted": "NCC1ccc2C)cc1"
+    },
+    {
+        "original": "CCOP(=S)(OCC)SCCSCC",
+        "predicted": "CC(C(=O)(OCCCOCCCCC"
+    },
+    {
+        "original": "CN(C)CCOc1cncc(Br)c1",
+        "predicted": "CC1C)CCcc1cccccCr)c1"
+    },
+    {
+        "original": "NC(NO)=Nc1cccc(Cl)c1",
+        "predicted": "NC(=))=Nc1ccc((Nl)c1"
+    },
+    {
+        "original": "NC1CC(=O)c2sccc12",
+        "predicted": "CCCCCC=C)c2cccc12"
+    },
+    {
+        "original": "CCC1(C)CC(=O)NC1=O",
+        "predicted": "CC11(C)CCC=O)NC1=O"
+    },
+    {
+        "original": "CC(C)c1ccc(O)c(N)c1",
+        "predicted": "CCCN)c1ccc(N)c(N)c1"
+    },
+    {
+        "original": "CCON(CC)C(S)=S",
+        "predicted": "CC(C=CC)C(=)=S"
+    },
+    {
+        "original": "CN1C2CCCC1CC(=O)C2",
+        "predicted": "CC1CCCCCCCCCC=O)C2"
+    },
+    {
+        "original": "CCCCCCCCCCCNC=O",
+        "predicted": "CCCCCCCCCCCCC(O"
+    },
+    {
+        "original": "CC(NC=O)C(O)=O",
+        "predicted": "CC(C)(C)C(O)CO"
+    },
+    {
+        "original": "CC1=CC(=O)C=C(C)O1",
+        "predicted": "CCC=CC(=O)C(CCC)C1"
+    },
+    {
+        "original": "CC(=O)C=C(O)C(O)=O",
+        "predicted": "OC(=O)N=CCO)C(O)=O"
+    },
+    {
+        "original": "CC(CO)=CCCOP(O)(O)=O",
+        "predicted": "CC(O))(CC(#P(O)(O)=O"
+    },
+    {
+        "original": "NNC(=S)Nc1ccccc1F",
+        "predicted": "NcC(=S)Nc1ccccc1"
+    },
+    {
+        "original": "CCNC1Cc2ccccc2C1",
+        "predicted": "CCCCCCC2ccccc2C1"
+    },
+    {
+        "original": "NC(C#N)C(=N)C#N",
+        "predicted": "NC(==N)C(=N)N#N"
+    },
+    {
+        "original": "NOC1CCCCO1",
+        "predicted": "CCCCCCCCC1"
+    },
+    {
+        "original": "CCCCOC(=O)C=CC",
+        "predicted": "CCCCCC(=O)C(CC(CC"
+    },
+    {
+        "original": "Cc1cccc(CC(O)=O)c1",
+        "predicted": "CC1cccc(cC(O)=O)c1"
+    },
+    {
+        "original": "Cc1ccc2sccc2c1",
+        "predicted": "CC1cccccccc2c1"
+    },
+    {
+        "original": "O=C(C1CCC1)c1ccccc1",
+        "predicted": "C=C1NCCCC1)c1ccccc1"
+    },
+    {
+        "original": "Cc1ccc(C)c(O)c1C",
+        "predicted": "CC1ccc(OOc(O)c1"
+    },
+    {
+        "original": "C=CC(=O)OCCC#N",
+        "predicted": "CCCC==O)NCC=(N"
+    },
+    {
+        "original": "CC(=C)CCl",
+        "predicted": "Cl(CC)Cll"
+    },
+    {
+        "original": "Nc1nc2ccccc2cc1C#N",
+        "predicted": "Nc1cc2ccccc2c11NlN"
+    },
+    {
+        "original": "OC(=O)CCN(=O)=O",
+        "predicted": "CC(=O)CCC==O)=O"
+    },
+    {
+        "original": "Cc1sc2nc(N)sc2c1C",
+        "predicted": "CC1nc(nc(N)nc2c1C"
+    },
+    {
+        "original": "COCCCNCC(O)C(F)(F)F",
+        "predicted": "CCCC1CCCOO)COO)CF)F"
+    },
+    {
+        "original": "NC1CCONC1=O",
+        "predicted": "CC(CCCCC1=O"
+    },
+    {
+        "original": "CNC1CCN(C)CC1",
+        "predicted": "CCCCCCC(CCCC1"
+    },
+    {
+        "original": "c1cc2cnc3ccccc3n2c1",
+        "predicted": "C1ccccccccccc33c2c1"
+    },
+    {
+        "original": "Nc1nc2ccc3CCNCc3c2s1",
+        "predicted": "NC1cccCcccCCCCc2c2c1"
+    },
+    {
+        "original": "CCCCC(=O)c1ccc(O)cc1",
+        "predicted": "CCCCCCCO)c1ccc(O)cc1"
+    },
+    {
+        "original": "COC(=O)C1(C)CO1",
+        "predicted": "CCC(=O)C1CCCCSC"
+    },
+    {
+        "original": "ClC(=O)OCc1ccccc1",
+        "predicted": "CCCC=O)cCc1ccccc1"
+    },
+    {
+        "original": "COCC(N)C(O)=O",
+        "predicted": "NCC((N)C(O)=O"
+    },
+    {
+        "original": "OC1C=CC(O)C(O)C1O",
+        "predicted": "OCCCCCC(O)C(O)C1O"
+    },
+    {
+        "original": "NC1CCCc2ccccc2C1O",
+        "predicted": "NCCCCcc2ccccc1C1O"
+    },
+    {
+        "original": "CCCCCCC=CCO",
+        "predicted": "CCCCCCCCCCCCCCCCCOO"
+    },
+    {
+        "original": "CC(C)C1CCC(C)CC1=O",
+        "predicted": "CCCC)CCCCC(C)(C1=O"
+    },
+    {
+        "original": "OC(=O)C1CC2CCC1CC2",
+        "predicted": "CC(=O)CCCCCCCCCCC2"
+    },
+    {
+        "original": "CC(C)NC(CS)C(O)=O",
+        "predicted": "CCCC)CC(CS)C(O)=O"
+    },
+    {
+        "original": "CC(C)CC(N)C(=O)NO",
+        "predicted": "CCCC)CCCN)C(=O)NO"
+    },
+    {
+        "original": "N#CCCN1CCNCC1",
+        "predicted": "CCCCCC1CCC(C1"
+    },
+    {
+        "original": "OC(=O)C(=C)CC(=O)CC#N",
+        "predicted": "CC(=O)C=CC)C((OO)C=lN"
+    },
+    {
+        "original": "CC(C)COCC(O)CNC(C)C",
+        "predicted": "CCCC)CCCC(O)C(((C)C"
+    },
+    {
+        "original": "CCCC1NN=C(CCC)N=N1",
+        "predicted": "CCCCCCC=C(N))#C1O1"
+    },
+    {
+        "original": "CC1NC(O)C(O)C(O)C1O",
+        "predicted": "OCCNCCC)C(O)C(O)C1O"
+    },
+    {
+        "original": "COC(=O)NNC(=O)NCCCl",
+        "predicted": "CCC(=O)CC=(=O)CCCCl"
+    },
+    {
+        "original": "Oc1c(I)cc(I)cc1I",
+        "predicted": "Nc1ccC)cccC)c11C"
+    },
+    {
+        "original": "COc1ccc2c(C)nccc2n1",
+        "predicted": "CCc1ccc(ncC)cccc2c1"
+    },
+    {
+        "original": "Cc1cccc(C(O)=O)c1Cl",
+        "predicted": "CC1ccc((c=O)=O)c1"
+    },
+    {
+        "original": "Nc1nc2c(F)cccc2s1",
+        "predicted": "Nc1cc2ccC)cccc2s1"
+    },
+    {
+        "original": "OC(=O)c1ccccc1Cl",
+        "predicted": "O=(=O)c1ccccc1Bl"
+    },
+    {
+        "original": "CC(=NO)c1cccc(Br)c1",
+        "predicted": "CC(=NO)c1cccccOr)c1"
+    },
+    {
+        "original": "CCc1cccc(CC)c1O",
+        "predicted": "CCC1ccc((CCCc1O"
+    },
+    {
+        "original": "CN(C)CCOC(=O)c1cnccn1",
+        "predicted": "CC1C)CCCC(=O)c1ccccc1"
+    },
+    {
+        "original": "CCN(C)CCc1ccc(Br)nc1",
+        "predicted": "CCC1CCCCc1cccnCr)cc1"
+    },
+    {
+        "original": "OC(=O)C1NCC=C1",
+        "predicted": "CC(=O)CCCCCNC1"
+    },
+    {
+        "original": "CC1=CC(C)=CC(=S)O1",
+        "predicted": "CCO=CC(=)CNC(=S)C1"
+    },
+    {
+        "original": "Oc1ccc(cc1O)C1CCNCC1",
+        "predicted": "CC1ccc(Oc1O)C1CCNCC1"
+    },
+    {
+        "original": "O=C1CCC2CCCC(=O)N12",
+        "predicted": "C=C1CCCCCCCCC=O)N12"
+    },
+    {
+        "original": "CC(=O)c1cc2ccccc2o1",
+        "predicted": "CC(=O)c1cccccccc2s1"
+    },
+    {
+        "original": "COc1ccc2[nH]ccc2c1",
+        "predicted": "COc1ccc(CnH]ccc2c1"
+    },
+    {
+        "original": "NCCCCCNCCCCCN",
+        "predicted": "CCCCCCCCCCCCC"
+    },
+    {
+        "original": "CCCNC(=O)CC#N",
+        "predicted": "CCCCC(=O)N((C"
+    },
+    {
+        "original": "SCC1(CS)NC(=O)NC1=O",
+        "predicted": "OC11NClCCC(=O)N11=O"
+    },
+    {
+        "original": "Cc1cc(OCC#N)nc(N)n1",
+        "predicted": "CC1nc(N)C2N)cc1N)n1"
+    },
+    {
+        "original": "CC#CC",
+        "predicted": "CCCCCCCCCCCCCCCCCC"
+    },
+    {
+        "original": "NCC(=O)NC(CCl)C(O)=O",
+        "predicted": "NC((NO)NCCCSS)C(O)=O"
+    },
+    {
+        "original": "Cc1ccnc(NC(N)=N)c1",
+        "predicted": "NC1cccc2NC(N)=N)c1"
+    },
+    {
+        "original": "CN(C)N(C)C1CSSC1",
+        "predicted": "CC(C)C(C)CCCCCC1"
+    },
+    {
+        "original": "CC(=C)C(O)=O",
+        "predicted": "CC(CO)C(O)=O"
+    },
+    {
+        "original": "CC1CC(O)C(O)CC1O",
+        "predicted": "CCCCCCO)CCO)C(1O"
+    },
+    {
+        "original": "C1CC2NC1CCc1cnncc21",
+        "predicted": "CCCCCNCCCCc1ccccc21"
+    },
+    {
+        "original": "CC1(C)Nc2cnccc2N=N1",
+        "predicted": "CC(NC)NC2ccccc2N1C1"
+    },
+    {
+        "original": "CN(C)CCCNCCc1cccs1",
+        "predicted": "CNCC)CCCCCCc1cccn1"
+    },
+    {
+        "original": "NCCCCCCCCc1c[nH]cn1",
+        "predicted": "CCCCCCCCCC1c[nH]cn1"
+    },
+    {
+        "original": "CCCOC(=O)c1cnc(C)cn1",
+        "predicted": "CCCCC(=O)c1cccnC)cn1"
+    },
+    {
+        "original": "CNS(=O)(=O)C(C)=CC",
+        "predicted": "CC1(=O)(=O)C(C)=C"
+    },
+    {
+        "original": "CCCCCCCCCCCCCCCCO",
+        "predicted": "CCCCCCCCCCCCCCCCC"
+    },
+    {
+        "original": "CCCCCCCCCc1ccc(O)cc1",
+        "predicted": "CCCCCCCCcc1ccc(O)cc1"
+    },
+    {
+        "original": "NC(CS)CCCP(O)(O)=O",
+        "predicted": "CCCCO)CCPP(O)(O)=O"
+    },
+    {
+        "original": "COc1ccc(OC)cc1",
+        "predicted": "COc1ccc(CCCcc1"
+    },
+    {
+        "original": "OCC(O)COc1ccc(Cl)cc1",
+        "predicted": "OCCcO)COc1ccccOl)cc1"
+    },
+    {
+        "original": "CC1CC(N)=NC2CCCC12",
+        "predicted": "CCCCCCN)CNC1CCCCC2"
+    },
+    {
+        "original": "NC1CCc2nc(N)sc2C1",
+        "predicted": "CCCCCC2nc(N)sc2C1"
+    },
+    {
+        "original": "ONC1CCCCCC1=NO",
+        "predicted": "CCCCCCCCC11=NO"
+    },
+    {
+        "original": "ClCCNCCNCCCl",
+        "predicted": "CCCCNCCC1CCC"
+    },
+    {
+        "original": "CCCCCCOc1ccc(N)cn1",
+        "predicted": "CCCCCCcc1ccc(N)cc1"
+    },
+    {
+        "original": "Nc1nnc2cccc(Cl)n12",
+        "predicted": "Nc1ccc2cccccCl)c12"
+    },
+    {
+        "original": "FC(F)(F)C(F)(F)Br",
+        "predicted": "CC(F)(F)C(F)(F)Cr"
+    },
+    {
+        "original": "NC(=N)CCCCCC(N)=N",
+        "predicted": "NCC=N)NCCCCC(N)=N"
+    },
+    {
+        "original": "CC(N)Cc1ccc(N)cc1C",
+        "predicted": "CCCC)Cc1ccc(N)cc1"
+    },
+    {
+        "original": "OC(=O)CCN1C(=O)CCC1=O",
+        "predicted": "CC(=O)CCC=CC=O)CCC1"
+    },
+    {
+        "original": "CCC#CCON=C1CN2CCC1C2",
+        "predicted": "CCCCCCCN=C1CN2CCC1C2"
+    },
+    {
+        "original": "CSc1ccnc(C(O)=O)c1S",
+        "predicted": "CCC1nccccCCO)=O)c1C"
+    },
+    {
+        "original": "ClCCCCOC1CCCCO1",
+        "predicted": "CCCCCCCCCCCNCC1"
+    },
+    {
+        "original": "COc1ccc(O)c(C)c1",
+        "predicted": "COc1ccc(O)c(C)c1"
+    },
+    {
+        "original": "COc1ccc2N=C(N)NCc2c1",
+        "predicted": "CCc1ccc(NCCNN)NCc2c1"
+    },
+    {
+        "original": "ClCCOC(=O)C=C",
+        "predicted": "CCCC(C(=O)C=C"
+    },
+    {
+        "original": "O=C1NC2CCCC12",
+        "predicted": "C=C1CCCCCCC12"
+    },
+    {
+        "original": "CCSCCNCCN",
+        "predicted": "CCCC((C((CCCCCCCCCCCCC"
+    },
+    {
+        "original": "NCCCCCCC(O)=O",
+        "predicted": "CCCCCCCCCO)=O"
+    },
+    {
+        "original": "O=S1(=O)OCCO1",
+        "predicted": "C=S1(=O)CCCC1"
+    },
+    {
+        "original": "O=C1NCCN1CC#CCN1CCCC1",
+        "predicted": "CCC1NCCC1CCCCCC1"
+    },
+    {
+        "original": "Cc1ccc(N)cc1O",
+        "predicted": "Nc1ccc(N)cc1C"
+    },
+    {
+        "original": "OC1=CC(=O)Nc2ccccc12",
+        "predicted": "ON1=Cc==O)C=2ccccc12"
+    },
+    {
+        "original": "CCc1ccc(CCN)cc1",
+        "predicted": "CCC1ccc(CCN)c11"
+    },
+    {
+        "original": "CC1=CC(=O)C(N)=CC1=O",
+        "predicted": "NC(=NC(=O)N(N)=NN1=N"
+    },
+    {
+        "original": "NC(=S)NN=C1CSSC1",
+        "predicted": "NC(=N)NN=C1NCCC1"
+    },
+    {
+        "original": "CCCC(CC(C)O)C(O)=O",
+        "predicted": "CCCCCCCCO)C)C(O)=O"
+    },
+    {
+        "original": "CCCCCCNCP(O)(=O)CN",
+        "predicted": "CCCCCCCCC(O)(=O)CN"
+    },
+    {
+        "original": "CCCCCCC=CC(C)=O",
+        "predicted": "CCCCCCCCCCC=)CO"
+    },
+    {
+        "original": "ONC(=O)c1ccc(F)cc1",
+        "predicted": "NNC(=O)c1ccccN)cc1"
+    },
+    {
+        "original": "NCC(O)C1CCCCCCC1",
+        "predicted": "CCCCO)C1CCCCC111"
+    },
+    {
+        "original": "CC(C1CCCN1)C(O)=O",
+        "predicted": "CCCC)CCCCC)C(O)=O"
+    },
+    {
+        "original": "NNC(=O)Nc1ccncc1",
+        "predicted": "NC=(=O)cc1ccccn1"
+    },
+    {
+        "original": "CCCCCNCC(F)(F)F",
+        "predicted": "CCCCCCCCCF)(F)F"
+    },
+    {
+        "original": "CCC(NN=C(N)N)C(O)=O",
+        "predicted": "NC((N))C(C)N)C(O)=O"
+    },
+    {
+        "original": "N#Cc1ncnc2[nH]cnc12",
+        "predicted": "NcCc1cc2c2cnH]ccc12"
+    },
+    {
+        "original": "C=CCc1ccc2OCOc2c1",
+        "predicted": "CCCCN1ccc(CCCc2c1"
+    },
+    {
+        "original": "Nc1ccc2cccnc2c1",
+        "predicted": "Nc1ccc2ccccc2c1"
+    },
+    {
+        "original": "OC(=O)Cc1cccc(O)c1O",
+        "predicted": "OC(=O)Cc1ccc((O)c1O"
+    },
+    {
+        "original": "Cn1ccc2ccccc12",
+        "predicted": "CC1ccc2ccccc12"
+    },
+    {
+        "original": "CNC(SC)=Nc1cccc(F)c1",
+        "predicted": "CCC(=C)=Nc1ccc((C)c1"
+    },
+    {
+        "original": "CNCCCOc1ccccc1",
+        "predicted": "CN1CCOc1ccccc1"
+    },
+    {
+        "original": "OC(=O)c1cccc(CCl)c1",
+        "predicted": "OC(=O)c1cccccCll)c1"
+    },
+    {
+        "original": "NC(O)(CC(O)=O)C(O)=O",
+        "predicted": "NC(=)==(lO)=O)C(O)=O"
+    },
+    {
+        "original": "Sc1ccccc1-c1c[nH]cn1",
+        "predicted": "NC1ccccc1Nc1ccnH]cn1"
+    },
+    {
+        "original": "OCCN1CCN(CC1)C(=O)CO",
+        "predicted": "CCCC1CCC=CC1OC=OO)NO"
+    },
+    {
+        "original": "OC1CCNC(=O)C1O",
+        "predicted": "CCCCNCC(CO)C(C"
+    },
+    {
+        "original": "NNC(=O)c1ccccc1CO",
+        "predicted": "NCC(=O)C1ccccc1CO"
+    },
+    {
+        "original": "COc1ccc2[nH]ncc2c1",
+        "predicted": "COc1ccc([nH]ccc2c1C1"
+    },
+    {
+        "original": "CCOc1ccccc1CN",
+        "predicted": "CCCc1ccccc1C1"
+    },
+    {
+        "original": "CCCCCCS(N)(=O)=O",
+        "predicted": "CCCCCCCCN)(=O)=O"
+    },
+    {
+        "original": "NNC(=O)c1cccc(O)c1O",
+        "predicted": "NC=(=O)c1ccc((O)c1"
+    },
+    {
+        "original": "COc1cc(C)ccc1CC(C)N",
+        "predicted": "CCc1cccCCcc(1CC(C)N"
+    },
+    {
+        "original": "CN(CC#C)Cc1ccccc1",
+        "predicted": "CCCC)OCccc1ccccc1"
+    },
+    {
+        "original": "CCCCCCNC(=S)n1ncnc1N",
+        "predicted": "NCCCCCCC(=S)n1ccnc1N"
+    },
+    {
+        "original": "CC(C)N=C=NC(C)C",
+        "predicted": "CCCC)C(C=SO(C)C"
+    },
+    {
+        "original": "CC(C)Oc1ccccc1O",
+        "predicted": "CCCO)cc1cccc(1O"
+    },
+    {
+        "original": "CN(C)CP(C)(O)=O",
+        "predicted": "CC(C)CC(OO(O)=O"
+    },
+    {
+        "original": "NCCCCNC(=O)CCCN",
+        "predicted": "CCCCCCC(=O)NCCC"
+    },
+    {
+        "original": "CC1CCCCN1N=O",
+        "predicted": "CCCCCCCC1"
+    },
+    {
+        "original": "CSc1nc(C(N)=O)c(N)s1",
+        "predicted": "NCC1nc(N)N)=N)ccN)n1"
+    },
+    {
+        "original": "CC(C)(CO)CCl",
+        "predicted": "CCCC)CC))CC("
+    },
+    {
+        "original": "CCOC(=O)CONC(N)=O",
+        "predicted": "CC(C(=O)C("
+    },
+    {
+        "original": "COc1cc(Cl)c(OC)cc1N",
+        "predicted": "COc1cccN))ccN))cc1N"
+    },
+    {
+        "original": "ONC(=S)Nc1ccccc1",
+        "predicted": "NNC(=S)Nc1ccccc1"
+    },
+    {
+        "original": "CCCOC(=O)C=CC",
+        "predicted": "CCCCC(=O)C(CC(CC"
+    },
+    {
+        "original": "CSC(=S)NCCP(O)(O)=O",
+        "predicted": "NCc1=S)(CC((O)(O)=O"
+    },
+    {
+        "original": "Cc1cc(N)ccc1C=O",
+        "predicted": "CC1cccCCccc1CCO"
+    },
+    {
+        "original": "CCCCCCCCCI",
+        "predicted": "CCCCCCCCCC"
+    },
+    {
+        "original": "COc1nc(C)nc(N)n1",
+        "predicted": "CCc1nc(N)cc(N)n1"
+    },
+    {
+        "original": "COC(C)N(C)N=O",
+        "predicted": "CCC1C)C(CCN=O"
+    },
+    {
+        "original": "O=C1CCCc2cnccc12",
+        "predicted": "C=C1CCCC2ccccc12"
+    },
+    {
+        "original": "CC1=C(Cl)C(=O)N=CN1",
+        "predicted": "CC1=C(C))C(=O)N=CN1"
+    },
+    {
+        "original": "CCCNCCCNCCCCN",
+        "predicted": "CCCCCCCCCCCCC"
+    },
+    {
+        "original": "COc1cc(CC(C)N)ccc1C",
+        "predicted": "CCc1cccCCCC)N)cc11C"
+    },
+    {
+        "original": "OC1=NC=C(C#N)C(=O)N1",
+        "predicted": "NN1=CN(C(=lN)C(=O)N1"
+    },
+    {
+        "original": "Cc1cccc2N=COC(=O)c12",
+        "predicted": "CC1cccc2CCC(cc=O)c12"
+    },
+    {
+        "original": "O=C1CC(CO1)c1ccccc1",
+        "predicted": "C=C1CCCCC1)c1ccccc1"
+    },
+    {
+        "original": "CC(N)CC1CCCCCCC1",
+        "predicted": "CCCC)C11CCCCC111"
+    },
+    {
+        "original": "CC#CC(O)(CCO)CC(O)=O",
+        "predicted": "CCCCCCC)CCCC)C((O)=O"
+    },
+    {
+        "original": "CNCCC#Cc1ccc(Cl)nc1",
+        "predicted": "CCCCCNCc1ccc(Cl)cc1"
+    },
+    {
+        "original": "CC(C)NCC(O)COC(C)C",
+        "predicted": "CCCC)CCC(O)CO"
+    },
+    {
+        "original": "CC(O)C1CC(=C)C(=O)O1",
+        "predicted": "CC(C)C(CC(=O)C(=O)O1"
+    },
+    {
+        "original": "CCCCCOC(=O)C=CC",
+        "predicted": "CCCCCCC(=O)C(CCCCC"
+    },
+    {
+        "original": "CNC1=NCCCC1",
+        "predicted": "CC1(=NCCCC1"
+    },
+    {
+        "original": "CN(N)CCc1ccc(F)cc1",
+        "predicted": "CCCC)CCC1ccc(O)cc1"
+    },
+    {
+        "original": "CCCCCCC(=O)OCCl",
+        "predicted": "CCCCCCCCCO)OC(("
+    },
+    {
+        "original": "CC=CC=CC(=O)NN",
+        "predicted": "CC(CC=CC(NO)NC"
+    },
+    {
+        "original": "C1CN=C(O1)c1ccccc1",
+        "predicted": "CCCC=C(C1)c1ccccc1"
+    },
+    {
+        "original": "Fc1ccc(cc1)C1=CCNCC1",
+        "predicted": "Cc1cccccc1)C1CCCCCC1"
+    },
+    {
+        "original": "CCCN(CC(C)=O)N=O",
+        "predicted": "CCCC1CC(C)=O)N=O"
+    },
+    {
+        "original": "CCOC(=O)CCl",
+        "predicted": "CC(C(=O)C(("
+    },
+    {
+        "original": "Cc1ccc(NCc2cccs2)cc1",
+        "predicted": "Cc1ccc2NCc2cccc2)cc1"
+    },
+    {
+        "original": "Cc1c(N)cccc1Cl",
+        "predicted": "Nc1ccN)cccc1N"
+    },
+    {
+        "original": "Brc1c[nH]c2ncnc2c1",
+        "predicted": "Nrc1ccnH]c2cccc1c1"
+    },
+    {
+        "original": "S=C=NCCc1ccccn1",
+        "predicted": "CCC1NNcc1ccccc1"
+    },
+    {
+        "original": "CN(C)C=Nc1ncccc1C",
+        "predicted": "CC1C)C=Nc1ccc((1C"
+    },
+    {
+        "original": "CC1NCC(O)C(O)C1O",
+        "predicted": "OCCNCC(O)C(O)C1O"
+    },
+    {
+        "original": "Cc1ccccc1OCC(O)CO",
+        "predicted": "CC1cccc(1CCC1O)CO"
+    },
+    {
+        "original": "Oc1cccc(C=O)c1O",
+        "predicted": "OC1ccc((C=C)c1O"
+    },
+    {
+        "original": "CC(C)CC1CSCCC(N)=N1",
+        "predicted": "CCCC)CCCCCC(((N)=N1"
+    },
+    {
+        "original": "CCCN1C=CC=C(O)C1=O",
+        "predicted": "CCCC1C=CC=C(O)C1=N"
+    },
+    {
+        "original": "CCOc1ccccc1OCCC(C)C",
+        "predicted": "CCCc1ccccc1CCC1#C)C"
+    },
+    {
+        "original": "COc1ccc(CN)c2ccccc12",
+        "predicted": "NCc1ccccCC)ccccccc12"
+    },
+    {
+        "original": "CCCC(C(O)CC)C(O)=O",
+        "predicted": "CCCCCCCC)CCOC(O)=O"
+    },
+    {
+        "original": "NCC#Cc1c[nH]cn1",
+        "predicted": "NCC(CC1n[nH]cn1"
+    },
+    {
+        "original": "Clc1cccc(c1)N1CCNCC1",
+        "predicted": "CCc1cccccC1)C1CCNCC1"
+    },
+    {
+        "original": "CC1C(O)OCC1C(C)=O",
+        "predicted": "CCCCCC)CCC(C(=O=O"
+    },
+    {
+        "original": "NC(=O)CCN1CCOCC1",
+        "predicted": "CCC=O)CCC1CCCCC1"
+    },
+    {
+        "original": "C#CCON=CC1CN2CCC1C2",
+        "predicted": "CCCCCN=C11CC2CCC1C2"
+    },
+    {
+        "original": "NCC1CC(=O)CC(=O)C1",
+        "predicted": "CCCCCCC=O)NCC=O)NC"
+    },
+    {
+        "original": "CCC(=O)OC1CCN(C)CC1",
+        "predicted": "CCCCCO)CC1CCC(CCCC1"
+    },
+    {
+        "original": "OC(=O)c1cccnc1Cl",
+        "predicted": "OC(=O)c1ccc(c1"
+    },
+    {
+        "original": "COC(=O)C1=CCCN(C)C1",
+        "predicted": "CCC(=O)CCCCCCC(C)C1"
+    },
+    {
+        "original": "CC(=O)C=Cc1ccc(O)cc1",
+        "predicted": "OC(=O)c=Cc1ccccO)cc1"
+    },
+    {
+        "original": "CCCC(CC(C)=O)C(O)=O",
+        "predicted": "CCCCCCCCO)=O)C(O)=O"
+    },
+    {
+        "original": "Clc1c2CCNCCc2ccc1C#N",
+        "predicted": "CCC1ccCCCCCc2c111ClN"
+    },
+    {
+        "original": "CC(C)(O)Cc1ccccc1",
+        "predicted": "CCCC)cC)cc1ccccc1"
+    },
+    {
+        "original": "O=C1CC(=O)NC(=S)N1",
+        "predicted": "C=C1NC(=N)NC1=O)N1"
+    },
+    {
+        "original": "CCC(C)C(O)=O",
+        "predicted": "CCCCCCCCO)CO"
+    },
+    {
+        "original": "CCC(C)=NO",
+        "predicted": "CC((Cl(OO"
+    },
+    {
+        "original": "CCCCC(N)CS",
+        "predicted": "CC(((CC(="
+    },
+    {
+        "original": "Nc1cc(CO)ccc1O",
+        "predicted": "NC1cccOO)c((1C"
+    },
+    {
+        "original": "CNc1cc(N)nc(NC)c1",
+        "predicted": "NCC1cccC)cc(NCCc1"
+    },
+    {
+        "original": "Oc1cc(C=O)cc(O)c1O",
+        "predicted": "Oc1cccC=O)cc(O)c1O"
+    },
+    {
+        "original": "CNC(=O)ON=CC(C)(C)SC",
+        "predicted": "CC1(=O)CC=CC(C)CC)C"
+    },
+    {
+        "original": "OCCSc1ccccc1",
+        "predicted": "OCCcc1ccccc1"
+    },
+    {
+        "original": "COc1cccc(Br)c1CC(C)N",
+        "predicted": "CCc1ccc((Cr)c1CCNC)N"
+    },
+    {
+        "original": "CC1(CO)COS(=O)OC1",
+        "predicted": "CCCCOO)CCCC=O)(CC2"
+    },
+    {
+        "original": "CCOC(=O)c1ccc(N)cc1",
+        "predicted": "CC(C(=O)c1ccc(N)cc1"
+    },
+    {
+        "original": "NC(=O)c1cc(Cl)ccc1O",
+        "predicted": "NC(=O)c1cccCl)ccc1C"
+    },
+    {
+        "original": "CCC1(N)CC1c1ccccc1",
+        "predicted": "CC(CNN)CCcc1ccccc1"
+    },
+    {
+        "original": "CCn1cnc(N)c2ncnc12",
+        "predicted": "Nc(1ccc2N)c1nccc12"
+    },
+    {
+        "original": "CCCCCC=CC=CC(C)O",
+        "predicted": "CCCCCCCCC=CC=O)C"
+    },
+    {
+        "original": "FCS(=O)(=O)Nc1ccccc1",
+        "predicted": "Nc1c=O)(=O)Nc1ccccc1"
+    },
+    {
+        "original": "CN1N=C(NC1=S)c1ccccc1",
+        "predicted": "Cc1C=CNN11=S)c1ccccc1"
+    },
+    {
+        "original": "Cc1nc(cs1)C#Cc1ccccc1",
+        "predicted": "Cc1ccccc1)-#Cc1ccccc1"
+    },
+    {
+        "original": "Cc1ccccc1NNC(N)=S",
+        "predicted": "Nc1ccccc1CCC(N)=S"
+    },
+    {
+        "original": "ONC(=N)c1ncccc1O",
+        "predicted": "NNC(=O)N1ccccc1O"
+    },
+    {
+        "original": "Cc1sccc1Br",
+        "predicted": "CC1nc((1Cr"
+    },
+    {
+        "original": "CNCc1cc(F)cc(F)c1",
+        "predicted": "CCCC1cccC)c((C)c1CC"
+    },
+    {
+        "original": "SC(=S)NN1CCOCC1",
+        "predicted": "CC(=S)NC1CCCCC1"
+    },
+    {
+        "original": "COCCOCOC(C)=C",
+        "predicted": "CCCCNCCCC=)=C"
+    },
+    {
+        "original": "CCOC(=O)C=CC(=O)OCC",
+        "predicted": "CC(C(=O)C(CC(=O)OC"
+    },
+    {
+        "original": "CCCN1CCCC(C1)c1ccccc1",
+        "predicted": "CCCCCCCCC1C1)c1ccccc1"
+    },
+    {
+        "original": "ONC(=O)c1ccc(O)cc1O",
+        "predicted": "NNC(=O)c1ccc(O)cc1"
+    },
+    {
+        "original": "OC(=O)CCl",
+        "predicted": "OC(=O)C(("
+    },
+    {
+        "original": "OC(=O)CCCCC(O)=O",
+        "predicted": "CC(=O)CCCCCCO)=O"
+    },
+    {
+        "original": "CCCCN(CCCO)N=O",
+        "predicted": "CCCCC(CCCC)N=O"
+    },
+    {
+        "original": "SC(=S)N1CCNCC1",
+        "predicted": "CC(=S)C1CCC(C1"
+    },
+    {
+        "original": "CCCCCCCCCCCCCCC(O)CN",
+        "predicted": "CCCCCCCCCCCCCCCCN)CO"
+    },
+    {
+        "original": "CSCCC(N)C(O)=O",
+        "predicted": "NCCCC(N)C(O)=O"
+    },
+    {
+        "original": "CSc1nc2cncnc2[nH]1",
+        "predicted": "Ccc1nc2ccccc2[nH]1"
+    },
+    {
+        "original": "OC(=O)C(CS)NC(=O)CCS",
+        "predicted": "CC(=O)CCCS)CCC=O)CCS"
+    },
+    {
+        "original": "C=CCNCCc1ccccc1",
+        "predicted": "CCCCNCCC1ccccc1"
+    },
+    {
+        "original": "O=C1CCCC(=S)N1",
+        "predicted": "C=C1NCCCC=O)N1"
+    },
+    {
+        "original": "ON1C(=O)Nc2cccnc12",
+        "predicted": "O=CC==O)Nc2ccccc12"
+    },
+    {
+        "original": "CC(C)ON=CC1CCCN1C",
+        "predicted": "CCCC)CC=CC1CCNN1C"
+    },
+    {
+        "original": "c1scc2c1ncc1cnccc21",
+        "predicted": "C1cc((ccccccccccc11"
+    },
+    {
+        "original": "NCCCOc1ccc(F)cc1",
+        "predicted": "CCCCNc1ccc2O)cc1"
+    },
+    {
+        "original": "COc1ccc2cc3CNCCn3c2c1",
+        "predicted": "CNc1ccc(C((CCCCC2c2c1"
+    },
+    {
+        "original": "CCN(CC)N=O",
+        "predicted": "CC(1CC=N=N"
+    },
+    {
+        "original": "CNC(Nc1cccc(Cl)c1)=NC",
+        "predicted": "CCC(=)1ccc((C))c1CCNC"
+    },
+    {
+        "original": "Cc1sc(N)nc1C(O)=O",
+        "predicted": "NC1nc(N)nc1C(O)=O"
+    },
+    {
+        "original": "CNC(=O)CC(C)(C)C",
+        "predicted": "CC1(=O)C(CC)(C)C"
+    },
+    {
+        "original": "Cc1nccc2nc(N)ccc12",
+        "predicted": "Nc1cc222[c(N)ccc12"
+    },
+    {
+        "original": "OCC1NCCCC1O",
+        "predicted": "CCC1NCC((1O"
+    },
+    {
+        "original": "Oc1cccc2C(=O)NC=Cc12",
+        "predicted": "OC1cccc2N(=O)Nc=Cc12"
+    },
+    {
+        "original": "Cc1ccccc1OCC1=NCCO1",
+        "predicted": "CC1ccc221CCC1=NCCN1"
+    },
+    {
+        "original": "CCC(CO)NCc1ccccc1OC",
+        "predicted": "CCCCNN)NCc1ccc((1"
+    },
+    {
+        "original": "ClCCNC(=O)CCl",
+        "predicted": "CCCCCC(=O)N(C"
+    },
+    {
+        "original": "On1nnc2ccccc12",
+        "predicted": "Nc1ccc2ccccc12"
+    },
+    {
+        "original": "SC(=S)N1CCCCC1",
+        "predicted": "CCC=S)N1CCCCC1"
+    },
+    {
+        "original": "NC(=NCl)N=NC(N)=NCl",
+        "predicted": "Nc(=O)#)N=NN(=)=O"
+    },
+    {
+        "original": "CC(N)C(C)c1ccccc1",
+        "predicted": "CCCN)CcC)c1ccccc1"
+    },
+    {
+        "original": "CC1CCCN(CCCC=C)C1=S",
+        "predicted": "CCCCCCC(C11==C)CC"
+    },
+    {
+        "original": "CCCCC(C)NCC(N)=O",
+        "predicted": "CCCCCCCCCC((N)=O"
+    },
+    {
+        "original": "N#Cc1ccccc1N1CCCCC1",
+        "predicted": "CCCC1ccccc1N1CCCCC1"
+    },
+    {
+        "original": "COC(=O)c1sccc1NC=O",
+        "predicted": "CCC(=O)C1ccc(1NCCN"
+    },
+    {
+        "original": "CCNCCCNCCCCNCCCNCC",
+        "predicted": "CCCCCCCCCCCNCCCCCCC"
+    },
+    {
+        "original": "CCc1nc(N)ccc1C(O)=O",
+        "predicted": "CC(1cc(N)ncc1C(O)=O"
+    },
+    {
+        "original": "C1CCC2(CC1)CCNCC2",
+        "predicted": "CCCCC2CCCC)CCC22211111"
+    },
+    {
+        "original": "OCCN(CCO)C(S)=S",
+        "predicted": "CCC11CCO)CCO)(O"
+    },
+    {
+        "original": "CS(=O)c1ccc2CCNCc2c1",
+        "predicted": "CCC=O)C1ccccCCNCc2c1"
+    },
+    {
+        "original": "CC(CN(C)N=O)c1ccccc1",
+        "predicted": "CCcC)(CCN=O)c1ccccc1"
+    },
+    {
+        "original": "CN1C=CC(N)=NC1=O",
+        "predicted": "CC1N=CC(=)=NC1=O"
+    },
+    {
+        "original": "COC1=Cc2ccccc2NC1=O",
+        "predicted": "CCC(=NC2ccccc2NC1=O"
+    },
+    {
+        "original": "OC(=O)CCNC1=NCCS1",
+        "predicted": "CC(=O)CCCC(=NCCCC"
+    },
+    {
+        "original": "CCCC(C)c1nccnc1OC",
+        "predicted": "CCCCCC)c1ccccc1CC"
+    },
+    {
+        "original": "CC1CCc2ccccc2N1",
+        "predicted": "CCCCCc2ccccc2N1"
+    },
+    {
+        "original": "NN=CCc1ccccc1F",
+        "predicted": "NC=CCc1ccccc1C"
+    },
+    {
+        "original": "OC(=O)CN1C=CC=CC1=O",
+        "predicted": "OC(=O)c==c=CC=CC1=O"
+    },
+    {
+        "original": "CNC1=NC(=O)C=C(N)N1",
+        "predicted": "CCC(=NN(=O)N=CNN)N1"
+    },
+    {
+        "original": "CC1=NC(=S)NC(O)=C1",
+        "predicted": "CC(=CN(NS)N===)=C1NN"
+    },
+    {
+        "original": "OC1C=NC2(CC2)C1O",
+        "predicted": "CCCCCCCCCCCCCC=C"
+    },
+    {
+        "original": "OC(=O)CCCCC1CCSS1",
+        "predicted": "CC(=O)CCCCCCCCCCC"
+    },
+    {
+        "original": "Oc1cc2ccccc2cc1C=O",
+        "predicted": "OC1cccOcccc2c11C=O"
+    },
+    {
+        "original": "O=C(NCC#N)C1=CCCCC1",
+        "predicted": "CCC1NCC1N)N1CCCCCC1"
+    },
+    {
+        "original": "Fc1ccc(Cl)cc1Cl",
+        "predicted": "Cc1ccc(cl)cc1C#"
+    },
+    {
+        "original": "COc1ccccc1OCC(O)CF",
+        "predicted": "CCc1cccc(1CCC1O)CO"
+    },
+    {
+        "original": "NCCc1cccc(c1)C(O)=O",
+        "predicted": "CCCC1ccc((c1)C(O)=O"
+    },
+    {
+        "original": "CCOC(OCC)C(Cl)Cl",
+        "predicted": "CCCCCCCCOOCC))CC"
+    },
+    {
+        "original": "CC(CCO)C(O)=O",
+        "predicted": "CCCC)C)C(O)=O"
+    },
+    {
+        "original": "N=C1Sc2ccccc2N1CC#C",
+        "predicted": "CCC1NC2ccccc2N1"
+    },
+    {
+        "original": "CCCCc1ccc(cc1)N=CNO",
+        "predicted": "CCCCN1ccc(cc1NC=CNO"
+    },
+    {
+        "original": "NC(=O)NCc1cccnc1",
+        "predicted": "NC(=O)NCC1ccccc1"
+    },
+    {
+        "original": "CC(=O)n1nnc2ccccc12",
+        "predicted": "OC(=O)c1ccc2ccccc12"
+    },
+    {
+        "original": "O=CNC=Cc1ccccc1",
+        "predicted": "O=C1CCCc1ccccc1"
+    },
+    {
+        "original": "CSc1cccc(c1)C(N)=O",
+        "predicted": "CCc1cccccc1)C(O)=O"
+    },
+    {
+        "original": "Cc1ccc(N)cc1",
+        "predicted": "Cc1ccc2N)cc1N"
+    },
+    {
+        "original": "COc1noc2CNCCc12",
+        "predicted": "CCc1noc2CCCCc12"
+    },
+    {
+        "original": "C1CN=C(N1)c1ccncc1",
+        "predicted": "CNCN=C(N1)c1ccccn1"
+    },
+    {
+        "original": "OC1OCc2cc(F)ccc12",
+        "predicted": "CCcCCC2cccO)ccc22"
+    },
+    {
+        "original": "Oc1ccc(CN=C=S)cc1",
+        "predicted": "Cc1ccc(CC=C=S)c11"
+    },
+    {
+        "original": "C1C2CNCC12c1cccs1",
+        "predicted": "CCCCCCC112c1cccc1"
+    },
+    {
+        "original": "CON=Cc1cccc(F)c1O",
+        "predicted": "CCc=Cc1ccc((O)c1C"
+    },
+    {
+        "original": "CC1(N)CC1c1ccccc1",
+        "predicted": "CC(NN)CCcc1ccccc1"
+    },
+    {
+        "original": "Nc1ccnc2[nH]cnc12",
+        "predicted": "Nc1cccc2cnH]ccc12"
+    },
+    {
+        "original": "CCCCCCCCC(=O)C(F)F",
+        "predicted": "CCCCCCCCCCCO)O(C)("
+    },
+    {
+        "original": "C=CCSS(=O)CC=C",
+        "predicted": "CCCCCCC=O)(C=C"
+    },
+    {
+        "original": "CN1CCCC1COc1ccccc1",
+        "predicted": "CC1CCCC1COc1ccccc1"
+    },
+    {
+        "original": "OC(=O)C1CCCCN1",
+        "predicted": "CC(=O)CCCCCCC1"
+    },
+    {
+        "original": "NCC=CCOc1ccccc1",
+        "predicted": "NCC(Cc(c1ccccc1"
+    },
+    {
+        "original": "Brc1ccsc1Cc1c[nH]cn1",
+        "predicted": "Crc1cccc1"
+    },
+    {
+        "original": "Cc1oncc1C(O)=O",
+        "predicted": "OC1ccc(1C=O)=O"
+    },
+    {
+        "original": "CCSC(=S)NCc1ccncc1",
+        "predicted": "Cc(c(=S)NCc1ccccc1"
+    },
+    {
+        "original": "Cc1ncsc1CCCCl",
+        "predicted": "CN1nccc1C1111"
+    },
+    {
+        "original": "CSc1nc2SCCc2c(C)n1",
+        "predicted": "CCc1nccCCCc2ncC)n1C1"
+    },
+    {
+        "original": "O=C1c2sccc2-n2cccc12",
+        "predicted": "C=C1N2cccc2Cccc11112"
+    },
+    {
+        "original": "CSc1nn(C)cc2ncnc12",
+        "predicted": "CCc1nccCCc22cccc12"
+    },
+    {
+        "original": "Nc1ccc(N)c2[nH]ncc12",
+        "predicted": "Nc1ncc(N)c2nnH]cc112"
+    },
+    {
+        "original": "CCNC(=O)NC(CC)CO",
+        "predicted": "CCCC(=O)NCCCCCCO"
+    },
+    {
+        "original": "O=Cc1ccc2ccccc2n1",
+        "predicted": "C=C11ccccccccc2c1"
+    },
+    {
+        "original": "CN1CCCC1c1cc(C)no1",
+        "predicted": "CC1CCCC1C1cc(C)no1"
+    },
+    {
+        "original": "NC1(CCCCC1)c1ccccc1F",
+        "predicted": "CCCCCCCCC1)c1ccccc1"
+    },
+    {
+        "original": "COc1cc(OC)cc(OC)c1",
+        "predicted": "CNc1nc(CCCc((CC)c1"
+    },
+    {
+        "original": "CCCCCOS(O)(=O)=O",
+        "predicted": "CCCCCCP(O)(=O)=O"
+    },
+    {
+        "original": "NC(CS)CCC(O)=O",
+        "predicted": "CCCCC)CCCCO)=O"
+    },
+    {
+        "original": "Cc1ccc(cc1C)C(N)=N",
+        "predicted": "CC1ccc(Nc1N)C(N)=N"
+    },
+    {
+        "original": "NC1(Cc2ccccc2)CCCCC1",
+        "predicted": "CCCCCC2ccccc2)CC111121"
+    },
+    {
+        "original": "CC(C)NC(=O)CCSCCCl",
+        "predicted": "CCCC)CC(=O)N(("
+    },
+    {
+        "original": "ClC(Cl)C(Cl)Cl",
+        "predicted": "ClCCCl)C(Cl)Cl"
+    },
+    {
+        "original": "S=C1SSC=C1",
+        "predicted": "OCC1NCC2C1CCCCCC111111"
+    },
+    {
+        "original": "CC1=Nc2ccccc2C(=O)O1",
+        "predicted": "CC(=CC2ccccc2C1=O)O1"
+    },
+    {
+        "original": "COC=O",
+        "predicted": "CCC(C"
+    },
+    {
+        "original": "S=C=S",
+        "predicted": "C=C1N"
+    },
+    {
+        "original": "Oc1ccccc1O",
+        "predicted": "NN1ccc221Nccc111111111"
+    },
+    {
+        "original": "CCCCCCCCCCC=C",
+        "predicted": "CCCCCCCCCCCCCC"
+    },
+    {
+        "original": "COc1nsnc1OCCO",
+        "predicted": "CCC1cccc1CCCCC11111111"
+    },
+    {
+        "original": "NC(=O)c1ccc(Br)[nH]1",
+        "predicted": "Nc(=O)c1ccc(Nr)cnH]1"
+    },
+    {
+        "original": "NNC(=O)c1cccnc1",
+        "predicted": "NC=(=O)c1ccccc1"
+    },
+    {
+        "original": "CCCCCCC(C)(O)CN",
+        "predicted": "CCCCCCCCNOCC)CN"
+    },
+    {
+        "original": "Cc1cc(O)c2ccccc2c1O",
+        "predicted": "Cc1cccO)ccccccc2c1"
+    },
+    {
+        "original": "O=C1CCCCCN1",
+        "predicted": "C=C1NCCCCC1"
+    },
+    {
+        "original": "NCC(Cc1ccccc1)=C=C",
+        "predicted": "NCC(CC1ccccc1)CCNC"
+    },
+    {
+        "original": "COCC1=CCC(C=NO)=CC1",
+        "predicted": "CCCCCCCC((OONO)CCC1"
+    },
+    {
+        "original": "ON=C1CCCC=C1",
+        "predicted": "CC=C1CCCCCC1"
+    },
+    {
+        "original": "CN(C)C(=O)Oc1cnsn1",
+        "predicted": "CC1C)C(=O)Nc1cccc1"
+    },
+    {
+        "original": "C1C2CCNCCN2c2ccccc12",
+        "predicted": "CCCCCNNC222C1ccccc12"
+    },
+    {
+        "original": "OCCOCCO",
+        "predicted": "OCC1CCOCCCCCOOOOOOOOOO"
+    },
+    {
+        "original": "O=Cc1cc2cccnc2s1",
+        "predicted": "C=Cc1cccccccc2c1"
+    },
+    {
+        "original": "NCCc1cc(O)ccc1O",
+        "predicted": "CCCc1cccO)c((1O"
+    },
+    {
+        "original": "CCCCC1=CCOC1=O",
+        "predicted": "CCCCCCCCC(C(=O"
+    },
+    {
+        "original": "OC1CN2CCCC(O)C2C1O",
+        "predicted": "OCCCCCCCCCCO)C1C12"
+    },
+    {
+        "original": "CC(=O)NC1CCCCC1",
+        "predicted": "CCCCO)N1CCCCC11"
+    },
+    {
+        "original": "OC1OC(=O)C=C1",
+        "predicted": "OC(=C(=O)C(C1"
+    },
+    {
+        "original": "OC1CCSc2ccccc12",
+        "predicted": "CCCCCCc2ccccc12"
+    },
+    {
+        "original": "Brc1cccc2nsnc12",
+        "predicted": "Crc1ccccccccc12"
+    },
+    {
+        "original": "ClC(Cl)=C(Cl)Cl",
+        "predicted": "ClC(Cl)(C(Cl)Cl"
+    },
+    {
+        "original": "SCCCCCCCCn1ccnc1",
+        "predicted": "CCCCCCCCCC1ccnc1"
+    },
+    {
+        "original": "CC(=O)Nc1cc(O)ccc1O",
+        "predicted": "Oc(=O)Nc1cccO)ccc1O"
+    },
+    {
+        "original": "C1c2ccccc2-c2ccccc12",
+        "predicted": "CCC2ccccc2Cc2ccccc12"
+    },
+    {
+        "original": "CCCCC=CC=CC=O",
+        "predicted": "CCCCCCCC=CC=C"
+    },
+    {
+        "original": "NOCCOCCOCCON",
+        "predicted": "CCCCCCCONCNC"
+    },
+    {
+        "original": "NC1CCSC1C(O)=O",
+        "predicted": "CCCCCCC1=(O)=O"
+    },
+    {
+        "original": "CC(=O)SCCNC(=O)CCCN",
+        "predicted": "CCCCO)NCCCCCCO)CCCC"
+    },
+    {
+        "original": "C1CCC=CC1",
+        "predicted": "CCCC22CC1CCCC111111111"
+    },
+    {
+        "original": "NCCBr",
+        "predicted": "CCC1r"
+    },
+    {
+        "original": "OCCC(O)=O",
+        "predicted": "CCCCCO)CO"
+    },
+    {
+        "original": "S=C1NN=CN1c1ccccn1",
+        "predicted": "N=C1NN=CN1N1ccccc1"
+    },
+    {
+        "original": "CC(C)(C)OOCN1CCCC1",
+        "predicted": "CCCC)CC)CCCC(CCOC1"
+    },
+    {
+        "original": "NC(O)C(N)=O",
+        "predicted": "NC(=)=(=)=O"
+    },
+    {
+        "original": "CC=CC=CC(=O)N1CCCCO1",
+        "predicted": "CCCCCCCCC=O)N(CCCC11"
+    },
+    {
+        "original": "CC(=O)NCCOc1ccccc1",
+        "predicted": "CO(NO)NCCcc1ccccc1"
+    },
+    {
+        "original": "FC(F)CCl",
+        "predicted": "CCCC)C1("
+    },
+    {
+        "original": "CCC=CCCCCCO",
+        "predicted": "CCCCCCCCCCC"
+    },
+    {
+        "original": "Nc1nc(cs1)-c1ccccc1F",
+        "predicted": "Nc1cccnc1)-c1ccccc1"
+    },
+    {
+        "original": "OC(=O)CC=Cc1cccnc1",
+        "predicted": "OC(=O)CCCCc1cccnc1"
+    },
+    {
+        "original": "CCOC(=O)N(C)N=NCCCl",
+        "predicted": "CCCC(=O)C(CCN=OC"
+    },
+    {
+        "original": "CCCCCCCCCCCCCCC(N)CO",
+        "predicted": "CCCCCCCCCCCCCCCCN)CO"
+    },
+    {
+        "original": "CC(CCN)(CCN)N(=O)=O",
+        "predicted": "CCCC)N)CCCC)C=CO)=O"
+    },
+    {
+        "original": "OC(=O)CCCc1cccnc1",
+        "predicted": "CC(=O)CCCC1cccnc1"
+    },
+    {
+        "original": "CCN(C)CCOc1cccnc1",
+        "predicted": "CNC(CCCCcc1ccccc1"
+    },
+    {
+        "original": "CC(=O)N1CCCC1C(O)=O",
+        "predicted": "CC(CO)N1CCCC1C(O)=O"
+    },
+    {
+        "original": "Nc1cccc(c1)-n1cccc1",
+        "predicted": "Nc1ccc22c1)Nc1cccc1"
+    },
+    {
+        "original": "COC(=O)Nc1cnccc1N",
+        "predicted": "NCc(=O)cN1ccccc1N"
+    },
+    {
+        "original": "COc1cc2CCNCc2cc1OC",
+        "predicted": "CNc1cccCCNCc2c21CC"
+    },
+    {
+        "original": "CCCSc1ccccc1OC(C)=O",
+        "predicted": "CCCCC1ccccc1OC(C)=O"
+    },
+    {
+        "original": "COc1ccc(C=CCO)cc1OC",
+        "predicted": "COc1ccc(CCCCC)cc1"
+    },
+    {
+        "original": "NCc1cncc(OCC2CCN2)c1",
+        "predicted": "CCC1ccc((nCC2CCC2)c1"
+    },
+    {
+        "original": "CC1=CC(=O)c2ccccc2C1=O",
+        "predicted": "CC(=CC(=O)c2ccccc2O1"
+    },
+    {
+        "original": "Oc1ccc2OCOc2c1",
+        "predicted": "Cc1ccc2CCCc2c1"
+    },
+    {
+        "original": "CNCCOc1cncc(Cl)c1",
+        "predicted": "CNCCCc1cccc(C))c1"
+    },
+    {
+        "original": "CCC(N)Cc1ccc2NCCc2c1",
+        "predicted": "CCCCC)Cc1ccc(OCCc2c1"
+    },
+    {
+        "original": "CSc1nccnc1C(C)C",
+        "predicted": "CCc1ncccc1C"
+    },
+    {
+        "original": "CN1CCCC(C1)c1nc(N)no1",
+        "predicted": "CCCCCCC1N1)c1no(N)no1"
+    },
+    {
+        "original": "C1CN(CCN1)c1cccnc1",
+        "predicted": "CNCNCCCN1)c1cccnc1"
+    },
+    {
+        "original": "COc1noc2CCSCc12",
+        "predicted": "CCc1ncc2CCCcc12"
+    },
+    {
+        "original": "CC1CNC(CCO)C1=C",
+        "predicted": "CCCCC=(CC1)C==NCCO"
+    },
+    {
+        "original": "COc1c(O)cccc1O",
+        "predicted": "CCc1ccC)ccc(1C"
+    },
+    {
+        "original": "COCC(=O)NCCCNCCCCN",
+        "predicted": "CCCCC=O)CCCCC"
+    },
+    {
+        "original": "COc1cccnc1C(=O)NO",
+        "predicted": "CCc1ccccc1C==O)NO"
+    },
+    {
+        "original": "CC(O)=CC(=O)CCC(O)=O",
+        "predicted": "CC(C)CCCCOO)CC((O)=O"
+    },
+    {
+        "original": "CSc1ccc(NC(C)=N)cc1",
+        "predicted": "CCC1ccccNC(=)=N)cc1"
+    },
+    {
+        "original": "OC(=O)C=Cc1c[nH]cn1",
+        "predicted": "NC(=O)c=Cc1ccnH]cn1"
+    },
+    {
+        "original": "NC1(CCCC1O)C(O)=O",
+        "predicted": "NC(CCCCC1))C(O)=O"
+    },
+    {
+        "original": "N(c1ccccc1)c1ccccn1",
+        "predicted": "Ncc1ccccc1)c1ccccc1"
+    },
+    {
+        "original": "Oc1ccc2NC(=O)Cc2c1",
+        "predicted": "OC1ccccNC(=O)Nc2c1"
+    },
+    {
+        "original": "NC1CCCC(O)C1O",
+        "predicted": "NCCCCC(1N)C1O"
+    },
+    {
+        "original": "NCCc1ccc(cc1)N(=O)=O",
+        "predicted": "NCCC1ccc(Cc1)C==O)=O"
+    },
+    {
+        "original": "Oc1ccc(cc1F)N(=O)=O",
+        "predicted": "Oc1ccc(cc1O)N(=O)=O"
+    },
+    {
+        "original": "OC(CCS)CCC(O)=O",
+        "predicted": "CC(=CC)CCCCO)=O"
+    },
+    {
+        "original": "N=C(CC#N)c1cccs1",
+        "predicted": "CCC1NC#N)c1cccc1"
+    },
+    {
+        "original": "CCON=C(NC)c1nonc1N",
+        "predicted": "CCCC=C(N)CN1ncnc1C"
+    },
+    {
+        "original": "NC1=NC(Cc2ccccc2)CCC1",
+        "predicted": "CCC=NCCCC2ccccc2)C1112"
+    },
+    {
+        "original": "CC(=O)NCCCCCCNC(C)=O",
+        "predicted": "CCCCO)NCCCCCCC"
+    },
+    {
+        "original": "CN(CCCBr)c1ccccc1",
+        "predicted": "CN(C)O#r)c1ccccc1"
+    },
+    {
+        "original": "NS(=O)(=O)NCc1ccccc1",
+        "predicted": "NC(=O)(=O)NCc1ccccc1"
+    },
+    {
+        "original": "Fc1ccc(Nc2nnns2)cc1",
+        "predicted": "Nc1ccc(Nc2cccc2)c11"
+    },
+    {
+        "original": "OC(=O)c1ccc(O)c(O)c1",
+        "predicted": "OC(=O)c1ccc(O)c(O)c1"
+    },
+    {
+        "original": "CC(=O)CC(=O)NCC(O)=O",
+        "predicted": "CC(NO)NC(NO)NCC(O)=O"
+    },
+    {
+        "original": "COC(=O)C1=CCCNC1",
+        "predicted": "CCC(=O)CCCCCCNCC"
+    },
+    {
+        "original": "NC(=S)NN=Cc1ncccc1O",
+        "predicted": "NC(=S)NN=Cc1ccccc1N"
+    },
+    {
+        "original": "NCC=CC(N)CF",
+        "predicted": "CCCCC"
+    },
+    {
+        "original": "CC(N)Cc1sccc1Cl",
+        "predicted": "CCCC)Cc1cc221C"
+    },
+    {
+        "original": "NCc1cc(Cl)ccc1O",
+        "predicted": "NCC1cc(Ol)cc(1O"
+    },
+    {
+        "original": "CCOC(=O)C(Cl)=C(C)O",
+        "predicted": "CC(C(=O)c==))=C"
+    },
+    {
+        "original": "CCCNCCCc1ccccc1",
+        "predicted": "CCCCCCCC1ccccc1"
+    },
+    {
+        "original": "NCCc1ccc(O)c(Br)c1",
+        "predicted": "NCCC1ccc(O)c(Or)c1"
+    },
+    {
+        "original": "CCC=CC(CN)CC(O)=O",
+        "predicted": "CCCCCCCCC)C((O)=O"
+    },
+    {
+        "original": "CCNC1=CC(=O)NC(O)=N1",
+        "predicted": "CCCC(=NC(NO)NC(O)CNN"
+    },
+    {
+        "original": "O=N(=O)c1cccc(c1)C#N",
+        "predicted": "C=N(=O)c1cccccc1)C#N"
+    },
+    {
+        "original": "NCCCCCCCCCCNCCCN",
+        "predicted": "CCCCCCCCCCCC"
+    },
+    {
+        "original": "CCN(CCO)N=O",
+        "predicted": "CCC(CCC)N=O"
+    },
+    {
+        "original": "O=C1NCCC11CCCC1",
+        "predicted": "C=C1NCCCCCCCCCC"
+    },
+    {
+        "original": "CNCC(=O)N(C)CC(O)=O",
+        "predicted": "CCC((=O)NCCCC((O)=O"
+    },
+    {
+        "original": "OCCO",
+        "predicted": "OCC1C((((OOOOOOOOOOOOO"
+    },
+    {
+        "original": "CC(N)Cc1ccc(Cl)s1",
+        "predicted": "CCCC)Cc1ccc(Cl)c1"
+    },
+    {
+        "original": "OC(=O)c1cc(Cl)ccc1O",
+        "predicted": "OC(=O)c1cccCl)ccc1O"
+    },
+    {
+        "original": "ClC(Cl)C1OCCCCCCO1",
+        "predicted": "CCCCCl)C1CCCCN1111"
+    },
+    {
+        "original": "NCCCO",
+        "predicted": "CCCCCPCC(CCCCCCCCCCCCC"
+    },
+    {
+        "original": "ONC(=O)CCc1ccccc1",
+        "predicted": "OCC(=O)Ccc1ccccc1"
+    },
+    {
+        "original": "CCCC(N)C(O)=O",
+        "predicted": "CCCCCC)C(O)=O"
+    },
+    {
+        "original": "Clc1ccccc1NC1=NCCC1",
+        "predicted": "CCc1ccc2(1CC1=NCCC1"
+    },
+    {
+        "original": "CCOC(=O)C=C(C)O",
+        "predicted": "CC(C(=O)C=CCO)C"
+    },
+    {
+        "original": "Oc1ccc(CC2CC2)cc1",
+        "predicted": "Cc1ccc2CCCCCC)cc1"
+    },
+    {
+        "original": "NC1=NC(=O)NCN1",
+        "predicted": "NC(=NC(=O)NCC1"
+    },
+    {
+        "original": "COc1ccc2C(=O)NOc2c1",
+        "predicted": "CCc1ccc(NC=O)NCc2c1"
+    },
+    {
+        "original": "NCC=Cc1c[nH]cn1",
+        "predicted": "CCC(Cc1ccnH]cn1"
+    },
+    {
+        "original": "CCOC(=O)CCCCN",
+        "predicted": "CCCC(=O)CCCCC"
+    },
+    {
+        "original": "C=CC(=O)Nc1ccccc1",
+        "predicted": "OCCC(=O)Nc1ccccc1"
+    },
+    {
+        "original": "OCC(=O)c1ccc(Br)cc1",
+        "predicted": "OCC(=O)c1ccc(Or)cc1"
+    },
+    {
+        "original": "Ic1cncc(OCC2CCN2)c1",
+        "predicted": "Cc1cccccOCC2CCN2)c1"
+    },
+    {
+        "original": "COc1cc(Br)ccc1O",
+        "predicted": "CCc1cc(Cr)cc(1C"
+    },
+    {
+        "original": "OCCCCC#CCCCCCC(O)=O",
+        "predicted": "OCCCCCCCCCCCCCCO)=O"
+    },
+    {
+        "original": "NC(=N)NCCc1ccc(I)cc1",
+        "predicted": "NCC=N)NCCc1ccc(F)cc1"
+    },
+    {
+        "original": "CCCc1cncc(OCC2CCN2)c1",
+        "predicted": "CNCC1cccc(OCC2CCN2)c1"
+    },
+    {
+        "original": "SCC(=O)NCc1ccccc1",
+        "predicted": "CCC(=O)NCc1ccccc1"
+    },
+    {
+        "original": "NCCCCC1=NONC1=O",
+        "predicted": "CCCCCCCCNNCC1=O"
+    },
+    {
+        "original": "ON1C(=O)Cc2ccccc2C1=O",
+        "predicted": "OCCC==O)Cc2ccccc1N1"
+    },
+    {
+        "original": "Cc1ccccc1CNC1CCCCC1",
+        "predicted": "CC1ccccc1C111CCCC11"
+    },
+    {
+        "original": "NCc1ccccc1C1CSCSC1",
+        "predicted": "NCC1cccc(1CcCCCCC1"
+    },
+    {
+        "original": "CCn1cc2c(Br)cccc2n1",
+        "predicted": "COO1cccccCr)ccc22n1"
+    },
+    {
+        "original": "NC(=N)NCc1cccc(F)c1",
+        "predicted": "NC(=N)NCC1ccc((C)c1"
+    },
+    {
+        "original": "Clc1ncnc2[nH]ccc12",
+        "predicted": "Ncc1cccc2[nH]ccc12"
+    },
+    {
+        "original": "N#CC1CC2(C1)OCCS2",
+        "predicted": "C#CCCCCCCCCCCCCCC=1111"
+    },
+    {
+        "original": "Cc1ccc2c(N)ccnc2c1",
+        "predicted": "Nc1ccc2ccN)cccc2c1"
+    },
+    {
+        "original": "NNC(=O)c1cc(Br)cs1",
+        "predicted": "NC=(=O)c1cccCr)cc1"
+    },
+    {
+        "original": "Cc1c(C)c(O)ccc1O",
+        "predicted": "CO1ccOOccO)cc(1O"
+    },
+    {
+        "original": "NCCCCN=C(N)n1cccn1",
+        "predicted": "CCCCCCCC(N)N1ccnn1"
+    },
+    {
+        "original": "Cc1ccccc1C(N)=O",
+        "predicted": "CC1ccccc1C(N)=O"
+    },
+    {
+        "original": "CCCCNC(=S)NC1CCCC1",
+        "predicted": "CCCCCC(=S)NC(CCCC1"
+    },
+    {
+        "original": "C1CCCC2(CCC1)OOCCCOO2",
+        "predicted": "CCCCC2C(CCCC2OCC22222"
+    },
+    {
+        "original": "Nc1oc(CC#N)nc1C#N",
+        "predicted": "NC1nc(nl#N)cc1C#N"
+    },
+    {
+        "original": "CC(=O)c1ccc(C)c(C)c1",
+        "predicted": "CCC=O)c1ccc2C)ccC)c1"
+    },
+    {
+        "original": "CC(C)(C)c1cc(O)ccc1O",
+        "predicted": "CCCC)cC)c1cccO)ccc1"
+    },
+    {
+        "original": "OCCCCC(O)CO",
+        "predicted": "OCC1CCCO)C("
+    },
+    {
+        "original": "Cc1cnnc2ccnn12",
+        "predicted": "Cc1cccc2cccc12"
+    },
+    {
+        "original": "BrC(Br)C(Br)(Br)Br",
+        "predicted": "CrCCBr)CBBr)BBr)Br"
+    },
+    {
+        "original": "CCCCCC(O)C=C",
+        "predicted": "CCCCCCCC)C=C"
+    },
+    {
+        "original": "CCCCOc1nsnc1OC1CCNC1",
+        "predicted": "CCCCCc1nccc1CCC"
+    },
+    {
+        "original": "NC1CC1c1c[nH]cn1",
+        "predicted": "CCcCC1c1ccnH]cn1"
+    },
+    {
+        "original": "O=C1ONC2=C1CNCCC2",
+        "predicted": "CCC1NCC2=C1CCCC22"
+    },
+    {
+        "original": "OCC(O)COc1ccccc1Cl",
+        "predicted": "OCCNO)COc1ccccc1"
+    },
+    {
+        "original": "IC#CCn1nccn1",
+        "predicted": "CC(CCn1ccnn1"
+    },
+    {
+        "original": "OC1CCCCC1Nc1ccccc1",
+        "predicted": "CCCCCcCC1cc1ccccc1"
+    },
+    {
+        "original": "OC(=O)Cc1cccc(F)c1",
+        "predicted": "OC(=O)cc1cccc(O)c1"
+    },
+    {
+        "original": "COC1=CC(=O)C=CC1=O",
+        "predicted": "CCC(=CC==O)C=CC1=C"
+    },
+    {
+        "original": "COC(=O)CCc1ccccc1N",
+        "predicted": "CCc(=O)c(c1ccccc1N"
+    },
+    {
+        "original": "CCC(CC)C=NOCCC(O)=O",
+        "predicted": "CC((CC(C(COC(((O)=O"
+    },
+    {
+        "original": "C1NC(N=C1)c1ccccc1",
+        "predicted": "CNCCCCCC1)c1ccccc1"
+    },
+    {
+        "original": "COc1cc2cnncc2cc1OC",
+        "predicted": "CCc1cccCcccc2c11CC"
+    },
+    {
+        "original": "Fc1ccccc1N1CCNCC1",
+        "predicted": "CC1ccccc1C1CCNCC1"
+    },
+    {
+        "original": "CC1CCNCC1",
+        "predicted": "CCCCCC2C1"
+    },
+    {
+        "original": "CCCc1nnc2ccncc2n1",
+        "predicted": "CCCc1ccc2ccccc2c1"
+    },
+    {
+        "original": "CC1CC(C)(C)NC(=S)S1",
+        "predicted": "CC(CC(C)(C)NC(=S)N1"
+    },
+    {
+        "original": "NCC1(CC(O)=O)CCSCC1",
+        "predicted": "NCCCCCCCO)=O)CCCCC1"
+    },
+    {
+        "original": "CC(C)SSSSC(C)C",
+        "predicted": "CCCC)CSCCC(C)CCC"
+    },
+    {
+        "original": "OCCCS(=O)CC=CSSCC=C",
+        "predicted": "CCCNCC=O)C==C"
+    },
+    {
+        "original": "NCCC1CCCC(CCN)N1",
+        "predicted": "CCCCCCCCCCN1C)C1"
+    },
+    {
+        "original": "OC(=O)c1cc(O)ccc1O",
+        "predicted": "OC(=O)c1cccO)cc(1O"
+    },
+    {
+        "original": "CNC(CS)CCC(O)=O",
+        "predicted": "CCC(CC)C(CCO)=O"
+    },
+    {
+        "original": "NCC(=O)c1ccccc1",
+        "predicted": "NCC(=O)c1ccccc1"
+    },
+    {
+        "original": "CSCCNC(=O)C(C)CS",
+        "predicted": "CCC((C(=O)N(C)("
+    },
+    {
+        "original": "C1CC2CNc3ccccc3N2C1",
+        "predicted": "CCCC2NNC2ccccc3N2C1"
+    },
+    {
+        "original": "CCC1(CC)NC(=O)NC1=O",
+        "predicted": "CC(((C))CC(=O)NC1=O"
+    },
+    {
+        "original": "OC1CCCC1Cc1ccccc1",
+        "predicted": "CCCCCCCCCc1ccccc1"
+    },
+    {
+        "original": "CC1=CC(=O)C=C(C)N1",
+        "predicted": "CC1=CC(=N)N=CCN)N1"
+    },
+    {
+        "original": "N#CC(=Cc1ccncc1)C#N",
+        "predicted": "C#Ccc=Cc1ccccc1)C#N"
+    },
+    {
+        "original": "NC1CC(C=C1F)C(O)=O",
+        "predicted": "CC(CCCCCC1))C(O)=O"
+    },
+    {
+        "original": "Oc1ccc(Cn2ccnc2)cc1",
+        "predicted": "Cc1ccc(CC2cccc2)cc1"
+    },
+    {
+        "original": "NC1Cc2ccccc2CCC1=O",
+        "predicted": "CC(CC2ccccc2CC11=O"
+    },
+    {
+        "original": "Fc1cccc(Cl)c1CCl",
+        "predicted": "Cc1ccccccn)c1"
+    },
+    {
+        "original": "CC(C)(C)CC(C)(C)N",
+        "predicted": "CCCC)CC)C11C)(C)C"
+    },
+    {
+        "original": "CCCC(=O)c1ccccc1",
+        "predicted": "CCCCC=O)c1ccccc1"
+    },
+    {
+        "original": "CC(C)C(O)C(O)=O",
+        "predicted": "CCCC)CCO)C(O)=O"
+    },
+    {
+        "original": "NCC(=N)Nc1cccc(CN)c1",
+        "predicted": "NC((=N)Nc1ccc((Cl)c1"
+    },
+    {
+        "original": "CC(CO)(CO)NC(=O)CO",
+        "predicted": "NCCC))CCC)CC(NO)CO"
+    },
+    {
+        "original": "CCCCNC(=O)OC#CCI",
+        "predicted": "CCCCCC(=O)CCCC"
+    },
+    {
+        "original": "COc1ccccc1N1CCNCC1",
+        "predicted": "CNc1ccccc1CCCCNCC1"
+    },
+    {
+        "original": "COCC(C)OC(C)=O",
+        "predicted": "CCC((=OCC(C)=O"
+    },
+    {
+        "original": "C=CC1CCC=CC1",
+        "predicted": "CCCCCCCCCCC1"
+    },
+    {
+        "original": "NC1CS(=O)(=O)NC1=O",
+        "predicted": "NC(CCC=O)(=O)CC1=O"
+    },
+    {
+        "original": "ClCC(Cl)=C",
+        "predicted": "CCCC(=l)CCCCCCCCCCCCCC"
+    },
+    {
+        "original": "C#CCOC1CN2CCC1CC2",
+        "predicted": "CCCCCCCCC2CCCCC22"
+    },
+    {
+        "original": "CNC(CS)CC(C)C",
+        "predicted": "CCCCC))CCCC)("
+    },
+    {
+        "original": "OC(CC#N)c1ccccc1",
+        "predicted": "OCcCC#N)c1ccccc1"
+    },
+    {
+        "original": "CCOc1ccccc1OC",
+        "predicted": "CCCc1ccccc1CCCcccccc11"
+    },
+    {
+        "original": "Nc1nc2ccc(N)cc2o1",
+        "predicted": "Nc1cc2ccccN)c22c1"
+    },
+    {
+        "original": "NCC1CC1c1ccccc1",
+        "predicted": "NCC1CC1c1ccccc1"
+    },
+    {
+        "original": "CCCCC(=O)CCCCN=C=S",
+        "predicted": "CCCCCCCO)C((((=C=O"
+    },
+    {
+        "original": "NCCCCNOCCCN",
+        "predicted": "CCCCCCC"
+    },
+    {
+        "original": "Cc1ncc(CO)c(CO)c1O",
+        "predicted": "CC1nc((CO)c(CO)c1C"
+    },
+    {
+        "original": "CC(C)CC(N)C(C)S",
+        "predicted": "CCCC)CCCN)CSC)C"
+    },
+    {
+        "original": "Brc1cnc2ccccc2c1",
+        "predicted": "Crc1ccc2ccccc1c1"
+    },
+    {
+        "original": "CCCCCCCCCCCCOCCCN",
+        "predicted": "CCCCCCCCCCCCCCCCC"
+    },
+    {
+        "original": "CCC(C)CN",
+        "predicted": "CCCCC)CC"
+    },
+    {
+        "original": "O=C1SCCN1Cc1ccccc1",
+        "predicted": "C=C1CCCC1Cc1ccccc1"
+    },
+    {
+        "original": "CCCCc1oc2ccccc2c1C",
+        "predicted": "CCCCC1cc2Ccccc2n1"
+    },
+    {
+        "original": "COCCCCOc1ccc(C=O)cc1",
+        "predicted": "CCcCCCCc1ccc(O=O)cc1"
+    },
+    {
+        "original": "Oc1ccc(Cl)cc1Cl",
+        "predicted": "Oc1ccc(cl)cc1Cl"
+    },
+    {
+        "original": "CN1CCN(C)C1=O",
+        "predicted": "CC1CCC(CCC(=O"
+    },
+    {
+        "original": "CCOC(OCC)P(O)(=O)CCCN",
+        "predicted": "CC(CCO)COC(O)(OO)COOO"
+    },
+    {
+        "original": "NCC(O)CC(O)=O",
+        "predicted": "CCCCC)CCCO)=O"
+    },
+    {
+        "original": "CCCC(=O)OCc1ccccc1",
+        "predicted": "CCCC(CO)cCc1ccccc1"
+    },
+    {
+        "original": "OCCCCCCCCC=C",
+        "predicted": "CCCCCCCCCCCCCCCC"
+    },
+    {
+        "original": "CN(C)C1(CC1)C(O)=O",
+        "predicted": "CC(C)C(CCCC)C(O)=O"
+    },
+    {
+        "original": "OCCCCl",
+        "predicted": "OC11CC"
+    },
+    {
+        "original": "CCCC1C(=O)SC(C)C1=O",
+        "predicted": "CCCCCCCCO)CC(=)(1"
+    },
+    {
+        "original": "c1ccc(nc1)-c1ccccn1",
+        "predicted": "C1ccc(cc1)-c1ccccc1"
+    },
+    {
+        "original": "CCSCC1OC(O)C(O)C1O",
+        "predicted": "CCCCCCCC(O)C(O)C1O"
+    },
+    {
+        "original": "CC1CCCC(C)=CC=C1",
+        "predicted": "CCCCCC((C1=CC1C1"
+    },
+    {
+        "original": "CC1(C)C2CC1C(=C)CC2",
+        "predicted": "CCCCC)CCCCCCCCC2CC2"
+    },
+    {
+        "original": "O=C1CCCc2ncccc12",
+        "predicted": "C=C1CCCC2ccccc12"
+    },
+    {
+        "original": "O=C=O",
+        "predicted": "C=N1N"
+    },
+    {
+        "original": "CC1OC=CC(=O)C1O",
+        "predicted": "CCCCC(CC(=O)C(N"
+    },
+    {
+        "original": "COC(=O)C1CNC=NC1",
+        "predicted": "CCC(=O)CCCCC(CC1"
+    },
+    {
+        "original": "OC(=O)C1OC1C(O)=O",
+        "predicted": "OC(=O)C(CC1C(=)=O"
+    },
+    {
+        "original": "C1CCNCC1",
+        "predicted": "CCCCC2C1"
+    },
+    {
+        "original": "BrC1=CC(=O)NC1=O",
+        "predicted": "Orc1=CC(=O)NC==O"
+    },
+    {
+        "original": "CC1NNC(CO)C(O)C1O",
+        "predicted": "CCCNCC(CO)C(O)C1O"
+    },
+    {
+        "original": "CSC1=NC(SN1)=NN",
+        "predicted": "NCC1=NN(=)))CNN"
+    },
+    {
+        "original": "CCCCCNC(=O)OCCCC#C",
+        "predicted": "CCCCCCC(=O)CCCCCCC"
+    },
+    {
+        "original": "CCCCCCCC(=O)C(O)CC",
+        "predicted": "CCCCCCCCCCO)C(O)COOC"
+    },
+    {
+        "original": "OC(=O)c1cc[nH]c1",
+        "predicted": "NC(=O)c1cccnH]c1"
+    },
+    {
+        "original": "C1CC2CCC1N2c1ccncc1",
+        "predicted": "CCCC2NC1122c1ccccn2"
+    },
+    {
+        "original": "S=C1NC(=NO1)c1cnccn1",
+        "predicted": "N=C1NN==N11)c1ccccc1"
+    },
+    {
+        "original": "CCCCCCc1nnc(N)s1",
+        "predicted": "CCCCCCC1nn[(N)s1"
+    },
+    {
+        "original": "COc1ccccc1CN1CCSCC1",
+        "predicted": "CNc1ccccc1C11CCNCC1"
+    },
+    {
+        "original": "OC1=C(O)C(=O)CC1",
+        "predicted": "CC(CCCC)CC=O)C=CC"
+    },
+    {
+        "original": "OCCNC(=S)c1cccnc1S",
+        "predicted": "CCCNcc=S)N1cccnc1"
+    },
+    {
+        "original": "NC1CCc2n[nH]cc2C1",
+        "predicted": "NCCCCC2ncnH]cc2C1"
+    },
+    {
+        "original": "Nc1cc(Cl)c(N)cc1Cl",
+        "predicted": "Nc1ccccl)ccC)cc1"
+    },
+    {
+        "original": "Oc1cccc(Nn2cccc2)c1",
+        "predicted": "Nc1ccc22cc1cccc2)cc"
+    },
+    {
+        "original": "CC=C(NC(C)=O)C=C",
+        "predicted": "CC(CCCC(=)=O)N=C"
+    },
+    {
+        "original": "COc1cccc(c1)C(O)=O",
+        "predicted": "COc1ccc((C1)C(O)=O"
+    },
+    {
+        "original": "CNC(C)C(=O)NCc1ccccc1",
+        "predicted": "CCC(=)C(=O)Ncc1cccsc1"
+    },
+    {
+        "original": "CN(O)c1ccccn1",
+        "predicted": "CC(C)c1ccccc1"
+    },
+    {
+        "original": "OC(=O)CC=CCC(O)=O",
+        "predicted": "CC(=O)CCCCCC(O)=O"
+    },
+    {
+        "original": "CN(C)c1ncccn1",
+        "predicted": "CN1C)c1cc2221"
+    },
+    {
+        "original": "CCON(CC)N=O",
+        "predicted": "CCCC=CCCN=O"
+    },
+    {
+        "original": "N#CCCn1ncc2ccccc12",
+        "predicted": "C#CCCc1cc22ccccc12"
+    },
+    {
+        "original": "C1CCN2CCc3ccsc3C2C1",
+        "predicted": "CCCCC2CCC3cccc3C2C1"
+    },
+    {
+        "original": "COc1ccc(Br)c(C)c1",
+        "predicted": "CNc1ccccCr)ccC)c1"
+    },
+    {
+        "original": "CCCCCCCCn1ccnc1",
+        "predicted": "CCCCCCCCC1ccnc1"
+    },
+    {
+        "original": "Oc1cccc(F)c1",
+        "predicted": "Oc1cccc2c)c1"
+    },
+    {
+        "original": "CC(=O)C#Cc1ccccc1",
+        "predicted": "CC(=O)c=Cc1ccccc1"
+    },
+    {
+        "original": "CN1CCC(CC1)=NOCCCC#C",
+        "predicted": "CC1CCCCCC1)CNNCCC11C"
+    },
+    {
+        "original": "C1COc2ccccc2CN1",
+        "predicted": "CCCCc2ccccc2CN1"
+    },
+    {
+        "original": "NC(=O)CCO",
+        "predicted": "C#1=O)CCCN"
+    },
+    {
+        "original": "CCc1cncc(c1)C1CCCN1C",
+        "predicted": "CCC1ccc(cC1)C1CCCN1C"
+    },
+    {
+        "original": "OC(=O)C1CC(C1)C(O)=O",
+        "predicted": "CC(=O)CCCCC=C)C#O)=O"
+    },
+    {
+        "original": "OCC(O)C1OC(=O)C(O)=C1O",
+        "predicted": "OC((=)C(CC(=O)CCO)CO"
+    },
+    {
+        "original": "OCCNC(=O)Cc1ccccc1",
+        "predicted": "CCCNC(=O)cc1ccccc1"
+    },
+    {
+        "original": "CCc1ccco1",
+        "predicted": "OCC1nc((1"
+    },
+    {
+        "original": "CCOC(=O)c1cccc(O)c1O",
+        "predicted": "CC(c(=O)c1ccc((O)c1O"
+    },
+    {
+        "original": "CN(N=O)c1ccc(cc1)N=O",
+        "predicted": "CC1C=O)c1ccc(Cc1)C=O"
+    },
+    {
+        "original": "Cc1cc(O)cc(O)c1Cl",
+        "predicted": "Cc1cc(C)c((C)c1"
+    },
+    {
+        "original": "CC1(CI)CC2CCCCC2O1",
+        "predicted": "CCCCCC)CCCCCCCC2C1"
+    },
+    {
+        "original": "CC1OC(=O)C(C)=C1",
+        "predicted": "CC(CC(=O)C(C1=C1"
+    },
+    {
+        "original": "NCC(CC(O)=O)Cc1ccco1",
+        "predicted": "NCCCCCCO)=O)Cc1cccc1"
+    },
+    {
+        "original": "CCCCNC(=O)NC1CCCC1",
+        "predicted": "CCCCCC(=O)NCCCCCC1"
+    },
+    {
+        "original": "COc1ccccc1CCCNC(C)=O",
+        "predicted": "CCc1cccc(1CCCCC(C)=O"
+    },
+    {
+        "original": "NC1CCC(C1Br)C(O)=O",
+        "predicted": "NCCCCCCC1)r)C(O)=O"
+    },
+    {
+        "original": "C=COCCOCCOC=C",
+        "predicted": "CCCCC11NC=CCC"
+    },
+    {
+        "original": "Cc1cc(C)c(N)cc1C",
+        "predicted": "Cc1nc(N)c(N)cc1C"
+    },
+    {
+        "original": "CN1CCC(CC1)c1ccncc1",
+        "predicted": "CN1CCCCC11)c1ccccc1"
+    },
+    {
+        "original": "NCCCCCCCCC#CCCCCN",
+        "predicted": "CCCCCCCCCCCC"
+    },
+    {
+        "original": "O=C1NSN=C1N1CCCCCC1",
+        "predicted": "CCC1NCC=C1NCCCCCC11"
+    },
+    {
+        "original": "NCC(=CF)c1ccccc1",
+        "predicted": "CCC(=C))c1ccccc1"
+    },
+    {
+        "original": "CN1CCCCC1CCc1ccccc1",
+        "predicted": "CC1CCCC11Ccc1ccccc1"
+    },
+    {
+        "original": "CC1NC(CO)C(O)C1O",
+        "predicted": "CCCCCCCO)C(O)C1O"
+    },
+    {
+        "original": "OCC1COc2ccc(Cl)cc2N1",
+        "predicted": "CCC1NCc2cc((Ol)cc2C1"
+    },
+    {
+        "original": "COC1=NC(=O)N(C)C=C1",
+        "predicted": "CCC(=CC(=O)C=CCC=C1"
+    },
+    {
+        "original": "OC(=O)COCc1ccccc1",
+        "predicted": "OC(=O)CCCc1ccccc1"
+    },
+    {
+        "original": "O=C1N=CNc2cc[nH]c12",
+        "predicted": "C=C1NNCNc2nccnH]c12"
+    },
+    {
+        "original": "CN(CC#N)N=O",
+        "predicted": "CC(CCCN)C=O"
+    },
+    {
+        "original": "NC(=N)NCCc1cccc(I)c1",
+        "predicted": "NC(=N)NCCc1ccc((F)c1"
+    },
+    {
+        "original": "NC1C(CO)CN(O)C1=O",
+        "predicted": "NC(CCCC)C(C=)C(=O"
+    },
+    {
+        "original": "CCCCCN1CCCN=C1C=NO",
+        "predicted": "CCCCCC1CCCC=C1"
+    },
+    {
+        "original": "CC(CN)CC(O)=O",
+        "predicted": "CCCC))C((O)=O"
+    },
+    {
+        "original": "Nc1c2ccccc2cc2ccccc12",
+        "predicted": "Nc1ccccccc2c22cccc112"
+    },
+    {
+        "original": "CC(O)CCO",
+        "predicted": "Cc(N)cS#cccccccccccccc"
+    },
+    {
+        "original": "C1NC(CC=C1)c1cccnc1",
+        "predicted": "CCCCCCC1C1)c1cccnc1"
+    },
+    {
+        "original": "Nc1nc(cs1)-c1ccco1",
+        "predicted": "Nc1cccnc1)-c1cccc1"
+    },
+    {
+        "original": "Nc1ccc2CCCNCc2c1",
+        "predicted": "CC1ccc2CCCccc2c1"
+    },
+    {
+        "original": "Brc1ncccc1OCC1CCN1",
+        "predicted": "Crc1ccccc1NCC1CNN1"
+    },
+    {
+        "original": "CC(=O)OCCOCBr",
+        "predicted": "CCCCO)OC1CCCr"
+    },
+    {
+        "original": "Cc1ccc(N)c(N)c1",
+        "predicted": "Cc1ccc2N)ccN)c1"
+    },
+    {
+        "original": "CCC=CCCOC(=O)C(C)C",
+        "predicted": "CCCCCCCCC(=O)C(C)C"
+    },
+    {
+        "original": "CCCCCC(O)CCO",
+        "predicted": "CCCCCCCO)COO"
+    },
+    {
+        "original": "Nc1nnnn1N=Cc1ccco1",
+        "predicted": "Nc1nccc1N=Cc1cccc1"
+    },
+    {
+        "original": "Cn1cnc(C#N)c1N",
+        "predicted": "CC1ccc2NCC)c1C"
+    },
+    {
+        "original": "NC1CCCC(=C1)c1ccccc1",
+        "predicted": "NCCCCcc1NC1)c1ccccc1"
+    },
+    {
+        "original": "C1CCC(CC1)C1OOCCCOO1",
+        "predicted": "CCCCC2CC1)C1CCCCC122"
+    },
+    {
+        "original": "CCCCCCCCCCCC(Cl)=O",
+        "predicted": "CCCCCCCCCCCCCC))=O"
+    },
+    {
+        "original": "CNC(=S)SCCOc1ccccc1",
+        "predicted": "CCC(=S)NCccc1ccccc1"
+    },
+    {
+        "original": "CN(N=O)c1cccnc1",
+        "predicted": "Cc1C=O)c1ccccc1"
+    },
+    {
+        "original": "CC(O)CBr",
+        "predicted": "NCCC)C1r"
+    },
+    {
+        "original": "OCCCc1c[nH]cn1",
+        "predicted": "CCC1c1cnnH]cn1"
+    },
+    {
+        "original": "O=S1(=O)CC=CC1",
+        "predicted": "C=N1(=O)C==C11"
+    },
+    {
+        "original": "CC=CC(=O)Nc1ccccc1",
+        "predicted": "CC(CC==O)Nc1ccccc1"
+    },
+    {
+        "original": "CC(N)(CF)C(O)=O",
+        "predicted": "NC(N)(CC)C(O)=O"
+    },
+    {
+        "original": "ONC(=O)C=CC=Cc1ccccc1",
+        "predicted": "NNC(=O)c=Cc=Cc1ccccc1"
+    },
+    {
+        "original": "CCCCCCCCCC=CC(C)=O",
+        "predicted": "CCCCCCCCCCCCC(=)CO"
+    },
+    {
+        "original": "CN(C)CC#CCN(C)C(C)=O",
+        "predicted": "CC1C)CCCCCC1C)C(C)=O"
+    },
+    {
+        "original": "NC1CCOc2ccccc2C1O",
+        "predicted": "NCCCCcc2ccccc1C1O"
+    },
+    {
+        "original": "CCC1(C)CC(=C)C(=O)O1",
+        "predicted": "CCC((CCCCC=O)C(=O)O1"
+    },
+    {
+        "original": "CCCCCCC#CC(=O)OC",
+        "predicted": "CCCCCCCCCCC=O)OCCC"
+    },
+    {
+        "original": "Nc1ncc(O)c(N)n1",
+        "predicted": "Nc1nc((N)c(N)c1"
+    },
+    {
+        "original": "CN(CC#N)C1CCCCC1O",
+        "predicted": "CC(C)OC)CCCCCC11"
+    },
+    {
+        "original": "CC(C)C1CCC(C)CC1O",
+        "predicted": "CCCC)CCCCC(CO(C1O"
+    },
+    {
+        "original": "OC(C1CCCCC1)C(O)=O",
+        "predicted": "OC(=CCCCC11)C(O)=O"
+    },
+    {
+        "original": "Cc1ncc(CO)c(N)c1O",
+        "predicted": "NC1nc((CO)c(C)c1C"
+    },
+    {
+        "original": "CCON=CNc1cccc(CC)c1",
+        "predicted": "CCCc=C(c1ccc((C))c1"
+    },
+    {
+        "original": "OC(=O)c1cc2CCCc2s1",
+        "predicted": "CC(=O)C1cccCCCc2s1"
+    },
+    {
+        "original": "CN1CCOCCOCCN(C)C1=O",
+        "predicted": "CC1CCCC(1CCC1C)C==O"
+    },
+    {
+        "original": "CC1Cc2ccc(F)cc2C1=O",
+        "predicted": "CCCCC2ccccC)cc2C1=O"
+    },
+    {
+        "original": "CC(C)=CCCC(C)=CC=NO",
+        "predicted": "CCCC)CCCCC(C)=CCOCO"
+    },
+    {
+        "original": "CCCN(CCC)C(S)=S",
+        "predicted": "CCCC(CCCCC(C)=S"
+    },
+    {
+        "original": "CNC(C)C(O)=O",
+        "predicted": "CC1(CSC(O)=O"
+    },
+    {
+        "original": "NCCCF",
+        "predicted": "CCCCC"
+    },
+    {
+        "original": "CC(C)CSC(N)=N",
+        "predicted": "CCCC)CCC(N)=N"
+    },
+    {
+        "original": "Cn1cc(C=O)c2ccccc12",
+        "predicted": "CC1cccC=O)ccccccc12"
+    },
+    {
+        "original": "CON=CC(C)=Cc1ccco1",
+        "predicted": "CCc=Cc1=)cNC1ccnn1"
+    },
+    {
+        "original": "CC=NOCC1CCCN1C",
+        "predicted": "CCCCCCC1CCNN1C"
+    },
+    {
+        "original": "CC(C)CC(=O)N=C=S",
+        "predicted": "CCCC)C1(CO)C1O=O"
+    },
+    {
+        "original": "O=Cc1cocn1",
+        "predicted": "C=N11ccc21"
+    },
+    {
+        "original": "CCCCCCCCCCCCNCCOC",
+        "predicted": "CCCCCCCCCCCCC"
+    },
+    {
+        "original": "CNc1cc(F)nc(F)n1",
+        "predicted": "CC11nc(C)cc(N)c1"
+    },
+    {
+        "original": "CN(N=O)c1ccc(O)cc1",
+        "predicted": "Cc(C=O)c1ccccO)cc1"
+    },
+    {
+        "original": "OCC1NCC(O)C(O)C1O",
+        "predicted": "OCC1NCC(O)C(O)C1O"
+    },
+    {
+        "original": "OCCCc1c(O)ccc2ccccc12",
+        "predicted": "NCCNN1ccO)ccccccccc12"
+    },
+    {
+        "original": "CCN(CC)c1cccc(C)c1",
+        "predicted": "CCC(CCCC1cccccO)c1"
+    },
+    {
+        "original": "CCCCCCCC(=O)OC",
+        "predicted": "CCCCCCCCCCO)OCCC"
+    },
+    {
+        "original": "CCCCCCCCCCCCCCCCCO",
+        "predicted": "CCCCCCCCCCCCCCCCCC"
+    },
+    {
+        "original": "Oc1ccc2cnccc2c1C=O",
+        "predicted": "OC1ccccCcccc2c1CCO"
+    },
+    {
+        "original": "Cc1ccnc2ccnn12",
+        "predicted": "Cc1nccc2ccnc12"
+    },
+    {
+        "original": "COC(=O)C(C)N",
+        "predicted": "CCC(=O)C(N)C"
+    },
+    {
+        "original": "ClC(Cl)C1OCCCCCO1",
+        "predicted": "CCCCC1)C1CCCCN111"
+    },
+    {
+        "original": "Nc1nc2ccc(I)cc2s1",
+        "predicted": "Nc1nc2ccccB)cc2s1"
+    },
+    {
+        "original": "NC1CCc2c(O)cccc2C1",
+        "predicted": "NCCCCc2ccO)cccc2C1"
+    },
+    {
+        "original": "OC1CNC(C#N)C(O)C1O",
+        "predicted": "OCCCNC(O1N)C(O)C1O"
+    },
+    {
+        "original": "O=C1NN=C(O1)c1cnccn1",
+        "predicted": "O=C1Nc=CcN1)c1ccccc1"
+    },
+    {
+        "original": "CN1CN(C)C(Cl)=C1Cl",
+        "predicted": "CC1CC=CCC==))CCC"
+    },
+    {
+        "original": "CCCCSC(=O)C(C)O",
+        "predicted": "CCCCCC(=O)N(C)("
+    },
+    {
+        "original": "OC(=O)c1ccc(I)cc1",
+        "predicted": "OC(=O)c1ccc(C)cc1"
+    },
+    {
+        "original": "CCCN(N)c1nc2ccccc2o1",
+        "predicted": "CC(NCNC=1cc2ccccc2o1"
+    },
+    {
+        "original": "CCc1ccc(cc1)C(O)=O",
+        "predicted": "CCC1ccc(cc1CC(O)=O"
+    },
+    {
+        "original": "NNC(=O)c1csc(N)n1",
+        "predicted": "NC=(=O)c1ccccN)c1"
+    },
+    {
+        "original": "O=N(=O)c1ccccc1",
+        "predicted": "C=N(=O)c1ccccc1"
+    },
+    {
+        "original": "Clc1ccc(Cl)c2ccccc12",
+        "predicted": "Clc1cccccn)ccccccc12"
+    },
+    {
+        "original": "CN1CCCC1COc1cccnc1",
+        "predicted": "CN1CCCC1COc1cccnc1"
+    },
+    {
+        "original": "CC(=O)Oc1ccc(Cl)cc1C",
+        "predicted": "CCCCO)cC1ccc(C))cc1"
+    },
+    {
+        "original": "CCc1ccc(CC2=NCCN2)cc1",
+        "predicted": "CCC1ccc(CC(=NCCN2)c11"
+    },
+    {
+        "original": "CN1CCCC1c1cncc(Cl)c1",
+        "predicted": "CC1CCCC1C1cccc(C))c1"
+    },
+    {
+        "original": "CNC(=S)c1ncccc1N",
+        "predicted": "Ncc(=S)c1ccccc1N"
+    },
+    {
+        "original": "Cc1cccc(c1)-c1cccnc1",
+        "predicted": "CC1cccccc1)-c1ccccc1"
+    },
+    {
+        "original": "ONC(=O)c1cc2sccc2s1",
+        "predicted": "NNC(=O)c1ccccccc2s1"
+    },
+    {
+        "original": "Sc1cccc(Cl)c1",
+        "predicted": "C(1ccccccl)c1"
+    },
+    {
+        "original": "CCCCCCCCCCCCCCCCI",
+        "predicted": "CCCCCCCCCCCCCCCCC"
+    },
+    {
+        "original": "CCCCCCCCCCCC",
+        "predicted": "CCCCCCCCCCCCC"
+    },
+    {
+        "original": "N#CCCOCCOCCC#N",
+        "predicted": "CCCCCCCCCCC##N"
+    },
+    {
+        "original": "NCC(O)c1cccc(Cl)c1",
+        "predicted": "NCC1O)c1cccccCl)c1"
+    },
+    {
+        "original": "Cc1ncc[nH]1",
+        "predicted": "CC1nc((nH]1"
+    },
+    {
+        "original": "c1cnc(nc1)-c1cccnc1",
+        "predicted": "C1ccc(c11)-c1cccnc1"
+    },
+    {
+        "original": "OC(=O)CN1CCC(CS)C1=O",
+        "predicted": "CC(=O)CC1CCCC=C)C1=O"
+    },
+    {
+        "original": "Cc1cc(N)nc(CCCCF)c1",
+        "predicted": "CC1cccC)cc(C))NN)c1"
+    },
+    {
+        "original": "CC1NC(=O)N(C)C1=O",
+        "predicted": "CC1CC(=O)NCCCC1=O"
+    },
+    {
+        "original": "CCC(C)N=C=S",
+        "predicted": "CCCCC)C(C=S"
+    },
+    {
+        "original": "CCCCSCCNCCN",
+        "predicted": "CCCCCCCC"
+    },
+    {
+        "original": "Nc1nnc2cncc(Cl)n12",
+        "predicted": "Nc1ccc2cccccNl)c12"
+    },
+    {
+        "original": "CCC(=O)OC(=O)CC",
+        "predicted": "CC((=O)OCCCO)C(CCC"
+    },
+    {
+        "original": "CCc1c(O)cccc1O",
+        "predicted": "CCC1ccO)ccc(1O"
+    },
+    {
+        "original": "NCCOc1ccccc1",
+        "predicted": "NCCCc1ccccc1"
+    },
+    {
+        "original": "OC(=O)c1cccc(Br)c1",
+        "predicted": "OC(=O)c1cccc(Cr)c1"
+    },
+    {
+        "original": "CCCCCOc1ccccc1OCC",
+        "predicted": "CCCCCCc1ccccc1OCC"
+    },
+    {
+        "original": "Oc1ccccc1Oc1ccccc1",
+        "predicted": "Oc1cccc21Cc1ccccc1"
+    },
+    {
+        "original": "OP(O)(=O)OCCCN1CC1",
+        "predicted": "OC(O)(=O)CCCCC1CCC"
+    },
+    {
+        "original": "NC1=NC(=O)Nc2ccccc12",
+        "predicted": "NC(=Nc(=O)cc2ccccc12"
+    },
+    {
+        "original": "C1CCN2CCc3cccnc3C2C1",
+        "predicted": "CNCCC2CCC3ccccc3C2C1"
+    },
+    {
+        "original": "OC(=O)c1cccnn1",
+        "predicted": "OC(=O)c1ccccc1"
+    },
+    {
+        "original": "NCC(O)c1ccc(O)c(O)c1",
+        "predicted": "NCC(O)c1ccc(O)c(O)c1"
+    },
+    {
+        "original": "Cc1ccc2ccc(Cl)cc2n1",
+        "predicted": "Cc1ccc2ccccC))cc2c1"
+    },
+    {
+        "original": "NN1CCNCC1",
+        "predicted": "CCCCCCCC1"
+    },
+    {
+        "original": "CCC1=C(O)C(=O)C=CN1C",
+        "predicted": "CCCC=CCO)C==C)C=CO1"
+    },
+    {
+        "original": "NC(=N)NCc1cccc(Cl)c1",
+        "predicted": "NC(=N)NCC1ccc((Cl)c1"
+    },
+    {
+        "original": "CC=CC(O)=O",
+        "predicted": "CC(CC(O)=O"
+    },
+    {
+        "original": "CS(=O)CCCCCCN=C=S",
+        "predicted": "CCC=O)CCCCCCC=C=S"
+    },
+    {
+        "original": "CS(=O)(=O)SCc1ccccc1",
+        "predicted": "Ccc=O)(=O)ccc1ccccc1"
+    },
+    {
+        "original": "Cc1cccnc1-c1cccnc1",
+        "predicted": "Cc1ccccc1Cc1ccccc1"
+    },
+    {
+        "original": "C1CCCC1",
+        "predicted": "CCCC22C"
+    },
+    {
+        "original": "Cc1cccnc1NC(N)=S",
+        "predicted": "Nc1ccc(c1Nc(=)=S"
+    },
+    {
+        "original": "CSc1ccccc1C1=NCCN1",
+        "predicted": "CNc1ccccc1N1CNNCN1"
+    },
+    {
+        "original": "SC(=S)NN=Cc1cnccn1",
+        "predicted": "CCC=N)NC=Cc1ccccc1"
+    },
+    {
+        "original": "NCCCCNC(=N)CCl",
+        "predicted": "CCCCCCC(=N)NCC"
+    },
+    {
+        "original": "CCCCCc1ccco1",
+        "predicted": "CCCCCC1ccc(1"
+    },
+    {
+        "original": "OC1=C(Br)C=CC=CC1=O",
+        "predicted": "C=(=CCBr)C=CC(C11=O"
+    },
+    {
+        "original": "COC(=O)NN=Cc1cccnc1",
+        "predicted": "CCC(=O)CC=Cc1cccnc1"
+    },
+    {
+        "original": "CCOC(=O)c1ccc(O)cc1O",
+        "predicted": "CC(C(=O)c1ccc(O)cc1"
+    },
+    {
+        "original": "SC(S)=S",
+        "predicted": "C((=)=O"
+    },
+    {
+        "original": "CCCCC(=O)c1ccc(F)cc1",
+        "predicted": "CCCCCC=O)c1ccc(O)cc1"
+    },
+    {
+        "original": "Clc1ccc2cc[nH]c2c1",
+        "predicted": "Nlc1ccc2[ccnH]c2c1"
+    },
+    {
+        "original": "CCN1CCCC1c1cccnc1",
+        "predicted": "CCC(CCCC1C1cccnc1"
+    },
+    {
+        "original": "O=CC=Cc1ccccc1",
+        "predicted": "C=C1=Cc1ccccc1"
+    },
+    {
+        "original": "CCc1cnc(C)c(C)n1",
+        "predicted": "CCC1ncc(CCc(C)c1"
+    },
+    {
+        "original": "CCCCCN1CCCC1=N",
+        "predicted": "CCCCCCCCCCCC=NN1C"
+    },
+    {
+        "original": "CCCCCCC1=CCOOC1",
+        "predicted": "CCCCCCCCCCCCCC1"
+    },
+    {
+        "original": "NC(=O)CSCC(N)=O",
+        "predicted": "CC(=O)CCCC(O)=O"
+    },
+    {
+        "original": "OC1CCN(C1)C(=O)C=C",
+        "predicted": "CCCCCC2CC)C(=O)C=C1111"
+    },
+    {
+        "original": "NC1CCc2ccccc2CC1O",
+        "predicted": "NCCCCC2ccccc2C11O"
+    },
+    {
+        "original": "CC1CCN(CC1)N=O",
+        "predicted": "CCCCCC2CC1)N=O"
+    },
+    {
+        "original": "OC1CNCC(O)C(O)C1O",
+        "predicted": "OCCCNCC(O)C(O)C1O"
+    },
+    {
+        "original": "CNC(C)CNCc1ccccc1",
+        "predicted": "CCCCC)CcCc1ccccc1"
+    },
+    {
+        "original": "OC(=O)CCCc1c[nH]cn1",
+        "predicted": "CC(=O)CCCC1ccnH]cn1"
+    },
+    {
+        "original": "CCCCCCCCN1CCCCC1",
+        "predicted": "CCCCCCCCC(CCCCC1"
+    },
+    {
+        "original": "CCC(N)Cc1ccc(SC)cc1",
+        "predicted": "CCCCN)Cc1ccc(CC)cc1"
+    },
+    {
+        "original": "CCN(CC(O)=O)CC(O)=O",
+        "predicted": "CCC1CCCO)=O)C((O)=O"
+    },
+    {
+        "original": "CCN(C)CCOc1ccc(Br)nc1",
+        "predicted": "CCC(CCCCcc1ccccCr)cc1"
+    },
+    {
+        "original": "CC(CCO)CC(C)(C)C",
+        "predicted": "CCCC)C)CCCC)(C)C"
+    },
+    {
+        "original": "Cc1ccc(o1)C1CCCN1",
+        "predicted": "CC1cc((C1)C1CCCN1"
+    },
+    {
+        "original": "O=C(CC#N)NC1CCCC1",
+        "predicted": "C=C1NC1N)N11CCCC1"
+    },
+    {
+        "original": "CSCCC(N)C(=O)NO",
+        "predicted": "CCC(((N)C(=O)NO"
+    },
+    {
+        "original": "O=C1COc2ccccc12",
+        "predicted": "C=C1CCC2ccccc22"
+    },
+    {
+        "original": "OCCOCN1CN=CC(F)C1=O",
+        "predicted": "OCC1CC1CC(CC1O)C1=O"
+    },
+    {
+        "original": "Nc1ccc(cc1N)-c1cccs1",
+        "predicted": "Nc1ccc2Nc1N)Nc1cccn1"
+    },
+    {
+        "original": "Cc1ncc(s1)C(O)=O",
+        "predicted": "CC1nc((C1)C(O)=O"
+    },
+    {
+        "original": "C1C2CCNCC1c1ccccc21",
+        "predicted": "CCCCCCNCC221ccccc21"
+    },
+    {
+        "original": "CC(C)C(=NO)c1ccccc1",
+        "predicted": "CC(C)ccONO)c1ccccc1"
+    },
+    {
+        "original": "C=CCOCCCc1c[nH]cn1",
+        "predicted": "CCCCCCCCC1c[nH]cn1"
+    },
+    {
+        "original": "NC1C(=O)Cc2ccccc12",
+        "predicted": "NCCCCCO)NC2ccccc12"
+    },
+    {
+        "original": "CCCCCCCOC(=O)C=CC=CC",
+        "predicted": "CCCCCCCCC(=O)C=CC=C"
+    },
+    {
+        "original": "Nc1[nH]c(nc1C#N)C#N",
+        "predicted": "Nc1nnH]cnNc1NlN)n#N"
+    },
+    {
+        "original": "CSc1cccc(NC(C)=O)c1",
+        "predicted": "CCc1ncc((NC(=)=O)c1"
+    },
+    {
+        "original": "CCN1CCNCC1C(O)=O",
+        "predicted": "CCC1CCCC(1CCO)=O"
+    },
+    {
+        "original": "OC(=O)COc1ccc(Br)cc1",
+        "predicted": "OC(=O)CCc1ccccCr)cc1"
+    },
+    {
+        "original": "Oc1ccc2oc3CCCCc3c2c1",
+        "predicted": "CC1ccc(CccCCCCC2c1c1"
+    },
+    {
+        "original": "CNCC=Cc1ccc2OCOc2c1",
+        "predicted": "CC1CCCc1ccc(CCOc2c1"
+    },
+    {
+        "original": "NC1(CC(F)C1)C(O)=O",
+        "predicted": "CC1CCCCF)C1)C(O)=O"
+    },
+    {
+        "original": "CCCCCC(O)c1ccccc1",
+        "predicted": "CCCCCCCO)c1ccccc1"
+    },
+    {
+        "original": "Brc1cncnc1-c1cccs1",
+        "predicted": "Crc1ccccc1"
+    },
+    {
+        "original": "CC(C)COC(=O)C(C)C",
+        "predicted": "CCCC)C1C(=O)C(C)C"
+    },
+    {
+        "original": "NCC(CP(O)=O)c1ccccc1",
+        "predicted": "NCC(Oc(O)=O)c1ccccc1"
+    },
+    {
+        "original": "OCCN1CCN(CCO)CC1",
+        "predicted": "OCC11CCC(CCO)C11"
+    },
+    {
+        "original": "CCOc1ccc(CC(N)=O)cc1",
+        "predicted": "CCCc1ccc(c=(N)=O)cc1"
+    },
+    {
+        "original": "CCCSc1ncccc1C(O)=O",
+        "predicted": "CC((C1ncccc1C(O)=O"
+    },
+    {
+        "original": "CCCCCOc1ccc(OCC)cc1",
+        "predicted": "CCCCCCc1ccccOCCCcc1"
+    },
+    {
+        "original": "Cc1ccsc1C(CN)CC(O)=O",
+        "predicted": "NC1cccc1CCON)C((O)=O"
+    },
+    {
+        "original": "ON=Cc1ccc(o1)N(=O)=O",
+        "predicted": "Oc=C11ccc(C1)C(=O)=O"
+    },
+    {
+        "original": "CCNCCOc1cccc2ccccc12",
+        "predicted": "CCCCCcc1cccccccccc12"
+    },
+    {
+        "original": "NC(=N)NCC(S)C(O)=O",
+        "predicted": "NC(CO)NCC(O)C(O)=O"
+    },
+    {
+        "original": "Cc1n[nH]c2ccccc12",
+        "predicted": "Cc1ccnH]c2ccccc12"
+    },
+    {
+        "original": "CCCCc1cccc(CCC)c1O",
+        "predicted": "CCCCC1ccc((OCC)c1O"
+    },
+    {
+        "original": "NCC=O",
+        "predicted": "CC((C"
+    },
+    {
+        "original": "OC(=O)CCCCC1CCSS1",
+        "predicted": "CC(=O)CCCCCCCCCCC"
+    },
+    {
+        "original": "NCc1ccccc1C(O)=O",
+        "predicted": "NCC1ccc((1CCO)=O"
+    },
+    {
+        "original": "Brc1cccc2[nH]ncc12",
+        "predicted": "Nrc1ccc22[nH]cc112"
+    },
+    {
+        "original": "NCC(O)C1CCC=CC1",
+        "predicted": "CCCC=)C1CCCCCC1"
+    },
+    {
+        "original": "CCCCC=O",
+        "predicted": "CCCCCCC"
+    },
+    {
+        "original": "Oc1ccc(CCI)cc1",
+        "predicted": "Cc1ccccCCC)cc1"
+    },
+    {
+        "original": "Cc1ccc(SCCN)cc1C",
+        "predicted": "CC1ccc(CCCN)c11"
+    },
+    {
+        "original": "Oc1ccc(F)cc1",
+        "predicted": "Oc1ccc(c)c21"
+    },
+    {
+        "original": "CC(N)C(=O)c1ccccc1",
+        "predicted": "CCCC)C(=O)c1ccccc1"
+    },
+    {
+        "original": "OC(=O)C1(SCCCS1)C#N",
+        "predicted": "CC(=O)C1CCCCCC1)C#N"
+    },
+    {
+        "original": "BrC(Br)N(=O)=O",
+        "predicted": "CrC=Br)===O)=O"
+    },
+    {
+        "original": "OCC1NCC(O)C(O)C1O",
+        "predicted": "OCC1NCC(O)C(O)C1O"
+    },
+    {
+        "original": "CCOC(=O)C#C",
+        "predicted": "CCCC(=O)C(CCCCCCCC"
+    },
+    {
+        "original": "CCCCCNCc1cccc(Br)c1",
+        "predicted": "CCCCCCCc1cccc(Cr)c1"
+    },
+    {
+        "original": "CCCOc1cccc(OCC)c1",
+        "predicted": "CCCCc1ccc((CCCCc1"
+    },
+    {
+        "original": "C1CCC(C1)c1ccccc1",
+        "predicted": "CCCC22C1)c1ccccc1"
+    },
+    {
+        "original": "Cc1cccc(O)c1C",
+        "predicted": "CC1ccc((O)c1C"
+    },
+    {
+        "original": "CC=CCO",
+        "predicted": "CCCCCCCCCCCCCCCCCCOOOC"
+    },
+    {
+        "original": "Nc1cccc(F)c1",
+        "predicted": "Nc1ccc22c)c1"
+    },
+    {
+        "original": "OCCN1CC(O)C(O)C1CO",
+        "predicted": "OCC11CCCO)C(O)C1OO"
+    },
+    {
+        "original": "NC(=O)Oc1ccccc1",
+        "predicted": "NC(=O)cc1ccccc1"
+    },
+    {
+        "original": "COCC(=O)Nc1ccccc1Br",
+        "predicted": "COc((=O)cc1cccnn1"
+    },
+    {
+        "original": "C1CNC2NCCNC2N1",
+        "predicted": "CCCCCCCCCCC2C12CC11111"
+    },
+    {
+        "original": "CC=CC1CC(O)C(O)C1",
+        "predicted": "CCCCCCCCCO)C(O)C1O"
+    },
+    {
+        "original": "OCC(O)C(O)C(O)C(O)CO",
+        "predicted": "OCC1O)C(O)C(O)C(O)CO"
+    },
+    {
+        "original": "C1CNCCNCCN1",
+        "predicted": "CCCCCCC11C1"
+    },
+    {
+        "original": "NCC(O)c1ccc(I)c(O)c1",
+        "predicted": "NCCcO)c1ccccC)ccO)c1"
+    },
+    {
+        "original": "CCCNCc1cccc(c1)C#N",
+        "predicted": "CCCCCC1cccc(C1)C#C"
+    },
+    {
+        "original": "CCc1ccc(O)c(c1)C(C)C",
+        "predicted": "CCC1ccc(O)c(C1)C#C)C"
+    },
+    {
+        "original": "Cc1cccc(C)c1S",
+        "predicted": "CC1cccccCCc1CCccccc111"
+    },
+    {
+        "original": "Nc1nc2ccccc2n2cnnc12",
+        "predicted": "Nc1cc2ccccc2c1c11112"
+    },
+    {
+        "original": "Nc1ccccc1Oc1ccccc1",
+        "predicted": "Nc1cccc21Nc1ccccc1"
+    },
+    {
+        "original": "S=C(Nc1ccccc1)C#N",
+        "predicted": "N=C1Nc1ccccc1)c#N"
+    },
+    {
+        "original": "NCC1CCc2c1ccc(O)c2O",
+        "predicted": "NCCCCCc2c(c(((O)c2O"
+    },
+    {
+        "original": "CCCCNC(=O)n1ccnc1C",
+        "predicted": "CCCCCC(=O)c1ccnc1"
+    },
+    {
+        "original": "NC(=O)C(F)(F)F",
+        "predicted": "NC(=O)C(F)(F)F"
+    },
+    {
+        "original": "NN1C(=O)Nc2ccccc12",
+        "predicted": "NCCC(=O)Nc2ccccc12"
+    },
+    {
+        "original": "CC1=CC(N)=NCC1(C)C",
+        "predicted": "CCCCCC(N)CNC(1"
+    },
+    {
+        "original": "COc1cscc1C(N)=O",
+        "predicted": "NCc1cccc1C(N)=O"
+    },
+    {
+        "original": "OCc1ccc2CCNCc2c1",
+        "predicted": "OCC1ccc(CCCCc2c1"
+    },
+    {
+        "original": "Cc1nnc(CCCF)nn1",
+        "predicted": "CC1ncc(CC##)nc1"
+    },
+    {
+        "original": "NCC(=C)c1ccc(I)cc1",
+        "predicted": "NCC(=C)c1ccccO)cc1"
+    },
+    {
+        "original": "Cc1noc(n1)-c1cccnc1",
+        "predicted": "Cc1ccc2n1)-c1ccccc1"
+    },
+    {
+        "original": "CC1OC(CO)C(O)C(O)C1O",
+        "predicted": "OCCCC(OO)C(O)C(O)C1O"
+    },
+    {
+        "original": "NC(=N)NCCCCCCNC(N)=N",
+        "predicted": "NC(=N)NCCCC(((C(N)=N"
+    },
+    {
+        "original": "COP(OC)OC",
+        "predicted": "CCC(=)((CCCCCCCCCCC"
+    },
+    {
+        "original": "CNCCC=Cc1cncnc1",
+        "predicted": "CC11CNCc1ccc(c1"
+    },
+    {
+        "original": "CN(C)CCC1CN=C(N)N1",
+        "predicted": "CCCC)CCCCCC=C(N)N"
+    },
+    {
+        "original": "CCC1NC(N)=Nc2ccccc12",
+        "predicted": "CC((N===)=Nc2ccccc12"
+    },
+    {
+        "original": "OC(C1CCCN1)C(O)=O",
+        "predicted": "CC(=CCCCCC)C(O)=O"
+    },
+    {
+        "original": "COc1cccc(CC2=NCCN2)c1",
+        "predicted": "COc1ccc((CC==NCCN2)c1"
+    },
+    {
+        "original": "NCc1ccccc1Cl",
+        "predicted": "NCC1ccccc1C1"
+    },
+    {
+        "original": "CC1OC(C)=C(O)C1=O",
+        "predicted": "CC(=C(===CCO)C(=N"
+    },
+    {
+        "original": "CC1C(COC1=O)C(C)=O",
+        "predicted": "CC(CC=)C1=O)C(C)=C"
+    },
+    {
+        "original": "Clc1nc(Br)[nH]c1Cl",
+        "predicted": "NlC1nc(Cr)cnH]c1C#"
+    },
+    {
+        "original": "NCC1C(O)CCCc2ccccc12",
+        "predicted": "NCCCCCC)CCC12cccc112"
+    },
+    {
+        "original": "CC1OC1S(=O)(=O)N(C)C",
+        "predicted": "CCCCCC"
+    },
+    {
+        "original": "CCCCCNC(=O)C(N)CCCC",
+        "predicted": "CCCCCCC(=O)C(C)CC"
+    },
+    {
+        "original": "OCC1OC(O)C(O)C(O)C1O",
+        "predicted": "OCC1OC(O)C(O)C(O)C1O"
+    },
+    {
+        "original": "CC(O)(CC=C)c1ccccc1",
+        "predicted": "CC(C)CCC=C)c1ccccc1"
+    },
+    {
+        "original": "CCOC(=O)CN1CCN(C)CC1",
+        "predicted": "CCCC(=O)C11CCC(C)CC1"
+    },
+    {
+        "original": "Oc1ccc2NC(=O)Cc2c1",
+        "predicted": "OC1ccccNC(=O)Nc2c1"
+    },
+    {
+        "original": "OC1COC(=O)C1=C",
+        "predicted": "OC(CCC(=O)C(CC"
+    },
+    {
+        "original": "C1Cc2ccccc2O1",
+        "predicted": "CCCC2ccccc2C1"
+    },
+    {
+        "original": "CCCCN1CCN=C1C=NO",
+        "predicted": "CCCCC1CCC=C(N=NO"
+    },
+    {
+        "original": "CC(C)Oc1ccc2nnnn2n1",
+        "predicted": "CCOC)cc1ncc(nccc2c1"
+    },
+    {
+        "original": "OC1CCCCC1N1CCOCC1",
+        "predicted": "CC1CCCCC1C2"
+    },
+    {
+        "original": "NC1Cc2ccc3OCOc3c2C1",
+        "predicted": "CCCCC2ccccCCCc3c2C1"
+    },
+    {
+        "original": "NCC(F)CP(O)=O",
+        "predicted": "NCCCO)CP(O)(O"
+    },
+    {
+        "original": "CN1CCCCC1",
+        "predicted": "OC(CCC(11C(CO(((OOOOOO"
+    },
+    {
+        "original": "Cn1cncc1C=O",
+        "predicted": "CC1cccc1CCC"
+    },
+    {
+        "original": "CNCCCNCCSP(O)(O)=O",
+        "predicted": "CCCCCCCCCC(O)(O)=O"
+    },
+    {
+        "original": "CNC(C)CCC=C(C)C",
+        "predicted": "CC11C)CCCCC(C)C"
+    },
+    {
+        "original": "NCCC(N)C(=S)N1CCCCC1",
+        "predicted": "CCCCCN)CCOO)N1CCCCC1"
+    },
+    {
+        "original": "CC=C=CCN(C)Cc1ccccc1",
+        "predicted": "CCCCCCCC1CCCc1ccccc1"
+    },
+    {
+        "original": "OC(=O)CCNC1=NCCN1",
+        "predicted": "CC(=O)CCCC(CNCCC1"
+    },
+    {
+        "original": "CC(C)Cc1cncn1CC1CC1",
+        "predicted": "CCCC)Cc1ccc(cC11"
+    },
+    {
+        "original": "c1cc2ncccn2n1",
+        "predicted": "C1cccccccc2c1"
+    },
+    {
+        "original": "CC1(C)OC2(CI)CC1CCC2",
+        "predicted": "CCCCC)CCCCCC)CCC2222"
+    },
+    {
+        "original": "CCCCC(C)C",
+        "predicted": "OC1CCCOOOOOOOOOOOOOOOO"
+    },
+    {
+        "original": "Nc1c(F)cnc(F)c1F",
+        "predicted": "Nc1ncC)ccc(N)c1C"
+    },
+    {
+        "original": "NCCCCCCCCCCCC(O)=O",
+        "predicted": "CCCCCCCCCCCCC(O)=O"
+    },
+    {
+        "original": "CCC(O)OC(O)CC",
+        "predicted": "CCCCC)CCCC)C((CC"
+    },
+    {
+        "original": "Oc1cc(F)cc2cccnc12",
+        "predicted": "Oc1cccC)c22ccccc12"
+    },
+    {
+        "original": "CCCc1ccc(OC(C)=O)cc1",
+        "predicted": "CCCC1ccc(CC(C)=O)cc1"
+    },
+    {
+        "original": "CCC(CO)Nc1ncccn1",
+        "predicted": "CCCcN))cc1ccccc1"
+    },
+    {
+        "original": "NCCC(N)CSP(O)(O)=O",
+        "predicted": "CCCCCO)CPP(O)(O)=O"
+    },
+    {
+        "original": "COc1cncc(C)n1",
+        "predicted": "Ccc1ncccnC)c1"
+    },
+    {
+        "original": "CN1C2CCC1CC(O)C2",
+        "predicted": "CC(CCCCC1CC(O)C2O11111"
+    },
+    {
+        "original": "CON=CC1=CC2CCN(C2)C1",
+        "predicted": "CCN=C11=CCCCCCCC))C1"
+    },
+    {
+        "original": "CC1=CC(=S)NC(S)=N1",
+        "predicted": "CC(=CC(=S)NC==)=N1"
+    },
+    {
+        "original": "CCOc1ccccc1N",
+        "predicted": "CC(c1ccccc1NC1c111c111"
+    },
+    {
+        "original": "CNCCc1[nH]cnc1C",
+        "predicted": "CCCCc1cnH]cnc1CC1c1111"
+    },
+    {
+        "original": "CC=C(Cl)Cl",
+        "predicted": "CC(CCC))C("
+    },
+    {
+        "original": "CN(C)CCCCc1c[nH]cn1",
+        "predicted": "CCCC)CCCCC1c[nH]cn1"
+    },
+    {
+        "original": "FC(F)(F)COC(F)(F)Cl",
+        "predicted": "CC(F)(F)C1C(F)(F)C1"
+    },
+    {
+        "original": "NNC(=O)c1ccncc1",
+        "predicted": "NCC(=O)c1ccccc1"
+    },
+    {
+        "original": "CCCCC(=O)C=CC",
+        "predicted": "CCCCCC=O)N(CC(CCC"
+    },
+    {
+        "original": "Cn1ccnc1",
+        "predicted": "CC1cnnc1Ccc11111111111"
+    },
+    {
+        "original": "Clc1ccc(N=O)nc1",
+        "predicted": "Clc1ccc2c=O)cc1"
+    },
+    {
+        "original": "CC(=O)Nc1cccnc1",
+        "predicted": "CC(=O)Nc1ccc(c1"
+    },
+    {
+        "original": "CCCc1ccc(CO)cc1",
+        "predicted": "CCCC1ccc(CC)cc1"
+    },
+    {
+        "original": "CN(Cc1cccc(Cl)c1)N=O",
+        "predicted": "CC1C)1cccccC))c1)N=O"
+    },
+    {
+        "original": "Cc1nnc2nccn2c1C",
+        "predicted": "CC1ncc(cccccc1C"
+    },
+    {
+        "original": "ON(CCCCC(O)=O)C=O",
+        "predicted": "CCCCCCCCCO)=O)C=O"
+    },
+    {
+        "original": "CCCCCCC=CC(=O)OC",
+        "predicted": "CCCCCCCCCCC=O)OCCC"
+    },
+    {
+        "original": "NCC=C",
+        "predicted": "CCCCC"
+    },
+    {
+        "original": "Brc1ccccc1Br",
+        "predicted": "Crc1ccccc1"
+    },
+    {
+        "original": "CC1OC(C)OC(C)O1",
+        "predicted": "CC(CCCCl(C(Cl(1"
+    },
+    {
+        "original": "OCCS",
+        "predicted": "OC11C((((OOOOOOOOOOOOO"
+    },
+    {
+        "original": "CP(O)(=O)C1CCC(N)C1",
+        "predicted": "CC(O)(=O)C1CCCCN)C1"
+    },
+    {
+        "original": "O=C(CC#N)Nc1ccccc1",
+        "predicted": "N=C1Nc#N)Nc1ccccc1"
+    },
+    {
+        "original": "ON=CC1=CCOCC1",
+        "predicted": "CC=C11=CCCCC1"
+    },
+    {
+        "original": "Brc1cccc(C=O)c1",
+        "predicted": "CrC1cccccC=O)c1"
+    },
+    {
+        "original": "CN=NNc1[nH]cnc1C(N)=O",
+        "predicted": "NCCCCC1nnH]cnc1NCN)NO"
+    },
+    {
+        "original": "NC(CC1CC1=C)C(O)=O",
+        "predicted": "CC(CCCCC1)C)C(O)=O"
+    },
+    {
+        "original": "CC1OCC2(CCCN(C)C2)O1",
+        "predicted": "CCCCCC2(CCNC(C)C2OO1"
+    },
+    {
+        "original": "CCCCCCNC(=O)n1ccnc1",
+        "predicted": "CCCCCCCC(=O)N1ccnc1"
+    },
+    {
+        "original": "CC(O)C(C)(C)C",
+        "predicted": "CCCC)C(C)(C)C(C"
+    },
+    {
+        "original": "CCc1cccc(OC(C)=O)c1",
+        "predicted": "CCC1ccc((CC(C)=O)c1"
+    },
+    {
+        "original": "CC(C)N1NC(C)=CC1=O",
+        "predicted": "CCCC)CCC===)=NC1=O"
+    },
+    {
+        "original": "ONC(=N)CCC(=N)NO",
+        "predicted": "NCC(=N)NCCCOO)NC"
+    },
+    {
+        "original": "C1Cc2cc3ccccc3n2CCN1",
+        "predicted": "CCCC2cccncccc3C2CNN121"
+    },
+    {
+        "original": "NCC1(CC1F)c1ccccc1",
+        "predicted": "NCCCCCCC))c1ccccc1"
+    },
+    {
+        "original": "NC(NO)=NCCC#C",
+        "predicted": "NC(=))=NCC((C"
+    },
+    {
+        "original": "NC(=O)CCC(N)=O",
+        "predicted": "CC(=O)CCC(N)=O"
+    },
+    {
+        "original": "CCC(=O)Oc1ccccc1SC",
+        "predicted": "CC((OO)OC1ccccc1"
+    },
+    {
+        "original": "CCOC(=O)C1CSC(=O)N1",
+        "predicted": "CC1C(=O)C1CCC(=O)N1"
+    },
+    {
+        "original": "O=C1OCC2CC3OC3CC12",
+        "predicted": "C=C1CCC2CCCCCCC112"
+    },
+    {
+        "original": "CCCC(C)(C)O",
+        "predicted": "CCCCCCCCC)C"
+    },
+    {
+        "original": "CC(F)Cc1cc(C)cc(N)n1",
+        "predicted": "CCcN)cc1cccN)cc(N)n1"
+    },
+    {
+        "original": "Cc1ccc(CC=NNCC#C)cc1",
+        "predicted": "CC1ccc(CC2NOCC#N)cc1"
+    },
+    {
+        "original": "CC(C)OC(=O)C(C)=C",
+        "predicted": "CC(=)=C(=O)C=C)=C"
+    },
+    {
+        "original": "CSc1ccccc1OC(C)=O",
+        "predicted": "CCc1ccccc1CC(=)=O"
+    },
+    {
+        "original": "CC(N)C(=O)c1ccco1",
+        "predicted": "CCCC)C(=O)N1ccco1"
+    },
+    {
+        "original": "COC(C1CNC1)c1ccccc1",
+        "predicted": "CNcCCNCCCC)c1ccccc1"
+    },
+    {
+        "original": "CC1=Cc2ccccc2NC1=O",
+        "predicted": "CC(=CC2ccccc2NC1=O"
+    },
+    {
+        "original": "Fc1cc2[nH]cnc2cc1Cl",
+        "predicted": "Nc1ccccnH]ccc2c11C#"
+    },
+    {
+        "original": "COCC(C)NCc1ccccc1C",
+        "predicted": "CCcCCCCC1C1ccccc1"
+    },
+    {
+        "original": "COc1c(O)cc(C=O)cc1Br",
+        "predicted": "CCc1ccC)cc(C=O)cc1Cr"
+    },
+    {
+        "original": "COC(=O)C1CN2CC1CCC2",
+        "predicted": "CCC(=O)C1CC2CCCCCC2"
+    },
+    {
+        "original": "Oc1ccccc1SSc1ccccc1O",
+        "predicted": "Oc1ccccc1-cc1ccccc1"
+    },
+    {
+        "original": "CC(=O)OC(=O)OC=CCCl",
+        "predicted": "CC(=O)OC(=O)CC(C"
+    }
+]
