@@ -1,4 +1,6 @@
-# Towards Complete Molecular Structure Prediction from Infrared Spectroscopy
+# Toward Complete Molecular Structure Prediction from Infrared Spectroscopy Using Deep Learning
+
+[Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c01834)
 
 This repository provides a deep learning framework for predicting molecular structures using infrared (IR) spectroscopy data.
 
